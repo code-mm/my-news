@@ -1,866 +1,710 @@
 {
-  "generated_at": "2026-11-05 07:33:09",
+  "generated_at": "2026-11-06 07:29:40",
   "categories": {
     "头条": [
       {
-        "title": "江苏各地深入学习贯彻党的二十届五中全会精神 - 新华报业网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRlJsSEswdWNqN0hCbmVnaW80Q19yUEp0VklvLTFVMXQtTXpfd3hyTjZlTC11dVBOR2lIMkRNVkxSSEdfaEpGSENXbldBNXgtSGZCcUdoRGpIX2RzWWZYMTNzeHZ4aVhMNFk0?oc=5",
-        "source": "新华报业网",
-        "published": "Thu, 05 Nov 2026 06:37:00 GMT"
+        "title": "市人大常委会党组传达学习贯彻党的二十届五中全会精神 - 中山网",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ocks3WmVGTHFGT3djdWVBSVNTT01CZUN2OHZMM00teTdsZXJTNUpYYkh1dG5qSWwyYWxjVFh0R2xFTXp0a2hzbHpPYTZwa0c3SW1IOFB5M1BiUjRrSHRvWVZWbTJsZjY1T2U1QUZR?oc=5",
+        "source": "中山网",
+        "published": "Fri, 06 Nov 2026 04:46:12 GMT"
       },
       {
-        "title": "历“九”弥新，中国与世界共享机遇——写在第九届中国国际进口博览会开幕之际 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ckZjUTJLNlBxVlUzaU13YU1EQzcybFNwdlVkUVZoUnctV2RpUE9maEFGSW1RdnpzWGhFMzhQRmRWa0FPOGI5eVQ2bWpNVXFKQWJuQlRfbTJYM2xBbDFsaHM2VGRBN1FndTJqakczbVRRZXA0SjJlVS02MnVKYjA?oc=5",
-        "source": "新华网",
-        "published": "Wed, 04 Nov 2026 23:34:48 GMT"
-      },
-      {
-        "title": "国新办举行新闻发布会 介绍治理黄河80年有关情况 - 四川新闻",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53SEZiZHI2QnFwa1RjM05WQVJCRGtGbVpBaXp1b2VRRC05V19OM3Z3b1Z6MWFZTm02MzhPNU1RT1h5UzBfT1BVY2tWRnZYcTU0WXpnZ1p6MzhJaVZGS3JTRw?oc=5",
-        "source": "四川新闻",
-        "published": "Thu, 05 Nov 2026 06:30:41 GMT"
-      },
-      {
-        "title": "中方回应“美国中期选举” 呼吁和平解决争端 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBieWlsUDQ3dEt1VHJnd2ktaXpqWl9ucG4wemJkNkFEZFVpamgzRTNvNnRPTmVkdDVQdUJQTHhmTlROdmx1V1VyMzIwb1ZzRjlyejNLWHE0OFR4UU4yaW9OTmxLNWk4YzdENng1VW5RNG8?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:28:44 GMT"
-      },
-      {
-        "title": "印度部长自嗨：如果中国不给，不会低头乞求，我们自己造！ - 观察者网",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZ3FBSUtsQmV2TXRrNkVEVlV0aXV1VFd1MzVjMmxEbXRsSEg2emFMSmtkT1g1RGdFajFVblpQdHhzRmZhU3I0LVZTb3RGNkFYbDJaVmI0Sm1YdmZSZk40OGNRa01veFJXbVNNOXFMT2hDSVE?oc=5",
-        "source": "观察者网",
-        "published": "Thu, 05 Nov 2026 01:17:00 GMT"
-      },
-      {
-        "title": "敦煌论坛聚焦中亚南亚合作 共商丝路协同发展 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkRG1EVnBHMDFvcGZEQzRLODVjcXU1eFJyOUgzN3R4RUJCUnY0dEpzc0h1X1A1M25YdkFpM3dSWDB5bVB0RGZqeXBJZkhxNXluTG1Kai04YlAzeGhxOEpqVmxrWGRIa2tzdm1v?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 03:27:57 GMT"
-      },
-      {
-        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人 - 共产党新闻网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YQU5BNzVtNGg1MG9RczZBRWVPWU41TnREYjJ2N2pIblhtNkVnYkxYNVo1SjZxX3dTdUhHZl8xRGMtVTNSWnVqdktQMktBX0l0cmhxZUctZVFIelVLOGplZnE4b1IzTDl2UXdN?oc=5",
+        "title": "习近平复信澳大利亚青年学生 - 共产党新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSFFrQnBtZl9aSXJ4MDRFTTc5OUVWRzNEOUFMdjgxRjBqUlE4eGV0bGxMYzIzdHhSU2t4NTJtcjkzaWRrbFhkTkNSOVU1QUF4d1BFWXdLWDlwaEZHU2Q0dFA0M1oyUlJvanc?oc=5",
         "source": "共产党新闻网",
-        "published": "Thu, 05 Nov 2026 00:06:00 GMT"
+        "published": "Fri, 06 Nov 2026 04:50:00 GMT"
       },
       {
-        "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMGk2RXEzOXNuM012NHZYNk8tT3A0YmZqZEJERFlHX21ZSF9RZTNjbktkSk5SSDlndllPdEhrVzJqbkE0eFJLTlRsNmx2cjFMWDA4TWdzdnZwWTgwSXphei1OWl9zSGwzUFhPc0hNcFY5dFRXMWtQTHFDbWZKLVk?oc=5",
+        "title": "遥感五十一号07-09星发射成功 - 中国科技网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTGZSNDVwOFJYYXNvaDVvQ3ZNeXF1NTFBQUJEeHRzVFZ2Q1RwUE9jd2NPNHZNZFY5d2ExMHBDTG1zY3FmSG5Rd2hUaUZ5a2swSHpFX1ZHa2ViazE1REszVTZXR0p3VGdNenR5QWh2ZWw?oc=5",
+        "source": "中国科技网",
+        "published": "Fri, 06 Nov 2026 00:09:42 GMT"
+      },
+      {
+        "title": "第二艘国产大型邮轮“爱达·花城号”交付 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHpQeE1CZXpVTW5FQ1BDcV95bVk1Y054dTNyUHo1MzVfRC1mRW50WUxWbVZXVlltYVlRYUZUbUZoemJUT2JCV0xhbEk2OGpwUFEtdWtYdUI4aWYwV1UydWdNbGhLUjBGbi1TNEItSXctSEU2WTJ2ZlFYRXp6M3pDUlhPNmFJdw?oc=5",
         "source": "新华网",
-        "published": "Thu, 05 Nov 2026 02:00:39 GMT"
+        "published": "Fri, 06 Nov 2026 02:31:40 GMT"
       },
       {
-        "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识 - 中国日报网",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05MnJ4YWxpN2MxZ3lIMzZtM0FRR1B5T3FIX1A4VXYwVUZmdkpvM0VROTZSTmpKazExdUhlc29TRWMyODY0Zk5FTTA2aGpva0EtYktjXzd5SUxCZkVvNC0zVHYzU1RJbGd6YXZ3X3VWLWswX0hHak0tX091WlI?oc=5",
-        "source": "中国日报网",
-        "published": "Thu, 05 Nov 2026 03:47:06 GMT"
+        "title": "天天学习丨中南海月刊（2026.10） - 央视网",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJUm1ydDMtancxS2M4Nk9zaUZkLVhEOVJHaGxPVTNzWjl6R3JzVmxMRUM1Sm5tLUNOWl9RdHFoWEY4UktXS251X20zamJaTjluZVBjalVzOU9yNFhMQlFGUmV0b3Q3enVGMUJCaUZTTTZOYUU?oc=5",
+        "source": "央视网",
+        "published": "Thu, 05 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "湖南科技职业学院在2026年第十五届“挑战杯”国赛获特等奖 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmxmUk1xNVZQWkpabFZoSHdfbHJGUklMbDJiRVBpZ0tzOVpKbzA5NEhYR2Y0UFlJTXhyRTBnVWIyakxDS3RNc08ydWdMYzFETnZFLXFleHE2NnJFclFtUmVpaHZRQUc0OXB5dXVzc0l6b1Z1RTlKYUZpalNlTDlEamZxWW5kWEV2dk9oeDRmWTZZMGR5RFRiTHFB?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:10:50 GMT"
-      },
-      {
-        "title": "德媒：德国巴伐利亚州副州长艾旺格去世 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PWHktbGI3TjF3UTZ4VEZnUWNNb3ZxSXcwYmc5Tkl3SHltMTVjTHdxdElaOXZDRkh1REhfRnBwYXBRWGc5WVRjUkpPTkczN0t5U3A1LTJDdWcxVHRWWmJURlI1TjFTVWVm?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:59:12 GMT"
-      },
-      {
-        "title": "摩洛哥称将继续遵守西撒哈拉停火协议 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVURBcGR2bHVRaUNZZDFtd285M1V0QmczZ2RlXzZPUmMwZG1HRk9hNWxhOUIwY25wclh6SlRuQmt1bXBPelZSbnlNd0hueGcyLXE4a3FxaFBKdmxILVg3Z1RmcGhEclFQ?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 04:14:03 GMT"
-      },
-      {
-        "title": "共和党惨败之夜：美国中期选举结果八大要点 - 纽约时报中文网",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMEJteFhaR0ZXMVlmdXdMSEJMNFBiMTYzSEREaHQ3VXhkd2hDZk5LblJMM2p4dWJqX3A4RXVlQWNHMklvWXpzWlJiMnZ5b1R2TXZPRXh5ZXNqTnpkVEdiaEx6YTVhRC02ZmJyd2RoM2FNWGxaSURVeg?oc=5",
-        "source": "纽约时报中文网",
-        "published": "Thu, 05 Nov 2026 02:48:18 GMT"
-      },
-      {
-        "title": "泽连斯基同威特科夫通话，既提和平方案又催防空弹药，停火只是谈判桌上的筹码 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnNNTmRTZi00azlGUHFRRzFRZUdOWGRNWVBDTFlmaUloejkxSjhfTG9PeTJIRWg2YWZFZ3FfZGlLUGkyTmd5VTJqX2lqYmtIdVJmU2NkQ0ZGWnhRRGtsZHZlNjAwYkV6amJwN2ZNSVVHSVl0TlY1T2o1VzFUbFA0SGhfd2g2Y3NBc1ZCNg?oc=5",
-        "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 04:46:04 GMT"
-      },
-      {
-        "title": "刷新历史纪录 广交会期间白云机场口岸入出境外国人超67.5万人次 - 财联社电报",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jdWNGMzV1MGZuS3RJbEdOdHAyZHp4MFQ0MWlzZmtBbFN1QzBPVWhlT2ZSYTVZdzlCbW9OczRycl8yVW1pMkE?oc=5",
-        "source": "财联社电报",
-        "published": "Thu, 05 Nov 2026 03:12:33 GMT"
-      },
-      {
-        "title": "恒生科技指数涨超5% 恒生指数涨近3% - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wLXdqbFZQcTdpaWFpdUE5bDlCQkFMZ1Y2UTJXZUxHVC1GNkdRX3g3akE5TUEzRUZHOWkySmJLRl84Vzh6RjFNeUdCZGQzSEtBcEFhbWhFVkd2M1lPRXQzcnh6SXpQZw?oc=5",
+        "title": "万斯发长文“与特朗普切割”，美媒：为其28年竞选总统布局 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjQ0hObFRPaWVxMUdMZ1pDQW1XZDhKUC10U1o4aTQ4MEw3S3V2WWE4RldHODJ6WW5HdjlzZF8zZ29Ec0F6WjB5NUh5ZVRpbkszbDdIc21wOGMxUFJkQ044ajJFTXlKUQ?oc=5",
         "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 02:41:25 GMT"
+        "published": "Fri, 06 Nov 2026 06:30:46 GMT"
       },
       {
-        "title": "A股午后回落，沪指转跌，存储、光模块回吐涨幅，光伏电池集体爆发，恒科指暴涨4%，科网股全线攀升 - 华尔街见闻",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydHpJM3pua2dSUTJiS192aS0wLXVQMlNqZnNOY21sRG5UQlk3djN1cUkyTzhGRk0zRWotTHlsdndvR0xjM096OGdkTE1HaVQ0aGYw?oc=5",
-        "source": "华尔街见闻",
-        "published": "Thu, 05 Nov 2026 05:43:07 GMT"
+        "title": "北京今天以晴为主周末将现雨雪降温 - 天气网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85b2U5MVFDUl82WlNLSHoyU1ZUb01ERlIwamtKLXRiUmNRQTdIaWlxSGxwZVhwaThRVWVJbi15cFdoLWJXZzFJaUkwQVM4VW9ITzFtVjF2UWdLTXR3?oc=5",
+        "source": "天气网",
+        "published": "Thu, 05 Nov 2026 22:56:32 GMT"
       },
       {
-        "title": "韩国股市低开低走跌3% 科技股领跌 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vUDJQRldaNnY5VnZhLTBLREdUSGRpU0tJbFEtNEFpZ25DaXR3MER2aklWRjNoNFlwMGVCVFBzZnBpVzZSX1dvWVRXNnh1NFlXVmplZzdCck9XOGk3WWtDeENEV1R5ZEduajZkTERGT2U?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 02:04:54 GMT"
+        "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要 - 党建网",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cmU3UGZQcFZNUVJWcHZhSXA1QmdjYm1TQ0dXNTB3ZUJiQ1BFM29mbTI2YnhTN2RxT1BqVWJSRjBzc0xGcnRpUDZyTVhzUC1hMkYwOThaVjYtVVF0Wkw4SEJ3dU1GRUs1OS0wN29RUzA0bEtl?oc=5",
+        "source": "党建网",
+        "published": "Fri, 06 Nov 2026 01:38:15 GMT"
       },
       {
-        "title": "我国广电视听形成 “两个10亿”超大规模市场格局 - 中国经济网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aSUI5VWdHRjVDejBMQXpDVUdWeUprZDdVWWNZUFdNaVB6RTZtLThxQnhkdkEwYndqZGRWUHkxQUpoVXdDTU5yUUZMdC1lRkcwWFBrZkNJaHBGSl9zQUZubWpkNTg5bDFkWGhzbUlEelVWTHhCVmdV?oc=5",
-        "source": "中国经济网",
-        "published": "Wed, 04 Nov 2026 23:28:00 GMT"
+        "title": "2026年世界互联网大会乌镇峰会达成多项成果共识 - 海峡飞虹",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTcVRCME0xS0N1SkJ0SFJwS255RmlEYUhpVTRlaHN0cV94ZnhYVS1seGxZcG5xd3Q5ZV9QQW52dmw4TDF0RkF3VThXQnNSQ282MU1mc2Y3bG1FbEIzMTZEYmFsNXExZ3hQMmxqTzBteWdmbElWT2NMdDRsMFVDcXZoUU9iZw?oc=5",
+        "source": "海峡飞虹",
+        "published": "Fri, 06 Nov 2026 03:53:07 GMT"
       },
       {
-        "title": "金鸡百花电影节活动期间12条公交线路临时调整_新闻频道 - 厦门网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TbEs0bTFnSkx0RkV1RThJZmhBVkRpcV9hZ0pzeUxPUmhMeGhMekYtNXNXeTZtM21zU29TdWRWbnRDeG42dUJfUk5oN3pLRUZxeFJhV1l5aDJJVmUzVUNrcmI0ZDRyM09uSGc?oc=5",
-        "source": "厦门网",
-        "published": "Wed, 04 Nov 2026 23:49:00 GMT"
+        "title": "党领导人民治理黄河80年来建成水利工程5.4万余个 - 泉州网",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUDU2bTVJOTQ2TXk3aVB0SFZmamRjVmtyd1djTVprSlpIaVdqMU9vMVp5aC12Y1I4V09CMmowNGZNdGRGVHBjelY2TzZ0YjRrbTZxbTVnT0xuY09USVVFazFsWDdWaWY1YjZ0Z2JVYw?oc=5",
+        "source": "泉州网",
+        "published": "Fri, 06 Nov 2026 04:49:00 GMT"
       },
       {
-        "title": "杨坤自曝抑郁症躯体化反应严重 持续抗争二十年 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyRWR4eXdKTHBLX1ZldjJfXzBadmxOdG00c2JONVg3VU1DdjNPMjRxV0FtQmhOR3NCbzlaLXotbmRHbW1vcWhNcGtXb0doMTBVcVpBbUhTLVNhdFpTNVV6NVJaLVhkdjk4TXl1aA?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:44:03 GMT"
-      },
-      {
-        "title": "《伟大的长征》如何让年轻观众主动考据历史 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYXk2UkxEd1h3ZFp0b1B5UVRvemVmcTVPRWJmVkpzTVpyNGozSzd6RHJVRmltM2NHWWY0a1cxUTVPY0QyaFRnekNQUkJqa1p5UVU3bnhKTEZuemVYMURCSXM1anFQeHVXYmc?oc=5",
+        "title": "鲁比奥否认计划离职竞选美国总统 称将为特朗普工作至任期结束 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTGx0R3M1NG5yR2FUU2p1YjlfZ0c0SzktSGpmU2dJVFZzS0RvRlhhSmdVT3duMGxOQk4xUWdtbmt0SFJzVkF6ZUctWDE1Nm1RZXFZRnhIOGNWMlFYV1NDQmJBUWFMWjhH?oc=5",
         "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:30:03 GMT"
+        "published": "Fri, 06 Nov 2026 03:42:22 GMT"
       },
       {
-        "title": "中国男篮世预赛第五窗口期集训名单公布 周琦、王哲林等入选 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdnRsUG9PUGllVDR6WUpNRFhnWEdWMXRPOC1iXzluTW04Tml0NklQbVdtVm5BX1VUYk9pZDFiLUhRVzFReGxxWV90a3dPMG9fQ0dYMG40TV80MWo5R2NlOTNoay1sdVhU?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 02:42:20 GMT"
+        "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职 - RFI",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPa01XVUx5ZWF1RXZoUExVRVEzaTFUdTRDV2JIWmdNeUVLY1JrOFFnbEt0djNjSFlWWk9SMUJaRmkyYjA3SVhndTV5Q2xiTFdCUldZX2M5VE1uOHg4OEpocmM5SF9vSVRUVVI3WS1QODN5V3pRS2IyWGlGM2FyWEtpbzVSR21ST0hodFFWS3RKVVd1QTBIUkVudGNqZUs2TDlwNl9rb0NkbjZDQzVVTnRUenUwNU5fMzVVTko4YVlEbXZ5TFdfZTNRNFJsQjFrTkhQTm80bi1kalRHMXo0ck45aTBqbHZfRG12U2hRMlNadUdZY2dVTkl6bGc1RjBXN0ZzMF9ReTdOLVVYOVNoaUN4NEhUWXY4a1RvejdvU0NxUnRuOVVJdWY3Y2gzRmJaVG4tN1RTd0dLY0tJUWdmX2dGay0teHlvMk1sR1BSSGpLMUFoRW4yT0ZTeDZ4ekdtZUxWYThzX2V5a3plSHE2amowdzZ2TQ?oc=5",
+        "source": "RFI",
+        "published": "Thu, 05 Nov 2026 23:09:00 GMT"
       },
       {
-        "title": "青奥会上，当世界青年共行“抱拳礼” - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFRzRTMyQ1RDVkliemFoMFNDSm53SnpLVVhBZVE3RXZLQXpTMmRtS2pWNW54bi00S2oxc3J5cm96YldRZDh0MUExU19ONUZ3VXJrV0h2VUctUUpRVk4tNDFqN29UOVhMTWFYOXd6UHpibXd5cjUzaXVfc0N0aFJnY3ltWTNwb3FQUmlBNThHa1N5TU1lZm8yd2xn?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:40:54 GMT"
+        "title": "十分显眼！共和党中期选举惨败后，白宫“坚毅桌”上出现一顶“否决帽” 民主党历史性胜利 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWnU0Unp6SDhhUE5pV3ZONEtUbllRcVh4UjJ2N0E3NlpJTGszT0VCQUxCZ1hkdmZ2WEMtUjFzbjREdmZhQkZ6MThfeUFLWUh5ZHBhM2xVcGJzTVMyT0gyLS14VllSc1UzU1ZhNzhXazE?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 05:19:53 GMT"
       },
       {
-        "title": "2026年“奋斗杯”全国职工足球赛在江西开幕- 体育 - 中工网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jS2FxVnI1bGUxdlIxYnlCQmpyNlRDMDRYX1kxSlJBQWMyd1FqdFhmVzBHdWpIOHFBdGJkMGdQemtQSDk4QzFXbVpiNWl6TUNxUmVIM2kyN3BlSnRvMm9r?oc=5",
+        "title": "梅拉尼娅写信给普京、泽连斯基 - 京报网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92blMwX3BySEhzSlFEUDRiUWhZOE4wTUFnU2M2eC0zYXFzUllyM3oyZWNyNjc4eDYyeGJnRmVONkh4Wjl4c1RxV2htdlNXWXEzNWJEYjNfTGUyU3h1NVE?oc=5",
+        "source": "京报网",
+        "published": "Fri, 06 Nov 2026 02:03:09 GMT"
+      },
+      {
+        "title": "美国期中选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断 - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xb2tQQ0JsTGt0YndEUGdFSmlBNU1oaGpRRlJZWGN2YUhVQU12ZE93TGZXS3FrN3ZtSkZWM29fN1BGSmpqQk5kWXZINnd5Q1U3UnZuUFlQMV9TMVcyZlQ4NTZsSTNDbVXSAWxBVV95cUxNZjBoU1dIek0wLTc3NmVXUkE0aHI5Q1VWVF9LTkMxZ1pwdkhScWYxX3c0YlJleV8wWWZuRHRYbHRQZVdGdHBXZ1hLNTlneGpWbHdXbW1VckR5MHNiRnBkcEEzemhNSVpiUmJ2R2U?oc=5",
+        "source": "BBC",
+        "published": "Fri, 06 Nov 2026 03:38:31 GMT"
+      },
+      {
+        "title": "韩国股市跌至熔断三星电子跌超10% 韩股暴跌触发熔断 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YWlhvV1VJaHFQSV9ocWp0V3owQnZiekZGVUhEMmpoZnZWM1l2T2FkY2o2RzBCTDRNV1pGRTdScnRiTGdGZC1FWGhlaTVIc1R6Rl9FTWVoUkVHcFNvWGpReV9QZjFrQ3Z4VGVEZjJZNUI?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 04:05:13 GMT"
+      },
+      {
+        "title": "诺华：中国正成为公司突破性疗法的全球首发市场 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaXRUbHh3elVCcFYySy1feTN0UXE2Y2NpbkxhZWxGRGM4SEF2QTl2eEZERXd3SFRobDdvTUNrcFlBVzJqS3YwaG1kTDFEbTlRMjNLUFNOQVBxZ2pzaFZuNThHcld5UQ?oc=5",
+        "source": "东方财富",
+        "published": "Fri, 06 Nov 2026 03:28:39 GMT"
+      },
+      {
+        "title": "日经平均股指早盘跌破6万点 - 日经中文网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOURwdVB5Y1ZIU0VfMXpkandKdXVnZk8zb3N0YTJjblFCb1g4UnlTQTA2aGZRM05IT01qM1F1RzJHX2htSFpyeUkxYXRxSFlNZ3B1NFphUXJsN1YtUGN5VGg3TEJiNDhGRWZOQmdlWGlWeFdUZGZ1eml2N2U5cTUzY1IxNDBqN3c?oc=5",
+        "source": "日经中文网",
+        "published": "Fri, 06 Nov 2026 02:59:43 GMT"
+      },
+      {
+        "title": "捷成股份出席2026中国广播电视精品创作大会：分享AI精品内容工业化生产的捷成经验 - 同花顺财经",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xTGxVX05FYUNiSjd3azNYaHNCb2UzZDNYbnRDSVRzRHdiVVdIZTZiT2dScU1EdzMtMGpXWExsUElnMkJlMVZOWmgwMlJhaTVsTXBSTktsZlk1UjFtYUNqMWp3?oc=5",
+        "source": "同花顺财经",
+        "published": "Fri, 06 Nov 2026 04:28:52 GMT"
+      },
+      {
+        "title": "2026年中国金鸡百花电影节开幕式 光影归潮点亮厦门 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DR2xkMzRRRkVEUjFISGo5Ynk3TlhBWG9PTEhXamZQRTFZU05OVmhFNjBUajZNTjUtTFg2VGR6cXZ2b1gxdk9idVY2LUpEMW1wVDBCSVhkQkdtdEVuQVAxRkE4TWNUa3FBYjlaY1NNNF8?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 01:59:47 GMT"
+      },
+      {
+        "title": "京昆剧《封神·十二真人斗太子》亮相第十一届中国京剧艺术节- 首页幻灯片 - 中工网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVWtPNi1aNU9PRU1sWUc5WFRwNGZGOFZyblFobmxQUDdrejFMTHZpTWVnNjdDZHhvUEgzMlUyMURBR1pLdVZCNTZQWm16T29TY3g3aVlpNnJhYXZ6a2hz?oc=5",
         "source": "中工网",
-        "published": "Wed, 04 Nov 2026 18:21:00 GMT"
+        "published": "Fri, 06 Nov 2026 04:12:00 GMT"
       },
       {
-        "title": "广东男篮更换主教练 何塞普·玛丽亚·贝罗卡尔担任主教练 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mNFFLRUZOQkJ2b2F1ODVZYVFMeEpOZjRLa0RGeWVIb2ZHRHlzNHgtc3dCWDZuc1JhRXkxWXZkNlExNXhfaWgxU3d0QTViVjY4WXh6bHpQUXJUT0hzV0ZhVnZEbHhqdUtq?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:31:23 GMT"
+        "title": "孙俪晒居家照透露老公近况，邓超已累倒在沙发上 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeTAxcVNvX0hNQ1Z3RUtyRGRlZlZfWFkyV2swUE4zMTUzNHZWVTBhZE1MVVlrQXQ5WEtPUHdzZzRvX0tQQzJVN3RLQQ?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 01:50:46 GMT"
+      },
+      {
+        "title": "中国游泳小将常墨涵青奥会再添银牌 - 中国江苏网",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFVEWHY5UHJWLU15dTJiZnc0Y0N4clVnd3h2aUVSNk9qeXlSNkNwX2JmRk9sZ1RmbnhkbVhMY0ZKaDVDRkFXODZ3eHlrY0Q0aS1lNzFOR3VOUURuNHB0VXBUT252OXFxXzQ5N0w5cnI0ZXZTQlpteThZeHJMTjIyV1JSdlRPRkhvUGY4?oc=5",
+        "source": "中国江苏网",
+        "published": "Fri, 06 Nov 2026 01:29:00 GMT"
+      },
+      {
+        "title": "WTT法兰克福冠军赛：王楚钦不敌温瑞博 止步男单16强 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQndzVTd1R3RIazdEbElONDRqT21LNEdYcmFNLTVJUURmSm5ZNkUtS0ZVUS1wMjZRSVFLOFJIeFJkSzNUUnRyZDdoM3lTaUxWU0FCaWxGcFJGUVNKeVFIMDZDemFoWF94a1IwYjh2UHRrZmFGUXJGdkNINzdya3ZVMzdn?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 02:49:17 GMT"
+      },
+      {
+        "title": "欧联：AC米兰0-2十人费伦茨瓦罗斯 4轮遭遇3场失利 - 央视网体育",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6RktoZXk4Y0xJb3MtWEJSM3kxbUNhaVBPa2RFVEVvQU9xZEM3cC11Yjd6WDNiLWdBUWJxVlZLc0pWSUhpQUZUWjhjZjh5ZzNmd2hoYVdnZ3UtbWxFTlFpcmZ1Q1VZQnQySVplUVZuOTRPbURsRld4Q1FXTQ?oc=5",
+        "source": "央视网体育",
+        "published": "Fri, 06 Nov 2026 00:40:25 GMT"
+      },
+      {
+        "title": "青奥会全天综合：羽球滑板游泳奏凯 中国队获三金一铜 - 正观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yOUEydzZqTEF2OWZCbndqQ3lCV29USXVod1lkeGRGajJDRThXa1M0ZU44QlRVMG1TTUplbVJiMENBUjRhd1Bnd0NmVEZyR2pWaWxFOHpiRTU?oc=5",
+        "source": "正观新闻",
+        "published": "Fri, 06 Nov 2026 06:00:00 GMT"
       }
     ],
     "世界": [
       {
-        "title": "德媒：德国巴伐利亚州副州长艾旺格去世 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PWHktbGI3TjF3UTZ4VEZnUWNNb3ZxSXcwYmc5Tkl3SHltMTVjTHdxdElaOXZDRkh1REhfRnBwYXBRWGc5WVRjUkpPTkczN0t5U3A1LTJDdWcxVHRWWmJURlI1TjFTVWVm?oc=5",
+        "title": "鲁比奥否认计划离职竞选美国总统 称将为特朗普工作至任期结束 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTGx0R3M1NG5yR2FUU2p1YjlfZ0c0SzktSGpmU2dJVFZzS0RvRlhhSmdVT3duMGxOQk4xUWdtbmt0SFJzVkF6ZUctWDE1Nm1RZXFZRnhIOGNWMlFYV1NDQmJBUWFMWjhH?oc=5",
         "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:59:12 GMT"
+        "published": "Fri, 06 Nov 2026 03:42:22 GMT"
       },
       {
-        "title": "摩洛哥称将继续遵守西撒哈拉停火协议 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVURBcGR2bHVRaUNZZDFtd285M1V0QmczZ2RlXzZPUmMwZG1HRk9hNWxhOUIwY25wclh6SlRuQmt1bXBPelZSbnlNd0hueGcyLXE4a3FxaFBKdmxILVg3Z1RmcGhEclFQ?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 04:14:03 GMT"
+        "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职 - RFI",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPa01XVUx5ZWF1RXZoUExVRVEzaTFUdTRDV2JIWmdNeUVLY1JrOFFnbEt0djNjSFlWWk9SMUJaRmkyYjA3SVhndTV5Q2xiTFdCUldZX2M5VE1uOHg4OEpocmM5SF9vSVRUVVI3WS1QODN5V3pRS2IyWGlGM2FyWEtpbzVSR21ST0hodFFWS3RKVVd1QTBIUkVudGNqZUs2TDlwNl9rb0NkbjZDQzVVTnRUenUwNU5fMzVVTko4YVlEbXZ5TFdfZTNRNFJsQjFrTkhQTm80bi1kalRHMXo0ck45aTBqbHZfRG12U2hRMlNadUdZY2dVTkl6bGc1RjBXN0ZzMF9ReTdOLVVYOVNoaUN4NEhUWXY4a1RvejdvU0NxUnRuOVVJdWY3Y2gzRmJaVG4tN1RTd0dLY0tJUWdmX2dGay0teHlvMk1sR1BSSGpLMUFoRW4yT0ZTeDZ4ekdtZUxWYThzX2V5a3plSHE2amowdzZ2TQ?oc=5",
+        "source": "RFI",
+        "published": "Thu, 05 Nov 2026 23:09:00 GMT"
       },
       {
-        "title": "共和党惨败之夜：美国中期选举结果八大要点 - 纽约时报中文网",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMEJteFhaR0ZXMVlmdXdMSEJMNFBiMTYzSEREaHQ3VXhkd2hDZk5LblJMM2p4dWJqX3A4RXVlQWNHMklvWXpzWlJiMnZ5b1R2TXZPRXh5ZXNqTnpkVEdiaEx6YTVhRC02ZmJyd2RoM2FNWGxaSURVeg?oc=5",
-        "source": "纽约时报中文网",
-        "published": "Thu, 05 Nov 2026 02:48:18 GMT"
+        "title": "十分显眼！共和党中期选举惨败后，白宫“坚毅桌”上出现一顶“否决帽” 民主党历史性胜利 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWnU0Unp6SDhhUE5pV3ZONEtUbllRcVh4UjJ2N0E3NlpJTGszT0VCQUxCZ1hkdmZ2WEMtUjFzbjREdmZhQkZ6MThfeUFLWUh5ZHBhM2xVcGJzTVMyT0gyLS14VllSc1UzU1ZhNzhXazE?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 05:19:53 GMT"
       },
       {
-        "title": "泽连斯基同威特科夫通话，既提和平方案又催防空弹药，停火只是谈判桌上的筹码 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnNNTmRTZi00azlGUHFRRzFRZUdOWGRNWVBDTFlmaUloejkxSjhfTG9PeTJIRWg2YWZFZ3FfZGlLUGkyTmd5VTJqX2lqYmtIdVJmU2NkQ0ZGWnhRRGtsZHZlNjAwYkV6amJwN2ZNSVVHSVl0TlY1T2o1VzFUbFA0SGhfd2g2Y3NBc1ZCNg?oc=5",
+        "title": "梅拉尼娅写信给普京、泽连斯基 - 京报网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92blMwX3BySEhzSlFEUDRiUWhZOE4wTUFnU2M2eC0zYXFzUllyM3oyZWNyNjc4eDYyeGJnRmVONkh4Wjl4c1RxV2htdlNXWXEzNWJEYjNfTGUyU3h1NVE?oc=5",
+        "source": "京报网",
+        "published": "Fri, 06 Nov 2026 02:03:09 GMT"
+      },
+      {
+        "title": "欧洲数十架航班遭炸弹威胁，多国战斗机紧急升空护航，混合战争担忧加剧 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzM3ZFN1Wk5QWGU2UVhvcFhUamo0MUd4X25Ya0N3aWxPODJZTTFiOEFQcXBlSFVkeWtydGYyMDBJM2VhNm9wekdOVUxkSFhWMHFmd1AtVGw0bVEyN0xLZWhfSThWem04aGIweGc4VVNidkZ4dDMwUjJpcWVGUk1WbndMX2RqajA0cUlQUQ?oc=5",
         "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 04:46:04 GMT"
+        "published": "Fri, 06 Nov 2026 03:09:36 GMT"
       },
       {
-        "title": "胡塞武装向沙特索要510亿美元，还要求承认其统治也门！利雅得进退两难-市场参考 - 金十数据",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYmxTSGtib08tVldBV3FzNGE1OU5DQ2xNdjRGdEhXNU40RXN3RURxdEpXaUwzMnAyN2kyT0cyLWhzYzlEVHBpVklqVVpyNk0?oc=5",
-        "source": "金十数据",
-        "published": "Thu, 05 Nov 2026 03:55:52 GMT"
+        "title": "法国全国性罢工影响巴黎多个知名景点运营 - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91am5LVVMxakdHVkNvVG85emd0Y1V6SHNEYnFheXRrNkIyanRsdlN1ZzA1bFBPQ2JISmJjRGctWnctR0tnY25CQ2lhZXJJazNLUkc1Q0g1ay1DLVRaa2NKV0cweEs?oc=5",
+        "source": "新京报",
+        "published": "Thu, 05 Nov 2026 23:38:00 GMT"
       },
       {
-        "title": "特朗普会动用核武器打击伊朗吗？ - 中华军事",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fVmc1Tm5SRlRjc3RwN093eDRiQm9QM21WZC11QnhpMVVlYzhyX3l2RWwtQmFzT05vcWJVOFloa3JyWFpMZ3duQ25iZEJoSy1hZjNCWXNZOER0bTlKWUM1cmphcURUZV9pcC0xU3RZaw?oc=5",
+        "title": "特朗普加紧处理伊朗与俄乌问题：称很快决定是否再打伊朗，俄乌协议即将达成 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxaldTUkV1OHFkMVNhdzFlVEgxbVU1andBazVpa1BORjBoWUpEZ3ltd1htUDQ3TVBHbXJsMk9tRlg5dDRERnY0dVBFLUE?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 03:06:00 GMT"
+      },
+      {
+        "title": "以色列反对派正直党拒绝与内塔尼亚胡“联合执政” - 人民政协网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GU05iN2FOdGFvbHktMkpJSmpiODBxLUlXNzV2M19TYjFud0pXMnNEMU9iODlrekVzRDBZalhmWHJjcjZQdW9uSmNlZ1ZmVTRuLXlNREdLMUVHME5FamJN?oc=5",
+        "source": "人民政协网",
+        "published": "Fri, 06 Nov 2026 03:18:53 GMT"
+      },
+      {
+        "title": "土耳其议会批准《麦加共同防务协议》 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZWFZKN3hIZ1czc0x4RnU4X0NNeGVpRzg0M082TzBOb3MwWW5MZlpTX1RnZk1rQ0RyZUM2RFhxZ2FSMEJSVWRNYzZTU3dTXzJUS1ZLclNFN0tlaEs0aDl0U0pBcEFxTzls?oc=5",
+        "source": "中国新闻网",
+        "published": "Fri, 06 Nov 2026 05:22:14 GMT"
+      },
+      {
+        "title": "视频丨日本学者：日本应坚守“无核三原则” - 西部网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WEtYQXJqdnVPM09GZEktbWhPdTd6SEE4N1R5ZmlYbk1oYjlVTU1LRk8ySUtRZ09WcTdzS3ZCSzY4UHFiLXJ0OWwwaWg2VnAtTEFXbm9NeU54RFU1RTh6UUtOTkc?oc=5",
+        "source": "西部网",
+        "published": "Fri, 06 Nov 2026 02:07:00 GMT"
+      },
+      {
+        "title": "特朗普称美防长不换人 中期选举后风波暂息 - 中华军事",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00VEZITV9leWs4dU90OVJnNVpfbTdQV2RMY2RXYjVyNEREdHJBWTVCdW16WU5rbFFHaURrXzhQNGFELXMtUVB6ekZlQkNfVXVDUDQ5ZF90cXhhS2ZKSV8wTGVBb3dXZ2xMbGUwMUNGZWU?oc=5",
         "source": "中华军事",
-        "published": "Thu, 05 Nov 2026 01:45:09 GMT"
+        "published": "Fri, 06 Nov 2026 03:40:58 GMT"
       },
       {
-        "title": "以色列议会选举结果公布：内塔尼亚胡阵营53席 反对派48席 组阁前景不明 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15ZC0xZmhHN2VBUmVpT01qb0ZCSW5UeF9ZS05RSmNhNHpTdnl1bWQxdTlad0VYbDkycHVXcmROQ2ZqYjNycmliRmZyR0E?oc=5",
+        "title": "胡塞武装称使用无人机袭击沙特法赫德国王国际机场 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTGRBV292NVVOb2hvODVQMWNINHBpZkxvZG11a3ZzNWVIN3l3TXFhYjhoTVFQd1ZNZmlVU21GS1AtRHZCb1doay1oTllTWV9FVllqd1ptSVBQQlZXQzNGbw?oc=5",
+        "source": "东方财富",
+        "published": "Thu, 05 Nov 2026 18:27:30 GMT"
+      },
+      {
+        "title": "伊朗透过卡塔尔 向美国递交核问题具体提案 - 8world",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0IzWkZEczVzaFVDcHAwc3lUVXhHMDRUTmxURWlmb0taaGk3UkswMEVBVWQxN0p4UWxqVnJOcElhMktwR2pWTm5ObFkzU1ZZXzhkNjlSRWVEZF9nVFN5VlUwT0laR3FlNV9JT1I5RmxJdVBXbm9xUDJLdnFQdFphOERzMVpPMjgtY05R?oc=5",
+        "source": "8world",
+        "published": "Fri, 06 Nov 2026 00:55:29 GMT"
+      },
+      {
+        "title": "伊朗高官突访俄罗斯转交最高领袖信函，普京称战争必须尽快结束 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EWlBKSkxQSm95bjZac1JQS1lXNG5uUFNxbDZBcEQ4U2ZPeDBweUVtUklTQWZoSEVFUkdzREVQc0oxc3RraS1tN0lKN1RBYmxjOXc?oc=5",
         "source": "凤凰网",
-        "published": "Thu, 05 Nov 2026 00:17:11 GMT"
+        "published": "Fri, 06 Nov 2026 02:46:43 GMT"
       },
       {
-        "title": "朝鲜试射新型防空导弹：验证了新飞行器材料、智能化多重复合制导方式、目标识别追踪能力、探测信息处理装置的技术和可靠性 - 极目新闻",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBZmVZNWpLaVAwU1hxY1libnFuamRnOXh0RlVEekpNcklHVjVFZDhaTkNWT0hOcE9VQlFJNFV1aGlyQ0ZYRVJraEN2LVNDZ1NJNFJabUhtMXBJRk0?oc=5",
-        "source": "极目新闻",
-        "published": "Thu, 05 Nov 2026 02:02:50 GMT"
-      },
-      {
-        "title": "过往货船频遭打击，沿岸国家恐受波及，俄乌冲突加剧黑海“海上战争” - 旅日侨网",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnp1RTJBUlJPU0ZDYTR5a2NfVXlXUGxSZ0dUSmxIay1fdWNNSFZvZTV3ZGFDbHFuTllET0dmQ1AwVW9oUDNmZGhpR1dtSWRja3lmak1ldjdTOWtHMWRIR3U3TzJNS3lub3JDTnJsZEw1dFAwaW4yZzl0UWxRSnFQbDVFVWhxUHNCc0E?oc=5",
-        "source": "旅日侨网",
-        "published": "Thu, 05 Nov 2026 01:12:16 GMT"
-      },
-      {
-        "title": "世界顶尖大学校长论坛在香港举行 - 中国教育在线",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heEZXRWJseWlZSzJOOHlqcExRWkJ6Vm5Sc2FpMEMzdGZWOU9YRlMxeTducW9tYi1qMmI0R2VEdGRubmpZblQxMFAxUk5HeGl3d19jc3V3V0d5X3lyVTBUak9FU2wzM0tRdXB4YmpB?oc=5",
-        "source": "中国教育在线",
-        "published": "Thu, 05 Nov 2026 01:42:00 GMT"
-      },
-      {
-        "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oX2hpQV91cjFzYjZNR09xMzk4OHlmM01oaTB5T2lBVDJRZWVsZjVTellhQk10ZFh0S01ScE43LS1ISFlNdm83Y2puWEhmV3JBUlphQURZRHdVVWhsTTAzb1JZMF83bHRr?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 02:11:31 GMT"
-      },
-      {
-        "title": "西班牙请求欧盟铁路局协助调查高铁事故 - 光明网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WUEzVnp2eDhRR0ZmYU1xVVBTSUdlM3ByVDU4ZHlYSEdYc3hDRTlGVWYxczI1VHZqQzZYSE5Qc0dDUjB6dnF5YTl0S2NOaWpPLS16NjRJc0tmSmZybFJtSTd3?oc=5",
-        "source": "光明网",
-        "published": "Thu, 05 Nov 2026 02:02:36 GMT"
-      },
-      {
-        "title": "泽连斯基突然拿马斯克警告全欧洲：美国在全球安全中的作用衰减已无可避免，欧洲必须自己掌握安全“开关”，不能任由私人企业拿捏 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FZVpWUDhteGZtVE9TRzJwaE1yUlRJbXpkMzRCWmFmUFZ3aWV0SEFYbWZ4enE2Zll2RXJDYkNwZjNoSVR4Z0wtTWI1UGM?oc=5",
-        "source": "凤凰网",
-        "published": "Thu, 05 Nov 2026 00:01:33 GMT"
-      },
-      {
-        "title": "法律界16人竞逐15席 议员盼协力建北都 - 中国评论",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsXzJqOHBxSmNsZnVEMDVTdUVvUmU1TXlfZlJCSDdNUlZsX2lMQS05ZVlWblU2SUNzVm9Ua0t5RVVZWVVYVEpaRUJLN3RlUjdlUEt3Z0t5dl9XdlBzS1BreEJsY1F2S0tBcFhiSmxrNA?oc=5",
-        "source": "中国评论",
-        "published": "Thu, 05 Nov 2026 03:25:23 GMT"
-      },
-      {
-        "title": "伊朗分析师警告：与美国的下一场战争将是短暂且毁灭性的 - 观察者网",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EdDRReFhWSFJpYUVTLUFBOVBmRkgwcGtkRFFxeHJKSG9BWFBvZkF0R2U5cUo5WHlTc29faGJudHY1RW5nSVRCck81U0pseTNZNTgzMGVMQkZUY05wNUZYYjAyczExcmRQTGhHWEVCa0psX0E?oc=5",
-        "source": "观察者网",
-        "published": "Thu, 05 Nov 2026 01:49:00 GMT"
-      },
-      {
-        "title": "欧盟等多方在布鲁塞尔讨论乌克兰战后重建问题 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTlVaWx6aHlzcHZDM08tbTJ3NWxXNXBicmZXbnpQYnUtd2ZtQUFlNzMwSFhjbi0xWi0ySGk1QnNsZmVuYzI4NTM4NjlCZThMVlBvR0c3dnBEWklSMFBrLWxxT3pBaHpJV0hlUU85NzJNQnNyNjRHcjdKOW1qUjlaS1hpQ0w3R3dHTk84QnNmUFBUNFRvdWY0N2J3?oc=5",
+        "title": "巴基斯坦东部两车相撞致11死33伤 - 新华网客户端",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3diWG9xRlRuamdTOVF1b2pzN3hTbW53bFZYcV9BLW90cjFQRll3Z19XemlMRkxvMkRQSGtHTFNUdnJUWWdYcG5CVURha2hCYkNuUHd1MUxKLW9nbTFPb3pCVW9MQWJjMVhkSjNuM3FPLUZlWVh0VEtrVGJ5aTNfejVhSmZJWldobW9vU2lmcU1UT0RKQ2tyaUF3?oc=5",
         "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:25:51 GMT"
+        "published": "Fri, 06 Nov 2026 00:07:38 GMT"
       },
       {
-        "title": "伊朗称霍尔木兹海峡两艘油轮起火 两架无人机遭捕获 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XZTRJM3NzOXZZYnZFVF9nMDV0d01kMTE2X0E0RVhLT2xuQWkyb1BZWlNGbTZreDNVVk5QNDg0THBtVkZKeFN1MFJHcFliQmYxM3Iw?oc=5",
-        "source": "第一财经",
-        "published": "Thu, 05 Nov 2026 05:22:30 GMT"
-      },
-      {
-        "title": "美参议院民主党领袖：民主党将结束伊朗战争，伊朗战事“必须结束” - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wdFdYNXpkcUNfU1ptVXBHd3M2clhsQjlyV05fNF94ZERIUzFRZHJ1Y19iLXE2VnA5LWRZMXY1ZGhoQjVIYl9KaW9CcDFkdmd1V1VCSVhMRS16WWxTeEFKVkpCVjgwUXNu?oc=5",
+        "title": "澳门中联办发言人：坚决支持特区司法机关依法宣判国安首案 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ud1YxNWVtbzZmZnlMQ1YyT2RNb09FLTlCUlVQYnNwNHpQUG16SHdMakhaY1dWNkkwN1UzUF9uN2huWjhuUGhzVjJfZmdrY084UjZYbTNGelZiUmJZSG9Cd0RjcnpkRDVz?oc=5",
         "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 05:46:36 GMT"
+        "published": "Fri, 06 Nov 2026 05:03:03 GMT"
       },
       {
-        "title": "美国佛罗里达州发生枪击事件致2死4伤 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OWlVVNDZvajdBYXNSS1VHUFAwWU9RZDNVcFpQUDJYVVlRNDEyaUtqSUp6QXVlcVo5SHlvc1NmZjZ4WVhPTXdKSGRETm14QWlKMHFDbEhoWkVmVFlRd1d1OEd3cGprcXVtZ0NQc01EQWxLVGEzTnZMV0pDLVZUV0k?oc=5",
-        "source": "新华网",
-        "published": "Wed, 04 Nov 2026 23:12:37 GMT"
+        "title": "土耳其发生枪击事件 已致8人死亡 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUkFsLWMxZDlDYzdNbzY0cDNnSlFjV2ladjFXQ3BPZklyNXNYcVRubXRLRkRIQ2t3MWZQa1BybnJWMk9YaFVMVHVxZC1TTl9leDBVZWVjS01nQXVJZ2Y2TFFTRlZjUUZ4c0FKVUpmZHI?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 01:55:06 GMT"
       },
       {
-        "title": "印尼前国家警察总长因涉嫌窃听总统被拘押 - 日经中文网",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVNIXy1GWFg4cTdmRERaTkVwRnNWTDJqdEdrOW5aaWstOXV3S3dvWDVHMmczVHdqRnhGbm1OMVZkSE9QeC1zM3lBSGZGbXcwaU5JVEVqVDAtQlJ3Y0hFc3RsZzFVSnVidkRhMDRtWXEzeVpHY3BsaVozVDU0TU9PZDFuWWRWTGZqTDZCT3VVbw?oc=5",
+        "title": "日本抗议俄罗斯将日企当地法人置于临时管理之下 - 日经中文网",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlVVb0NiRUU0cExhamhhNC01QWsyRXFWb3RwcHhqUk12OEZ2R1VMQjNTbndTUlJJUHpabkxoTDQ1dWoyaFF2SU1BelBOYUswNVY0dTFqMlRxcEt0MHdPYTk5bWtQZDZZT0JvVXFtaGtfOFN6QnpQUHBHZHViOXA2OVFWb0xGcG1uRGUzY3NnRQ?oc=5",
         "source": "日经中文网",
-        "published": "Thu, 05 Nov 2026 03:02:30 GMT"
+        "published": "Fri, 06 Nov 2026 06:30:29 GMT"
       },
       {
-        "title": "美国打击伊朗岛屿后：和平谈判希望降温、原油风险溢价再上线 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR040RGFORjRXNEZFbENQVEc2S3hDM3kzZVFoZVlKMmVpcXhuUnNnMDVIRGNVeDVCMHAzQWlZVDExTjRBRWJrT2VoUnQxUDRWaklmb29UMVdWeEpRSk51UzNvdXZjOTlEYzRvMENQOE9rc09scm1mbE9aWlNCU0UxVEMtNDdxNVQxTVVwMw?oc=5",
-        "source": "搜狐网",
-        "published": "Wed, 04 Nov 2026 06:30:00 GMT"
+        "title": "伊朗称击落一架美军MQM-170无人机 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRF90bmtNaVZyN1lkaF9JZ0RhNVJPVjZYOHlEVjkyUGY5aXo3NXZ3SFc1OHlxVlp4S0Z3MVYxcE13QU1Td0lmeVA0QTFGbFNfQ09WZTJnMlh1M0RqaER1Xw?oc=5",
+        "source": "东方财富",
+        "published": "Thu, 05 Nov 2026 20:06:31 GMT"
       },
       {
-        "title": "外媒曝美伊做出让步！范围包括核问题及被冻结资产方面 海湾国家认可进展 - 中华军事",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UcGt6Mnd2bGdMa2hmTkFSWW5CcUdjYU1KZFdnMTI1cEV5MUt3ZmNRZW1yMDl1MTVqX3dhbV9oMkxOUDl6NlVjZUU1YnRWa0ZKbHpOcU56Rm0wX0JGazMtZGI2Ym5yTzZwV1NSQnJObDU?oc=5",
-        "source": "中华军事",
-        "published": "Wed, 04 Nov 2026 05:29:06 GMT"
+        "title": "韩国拟在霍尔木兹海峡附近开展行动，称此举不意味着卷入美伊战争 - RFI",
+        "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPTkR5d0VobGZhS2l6RWRNYXdwMGtHYlZva0NnaWF5LUI0ZU1JX2ozRWJISl9SYzNHU05EdGxaM3Q3bG1vLXFIeFdJR3NoUEZSZDBnQ3phNmJlYVJWUHdTSDViMEhJVzM0NDRlaWgxamlVcWl3Y3d1djNXa050Szc0c3RtV0Q0bUx0dUp1SXFTbnJhbkRrcmhBc000c1k1elNTSFAyUDVmX3N5eTJRYUd2NHhHcHZsNnB5LUVFWlJHY3E2cDlUd1Q3Vlg5RnMzU19WQTN0WlJrc3JFQkpTdjhyT1FpM013NjdWY0dUMVhYM1dxZk5VMEI2cHBaWVNJdjV4d1lUeHBKTmttajIzd1dZTHBxZmkyTlBySTlaRG0xZzRrY1lSVnpZWF84SlpfdVl2aktzNW1Na1VCSWNwb2xYOVYwTFAybzZfUXU0cndtNWZicE5lamZkUHc2VjBDY1UyY0pGaXNIT09zWXFjMnN4MGlCMjlQZ0ZOSl9wb1hLYnBoa1c3VkVNOHk1TjE2cDZldFRkUl8xRUk3TDV2Z2lIY3NZc1lhcUtkRTBBRkgwSm1EMjR4b1JXd185M3VMbF9OTkVQWEtqWQ?oc=5",
+        "source": "RFI",
+        "published": "Thu, 05 Nov 2026 10:34:07 GMT"
       },
       {
-        "title": "沈逸：得州连丢两场，堪萨斯破94年纪录！美国中期选举蓝潮有多猛？ - 观察者网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEWmUxNTZBcDBuQ0tNWkJCRl9VbHdsUmRud0p3NEN5SmFuTDJlVXl3bS1xcV9GY0dtRTJHaUhjelBXcFN0RjdpanZCTGJNRUVYQTdoaXNTajdmZFN2VDFJQlVvOA?oc=5",
-        "source": "观察者网",
-        "published": "Wed, 04 Nov 2026 12:12:00 GMT"
+        "title": "中期选举大崩盘，特朗普输得一点都不冤 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xYlVZNUFEX3JoSWlKbFVVODVsb3hyUTFaRW1YdWhMSTY5c0ltd1JzeVFMSEM2eDdaUnI5V3RKeEROZ2JMU25KTHR2bms?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 04:05:04 GMT"
       },
       {
-        "title": "日本自民党企图加快讨论修宪议题引发在野党反对 - 央视网",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vWGxGVEdkY3pLMkZSbUg2TWJ6WllvRzJ6TEo0S0JkT0ZpTDFtTWJFSXk0dTVzczFMMFhsYU9sYWRXN0ZORm5CcTJjSzZydURFeDFvNzU3aVBtY25WU1E4ZTg4TDRZMWJkMUtnamhSWU5BTnJQc3FKOA?oc=5",
-        "source": "央视网",
-        "published": "Wed, 04 Nov 2026 15:50:45 GMT"
+        "title": "美国亿万富翁如何看待民主党在中期选举中的全面胜利？ - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SemdOZF9jWG5CMEdfY19Kb2VVOFZ4ZFF4VEFRajROWE9Celh4UHJQYjk3Y1lNdERvUWg5V2lzZ2xfSzd5dUdNWA?oc=5",
+        "source": "财联社",
+        "published": "Thu, 05 Nov 2026 13:47:17 GMT"
       },
       {
-        "title": "马斯克砸了近5亿美元，共和党还是输了中期选举 - 中国网新闻中心",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IRm9YSG1nS1o3Vlk2OFVJWjhfa2NxeFZlWTZ6SkZ5Tk5wWF9KZjdaeGNvRFE4b0tEMzQ4V3pBZ1RCdUstVzhXQlZUaXZ0U0JndmE1bUhYM1BxdkwxRUowTUlwc3NhSDNNTnZB?oc=5",
-        "source": "中国网新闻中心",
-        "published": "Thu, 05 Nov 2026 02:42:00 GMT"
+        "title": "伊朗革命卫队：3艘船只在霍尔木兹海峡起火 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcWItZDZ4N25YV0s4bXZVZmhsUmVFUTlXMktDdHc1NkFTZkVOSmw3blJUTks0RENMVlRydVVzRzlVUWxDdE9TMU4tcmpzVnFqdEF2OGxSeEhyN0JZalJ6ci1LNG1qd2IxMWJHUWVsdEhieFQtTWpTWFpoUjZjMEU?oc=5",
+        "source": "新华网",
+        "published": "Thu, 05 Nov 2026 08:02:31 GMT"
       },
       {
-        "title": "伊朗最高领袖称美中期选举结果不会改变美方敌意 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTE9hdm11UjJGZXZCT0RYTExsdjdQdkNCdjN4OXU4ZE5ZUzU0ZjNDSDdVa0dESEdOT08yY0ptM1BmLUJfaVZaaXJQWEFRSDRFNDNtbTU2TVVkMWlvWHdTcm1oN0RBNjdLNk1ubjJ6dUp2RVNTVVF0R3dpWlM1cHVPQ2dIQUYyMVB1YTNJam5RWElRV0cyQzJweTF3?oc=5",
-        "source": "新华网客户端",
-        "published": "Wed, 04 Nov 2026 11:04:36 GMT"
-      },
-      {
-        "title": "欧洲至少7个航班同日收到炸弹威胁信息 涉事客机均平安降落 - Caixin Global",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OcUNmNkxLMUZDV1hSLXFkcHdTM2xQeGI3UDB4QkxxMTZDUWdWSHI5b054aXNtVFFJZFNqZ01rRHhQWnE1d0VDSW1MR2I3aFBKNzBucHloNk9QYVllZzhhMXZmOGhod2x1dlE?oc=5",
-        "source": "Caixin Global",
-        "published": "Wed, 04 Nov 2026 14:48:00 GMT"
-      },
-      {
-        "title": "民主党若掌控国会，美国商界可能面临哪些变局？ - 华尔街日报中文网",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOOGxDNUd3ZlJMdXRoU2VPS0dNZ18xYnVWTU8tWTlNZWdTWkN6ejVDdjh4cnBzclBCX0N0ZW9qT01ySmNHNTZLQWNOY1NIOUJtd0JwQVB6dUlhMXNfS25TaWowaWlBTGZnTkF5QVVUbGtvUTVMLXMtRDdWQ2JMOHhkZ1hOUklreldUQzhCdUowcWVtdjZWeklfY2dub2ZtcFZVRHg2T1V0WWVSRXNJVndKR1dGX2xCS041elpPNXJOWEk2aUFVVTMxWHhHMVR2RGtBNkZKRWo3RTdieUNkTmI5MWlRX0k1ck1Rb1dER1llZEZUVzFKdlU3Q053NWJIVDJmSzh6QjJGSE45M25aZ1RaZ3haTXhxdnh0TmYyZTJSZHkzOUIzZ04xWXNudFdoZTRpQ1lQZE9keVRYdmZVTUFv?oc=5",
-        "source": "华尔街日报中文网",
-        "published": "Wed, 04 Nov 2026 00:47:00 GMT"
-      },
-      {
-        "title": "一边祝贺民主党中期选举取得优势，特朗普一边称：可惜我不在选票上，不然可以轻松取胜 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1JFVmNfSGVfWWdpTm0wcjJJeW0xclBZS0FGaDhyT20tTVh2c3ZqVFNzS0pRWFVKUExZeWNmcUxETTE1WUZScUpnYjlnaHp0NjdfTC1xZl9ZQkg0OVdUT2VqM2kwcVZTaDNfR3plNXFEbG90VGgycURUNHFYc2VaazFYam4zaXdoQjc3ZlJSYlRfVmhDdGJadWtUaWljOE0?oc=5",
-        "source": "搜狐网",
-        "published": "Wed, 04 Nov 2026 06:03:36 GMT"
+        "title": "“特朗普时代”的终结已开始 - 日经中文网",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkszVGpYZk9tclk4RTQzTi1KdEpmd0hST0NvTWJCUjBrZzAxdlJOOE9wc2VrdzUteFJCRWRNZkVnS1NWTkMyenRHenpZaFVsUGFwMjctd2tmd0kyWGJzRURSdkE3MVNieXlMN0t3NlZNWnBwakVreVU3S0dpdXkzN29WR0Y?oc=5",
+        "source": "日经中文网",
+        "published": "Fri, 06 Nov 2026 02:24:36 GMT"
       }
     ],
     "中国": [
       {
-        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人 - 共产党新闻网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YQU5BNzVtNGg1MG9RczZBRWVPWU41TnREYjJ2N2pIblhtNkVnYkxYNVo1SjZxX3dTdUhHZl8xRGMtVTNSWnVqdktQMktBX0l0cmhxZUctZVFIelVLOGplZnE4b1IzTDl2UXdN?oc=5",
-        "source": "共产党新闻网",
-        "published": "Thu, 05 Nov 2026 00:06:00 GMT"
-      },
-      {
-        "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMGk2RXEzOXNuM012NHZYNk8tT3A0YmZqZEJERFlHX21ZSF9RZTNjbktkSk5SSDlndllPdEhrVzJqbkE0eFJLTlRsNmx2cjFMWDA4TWdzdnZwWTgwSXphei1OWl9zSGwzUFhPc0hNcFY5dFRXMWtQTHFDbWZKLVk?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 02:00:39 GMT"
-      },
-      {
-        "title": "国务院国资委：加快培育壮大新兴产业和未来产业 构建现代化产业体系 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82LXBGWWw0ekZCQ0ZtS21oell1VDdhejBXOW1FYVlIcUkwenhQRVJoa3dUVFh5YS1WNHp3Q0FJaEFCTFFiU293VUNPajhtYzZLcHdLSGdHbHM0WVRVclBETmJfV2NZQQ?oc=5",
-        "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 06:09:44 GMT"
-      },
-      {
-        "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识 - 中国日报网",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05MnJ4YWxpN2MxZ3lIMzZtM0FRR1B5T3FIX1A4VXYwVUZmdkpvM0VROTZSTmpKazExdUhlc29TRWMyODY0Zk5FTTA2aGpva0EtYktjXzd5SUxCZkVvNC0zVHYzU1RJbGd6YXZ3X3VWLWswX0hHak0tX091WlI?oc=5",
-        "source": "中国日报网",
-        "published": "Thu, 05 Nov 2026 03:47:06 GMT"
-      },
-      {
-        "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际 - 中共上海市委金融委员会办公室",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHNKcWZzdlJ6SkpHOE9JVE5xbng1ZV83MXMxZTZZb0lZaEkweTZLX29HQzdRQncwd29tZ0VYVWIzZGpyQ0FKSFFCTFc0aDF1eXpfOTZlZktWN0V0SDMzSFdvZkVYLWItLTlIUjRQQXkydm1Za3VnRWU3bXhoZGNZenN3?oc=5",
-        "source": "中共上海市委金融委员会办公室",
-        "published": "Thu, 05 Nov 2026 06:28:12 GMT"
-      },
-      {
-        "title": "近万件流失海外敦煌文物实现数字化“团圆” - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDRmUWhQcWZhX3E0NFBOS1RSNjE3N3F1ZDBLbTZLbEdLRGpjUjJFdnBlNGJxNmlzRFRKbU5DbkpMLVNWWVBXNE5WWXNyOTJDbHptbDVzS2lMSWhIR3dMekFzZVdZMF9DUjRMVml4bkRybGYwMEF3YV9tLWNrVDdZYkJn?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 00:55:31 GMT"
-      },
-      {
-        "title": "湖南科技职业学院在2026年第十五届“挑战杯”国赛获特等奖 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmxmUk1xNVZQWkpabFZoSHdfbHJGUklMbDJiRVBpZ0tzOVpKbzA5NEhYR2Y0UFlJTXhyRTBnVWIyakxDS3RNc08ydWdMYzFETnZFLXFleHE2NnJFclFtUmVpaHZRQUc0OXB5dXVzc0l6b1Z1RTlKYUZpalNlTDlEamZxWW5kWEV2dk9oeDRmWTZZMGR5RFRiTHFB?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:10:50 GMT"
-      },
-      {
-        "title": "邵冬冬《黄河流域生态保护和高质量发展的科学内涵与战略意义》 - 全国哲学社会科学工作办公室",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VMVJZN3NjRXRsd2NnTHNZbTFRdDE5d3dpWjRXMlJISVFrSjVMcFRGRGRYUVVka2Y3a0F2WE1NZ2lPYW1Wc196VGkzMzdLd0JpOGhubC0tSXI5b2JhU09xY2RyQ0FvVzFjTERv?oc=5",
-        "source": "全国哲学社会科学工作办公室",
-        "published": "Thu, 05 Nov 2026 00:08:00 GMT"
-      },
-      {
-        "title": "北京将出现明显雨雪天气 周末西部北部迎初雪 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RS1NUc1lnbzIxaGR2eDZZbGhzTXRzeVpWbFpOVXp3c00yT1NmakJ2UHpxdjVaZ3FOTGZvSmQxLWF3WnNPTlI1TUhEWGhvMklwUVUzZGVDZVhpSUtSMFlTT3hWckhsY29US3lWdTFwcXU?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 01:06:15 GMT"
-      },
-      {
-        "title": "北京广电局局长王杰群：今年以来，《伟大的长征》等作品破圈传播 - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82aDQzOWpwVzV0N09lalJkS0szajM4X1lXZDB1M0VuQVZmQ1hQOThBZDU4X0ppWEEzeWpVNS1ZZjJZUVZwTkIzdklvZ01melBPZEhuUVFUNE50S3dPVk9ETFEyb1M?oc=5",
-        "source": "新京报",
-        "published": "Thu, 05 Nov 2026 04:10:00 GMT"
-      },
-      {
-        "title": "第二十九届京港洽谈会朝阳区专题活动举办 - 首都文明网",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xYktfZ29jNDZvdUVHekt2QW0yNTJoZ293VXhzekNJZXNKZ3Jha0ktVVJLMFFoUEgzaF9ERVJLWWkzQzltOFlHQ0dEc29IUkc5ZjBSRE1DTEQ4M0U?oc=5",
-        "source": "首都文明网",
-        "published": "Thu, 05 Nov 2026 01:16:22 GMT"
-      },
-      {
-        "title": "同心守护熊猫家园携手共谋绿色发展——2026全球熊猫伙伴大会观察--国际 - 人民网国际",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RdFBWeWRDYldVQTkxdkJvcDRTLUJvbjQ5N1ZNMDNWOUZpZWQxdDJ2aVRmNDUwY3NsZTFJbDhDQWd2UDRMS2hQSXpYU1J5VDA4ZUxUVENCN1hxVWN4NG80NDdpRktuYks4RXFraQ?oc=5",
-        "source": "人民网国际",
-        "published": "Thu, 05 Nov 2026 00:45:00 GMT"
-      },
-      {
-        "title": "徐焰：回顾长征壮举，更知红星何以照耀中国 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDk2VTBBTUVIRXlndUwzbTZaR3ZCZ2tISzRzWEdkV0dMdkR5U2lYdjFCa3RubGNlME1jckdTd3N5a2xEdG96amxQR1dpcnFKRDZmSnliYzM1ak9qSmFtQXVxbGhBbjVmbGNBV1QzX0JrTHkwLTNaaHVCdU9CLVhwY21HVTZ1WWZmVEtPNg?oc=5",
-        "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 00:08:01 GMT"
-      },
-      {
-        "title": "在宁波，外国嘉宾体验“魔镜”换装 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUNOaGNNMy0tOENpX1hKMF9nVUlDZE9BRHdaVVFjRTlIMXdMdURvWmg1UFlVQUZBSWF1Mm5qbjNlazZSN05tV3ZNX245UVM1X0tKT3hqV1FlMTF0VzBGUWI4QXhERkU5amhtZnJXMWhjaUhETlVIUU9XeG9XVDVmQ3Q1ckptd0xuOHNEeXJNQU5NUmxQTzRDSE1R?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:05:50 GMT"
-      },
-      {
-        "title": "雪季消费升温｜哈尔滨滑雪民宿预订热度全国领跑_全媒体报道_HRB蓝网 - 哈尔滨广播电视台",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YMkI1Mkx6MnpKRWlvNWdkbFpnRnNxNGdSdng3MjZPVU5tMW1NNHlBdWdKMWdweEJ5cUJBSXl2SGxIZm01VUVLcWVUbEpfN2x4N1RMVXpRVkZzYnlkMER2akpHNE1WQQ?oc=5",
-        "source": "哈尔滨广播电视台",
-        "published": "Thu, 05 Nov 2026 01:57:16 GMT"
-      },
-      {
-        "title": "古都金秋：中轴线上秋色如画 - 中国日报网",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56WUR1XzZpUVlmbktCTGJzTDBDSUNyS2V6elJCZjJyT0thUGVrM3VCS0xEb3JXZmhSSEs4eTJ3T19hcVpLVnRFc2lGSFhNT3B5RDM5Q01hMmY0VF9Wc2VJcndaMjV1c0lpQ1RBcTZKdGZldXV4N0N1T3d4a3U?oc=5",
-        "source": "中国日报网",
-        "published": "Thu, 05 Nov 2026 02:40:07 GMT"
-      },
-      {
-        "title": "万联易达举办乌镇咖荟 | 产业智能体互联网开启中国产业变革的“黄金10年” - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hQzJ4OEZjVzhQSl8yTVVPdFEwRkQ4ZTA1QXlZNWh5Tml3M2ZLVDNXODg5djdFZVkta2VXX3V6bTQ1LVRIMkFLeTZwWjBGS01lOTdfWjVUQWN4VEk3ajQ4QnBnVk95LS0wV1U2TnJB?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 02:51:49 GMT"
-      },
-      {
-        "title": "铸牢共同体 中华一家亲｜走进阿拉尔“老营部”，体验“军垦战士的一天” - https://www.aksxw.com/",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jc3Mta0NDRWNTZlZCUE1PMEVzRlNQei00UDFBaXdyX1c2OWlndHdNbm43Nnd5SkxWRm11cDd3c2NMV1dBaGpaNnRVLWtiOXQ2VnRFUFVHZ0lKdDhncVZ6eGtxdUx2TmNhcWhxcXlZdXE?oc=5",
-        "source": "https://www.aksxw.com/",
-        "published": "Thu, 05 Nov 2026 02:59:38 GMT"
-      },
-      {
-        "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aGhuWThUUEEtREFrZG1wd3NmSG9kdDhNakpGNTdLN2dhM0tuVkpNZjkwaUpqcC1jbUgtNUFOSGtiSEZOOGJ4N0gyN3hJc2ZleXpJTDh2RHRna3daY0laNW1pRlViZVFS?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 00:32:25 GMT"
-      },
-      {
-        "title": "让科普之光照亮科学梦想——三场科普进校园活动在太原举行 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWEpjdE1KUFF0dVB6TjNjQzJ4bTlTeC1oSUdaaDhyT05kNWMyUHNMR3JwUjcwUV83Vkd5S2FxemhzbURfSEVUSy1uVkNrczExMjR2ZHRjMTVSQXFKQ1ZQbmhPVFJsQkYyeUVaS3l1a0c?oc=5",
-        "source": "中国科技网",
-        "published": "Wed, 04 Nov 2026 23:59:03 GMT"
-      },
-      {
-        "title": "中方愿同沙特、伊朗等地区国家加强沟通对话 - 军网",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tV2JFSXdndElZeXlocy1JMlJxVi1vaHRCQWlIN2J5LVZSVm9MOGxhRlVpZkN1R2ZSUU00UVI1bHk0U3JvZVBLYmpB?oc=5",
-        "source": "军网",
-        "published": "Wed, 04 Nov 2026 23:00:40 GMT"
-      },
-      {
-        "title": "织就数字文化新画卷——在乌镇峰会感受数字文化新业态 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVc5a2V1di00UWdpNDlSNUFaa2lUQkdjZ2hOTnRBelRGLWl1OXNGQ1NlMHQ5S19pNnhudWVUX0hkRWEzQnl2Q29PTzNNMVZ3NFVOSHJwNlhJQTF4SXdaeXVIOWN6Ymx4U2tVVU42Um5KVnM5RnBxQlJOamlIWUxBQUZ4SmtzSWVJ?oc=5",
-        "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 02:24:00 GMT"
-      },
-      {
-        "title": "生活观察丨开板之际，这份滑雪安全指南请查收 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmlRckRDVEVMSlNIcEtpLVN0TzZhRGJ6MHUwcnlLV0tzeGlXOE0ycGpCcExvNWxQYlM4TS16eXRwS2dfNFNuYWJEQzgzTElWVzJyY2QzQUFTUDRBVzE4Q0RZa2R0RHRhX19TV0wzLU5CWEY3RWhqdjB6TUNsNnhtWg?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 06:44:36 GMT"
-      },
-      {
-        "title": "今明两天秋雨暂歇 周末雨水和冷空气轮番登场 - 杭州网",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkh3Rno5WXJLU1hpNEdlckx5eVlvZnhNNzdsYjlTQnhkRlZqeDVydVU5bjhoSVFHMWk0ZDNMREdrY0xtc05MM2Z6RTNmUDFSMVduZ3AtWk5nRHpOSE9ocGIyYXcwYWVHNlBsbnBYWVE2QXBIZ0hVNDlabXpPWGZWSEpPRl8?oc=5",
-        "source": "杭州网",
-        "published": "Wed, 04 Nov 2026 23:37:35 GMT"
-      },
-      {
-        "title": "4000列中欧班列经二连浩特驶向欧洲​ - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NOXNkdHd2Y0kwalZ1cUk5SXU3cjZZUmJIMlJtS0ZEekpBSkk0clllTFVFRVBka3p5SU1PVFQ3T0w3Zm5hWC0xYW1SalZ6emt5V0VrNQ?oc=5",
-        "source": "见道网",
-        "published": "Thu, 05 Nov 2026 01:59:00 GMT"
-      },
-      {
-        "title": "南平市政协：推动宣传工作与政协履职深度融合 - 人民政协网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzbUNQdTBlR1A4dGxQUUJGaTBUUUF6ZTNjY01WZGxjZVBDSTF3b1N1cm5yNWtDZmtySlYzekhQYlJ2Y25jZ2FqREg5Z3JVOWczMm8xazBQaGhtY0haOGw4?oc=5",
-        "source": "人民政协网",
-        "published": "Thu, 05 Nov 2026 02:07:53 GMT"
-      },
-      {
-        "title": "青海召开新就业群体友好场景建设推进会 - 青海新闻网",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYTNJR3NWRFJuZXhtUTNjb3hjd1NTTFRaZWJzWUpmYUUyYzhWRDE3eVhRMnhNQVczOXhhOHdINE5qbzRLdVRYc1RFVXlqcDV3YnJKVi13TnQ3VmdwVWhNWk5LOXBsRzZacFpjbWFTUFVpbHpL?oc=5",
-        "source": "青海新闻网",
-        "published": "Wed, 04 Nov 2026 22:18:43 GMT"
-      },
-      {
-        "title": "平陆运河通航一个多月，西南货物改道向南出海 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TTE9OMFlnNHBYdno4c1RleWs2UVo4WTdQTlJYQ3hzVWx6TGppeVl0aHJ5NkJ2S205OEFoN2VyeFRmY05Xd1YtX3ZCRkt1V0RiMy1RdA?oc=5",
-        "source": "见道网",
-        "published": "Thu, 05 Nov 2026 03:07:00 GMT"
-      },
-      {
-        "title": "大风蓝色预警：京津冀等12省区市有5至7级风 阵风可达7至9级 - 天气网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41LVc3TVJrenRMX2Z5cGU4RlVhTTZhVEhiNUlMd0Frb0kyN19RLWJGQm1wYXppWXBMMVN2bUE0REVYT2Q0TFBlRF9WaUttWDhnWUdqckxadDlTQkY1?oc=5",
+        "title": "北京今天以晴为主周末将现雨雪降温 - 天气网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85b2U5MVFDUl82WlNLSHoyU1ZUb01ERlIwamtKLXRiUmNRQTdIaWlxSGxwZVhwaThRVWVJbi15cFdoLWJXZzFJaUkwQVM4VW9ITzFtVjF2UWdLTXR3?oc=5",
         "source": "天气网",
-        "published": "Wed, 04 Nov 2026 22:15:06 GMT"
+        "published": "Thu, 05 Nov 2026 22:56:32 GMT"
       },
       {
-        "title": "前三季度农业农村发展势头良好 - 人民网",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SUxfUkNqZWRoWXlYSEVCM2RiaGFqWUlrcWF5WVNBTUtIQXVLYnlzaGd0Q2JDYTBocHRaVG41bnNBWGh5ZXE5QlVnSEVjU3VOWEh1VEdpTU94MTV2cWJMbVl2aVpSSFJPTEhoTEtn?oc=5",
+        "title": "习近平复信澳大利亚青年学生 - 欧美同学会",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQUE1YVBhemhWVTdJYm9STjV2XzMyTmxuR0NiV3l2ekw4bHhzNHE5dFN3NUkzcnJfdWlGcDhldjZ4MHNnRVUxd25RV0dxbkQtYVFqRUpEOVNOQ2htLUktckhqaTRlWUVRYnBvdg?oc=5",
+        "source": "欧美同学会",
+        "published": "Fri, 06 Nov 2026 03:53:54 GMT"
+      },
+      {
+        "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要 - 党建网",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cmU3UGZQcFZNUVJWcHZhSXA1QmdjYm1TQ0dXNTB3ZUJiQ1BFM29mbTI2YnhTN2RxT1BqVWJSRjBzc0xGcnRpUDZyTVhzUC1hMkYwOThaVjYtVVF0Wkw4SEJ3dU1GRUs1OS0wN29RUzA0bEtl?oc=5",
+        "source": "党建网",
+        "published": "Fri, 06 Nov 2026 01:38:15 GMT"
+      },
+      {
+        "title": "2026年世界互联网大会乌镇峰会达成多项成果共识 - 海峡飞虹",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTcVRCME0xS0N1SkJ0SFJwS255RmlEYUhpVTRlaHN0cV94ZnhYVS1seGxZcG5xd3Q5ZV9QQW52dmw4TDF0RkF3VThXQnNSQ282MU1mc2Y3bG1FbEIzMTZEYmFsNXExZ3hQMmxqTzBteWdmbElWT2NMdDRsMFVDcXZoUU9iZw?oc=5",
+        "source": "海峡飞虹",
+        "published": "Fri, 06 Nov 2026 03:53:07 GMT"
+      },
+      {
+        "title": "深入学习领会党的二十届五中全会精神，我省纪检监察干部进一步增强战略定力、增强必胜信心 - 江苏省委新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMGtMSUtWZE5aOURwaHpRbDZWOWhUZVFXbnhKb01XdjNNYnNDWG51Uko3VGRjVVQzUjVIRnRzM3BreHZXVjlLUlFBZmM1bzFkVTNwMlpoQUJHZWFWMm01eGVaZGUwOGZJSWNfbGR2aEI?oc=5",
+        "source": "江苏省委新闻网",
+        "published": "Fri, 06 Nov 2026 00:56:00 GMT"
+      },
+      {
+        "title": "党领导人民治理黄河80年来建成水利工程5.4万余个 - 泉州网",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUDU2bTVJOTQ2TXk3aVB0SFZmamRjVmtyd1djTVprSlpIaVdqMU9vMVp5aC12Y1I4V09CMmowNGZNdGRGVHBjelY2TzZ0YjRrbTZxbTVnT0xuY09USVVFazFsWDdWaWY1YjZ0Z2JVYw?oc=5",
+        "source": "泉州网",
+        "published": "Fri, 06 Nov 2026 04:49:00 GMT"
+      },
+      {
+        "title": "新疆各地各单位认真传达学习贯彻自治区第十一次党代会精神 推动大会各项部署落实落细落地 - https://www.aksxw.com/",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMnlhNURxcUkyWktiTEV1T0FVYVV5NlFxMTRfcm5OVy1xQ2QxakJBYXNkNm9vcDI3aTBQMFRIeV9QUk96TW9waGw5dzM3WDcxcVNvTnowd2g3NktrckNjcTlfX1B1M2cyZzllVGk5SFY?oc=5",
+        "source": "https://www.aksxw.com/",
+        "published": "Fri, 06 Nov 2026 05:35:52 GMT"
+      },
+      {
+        "title": "平安“防火墙”送到群众身边——松原市宁江区消防宣传月活动见闻 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTklJNEFFWEVIZEpCMmVOcTBaQWc0WlJMSl9qZlVqR19MMV9sVUtwQ21Dano0U3pObGtNRTZOOThEZ3hBOFhFVXNEZ3BNTklyQURuRGx6NjRBZC1QRkdrdGlyRGEwYTJrYUF6R0x1X3lYbVl3ck5xdlVXNU82MTJRTlFNcXVvRTVhTjgxNg?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 05:20:18 GMT"
+      },
+      {
+        "title": "“一带一路”国家人文交流主题展敦煌亮相 - 中国侨网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JUlJnTEtJVVMwbUVrS1IzRDFiZzFGZDI3RnYyc0Z6S0lPNk5adXkxUXlkR2YwM0EtLVgzYlpOSVhvT1JUY05ha3IzOHBKRUQ5bDRIMUhSZUJSR2pjc2Y4Yw?oc=5",
+        "source": "中国侨网",
+        "published": "Fri, 06 Nov 2026 01:09:00 GMT"
+      },
+      {
+        "title": "金色满城，北京迎来了最动人的秋天 - 京报网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94aWlfTDFHVXowTXdUcFNlQzhGZGxEVTh1MUNGbm5JQUF6T2x3NVF0SEI0Q1hCTXZ5NC00akk3NVRLbmtzSnJqTG9jRGlab0hmRTVqRVVFQ0RYT0lLYXc?oc=5",
+        "source": "京报网",
+        "published": "Fri, 06 Nov 2026 00:03:44 GMT"
+      },
+      {
+        "title": "《苦难辉煌》作者金一南人民日报撰文谈长征：始于苦难，终于辉煌 - ThePaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpajNRTEZLaGxQSnB6Ujktc1otZEd4dE41cUFjSGFSYzFwUm82SE1rUzBWNDVJTlNJQTl5cmI4dTYtOTNSMVo1XzNMSFVaOS1KeGhPMmFvdDhWRFVScnFPQg?oc=5",
+        "source": "ThePaper.cn",
+        "published": "Fri, 06 Nov 2026 03:40:04 GMT"
+      },
+      {
+        "title": "中央气象台今早继续发布大风蓝色预警 - 中国日报网",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tVHdDazFuT0V6Nkh1U2s5VkI5MFZFOXhIWXBoaWpQaERXSWZWMEdtU2JVaGNNQk5zS2VCSmotNlZRR3FOR0tUMVNONklyYWlWanM0TTVwX0NDd3hBWFlQR2JwSzNOLU5XOUloLXlMVkIzT3NTNEVYdUdWUUE?oc=5",
+        "source": "中国日报网",
+        "published": "Fri, 06 Nov 2026 00:58:02 GMT"
+      },
+      {
+        "title": "助力参与全球海洋治理 “星海-BBNJ”生态环境数据专题产品发布 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kd05fdlV5MTNncnlkU0o2WVhGLThXV3o3bzRsY1B3cnFuZThySHJET2JFSGVZeWtEaFVzV2FBNEdUYlowcjY3OGVUb25Sd0NKNmV2WUh4am1xOFV4d0YyMTFLdjBTTjdV?oc=5",
+        "source": "中国新闻网",
+        "published": "Fri, 06 Nov 2026 01:38:56 GMT"
+      },
+      {
+        "title": "中共新疆维吾尔自治区委员会关于二十届中央巡视省（区、市）整改进展情况的通报 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVR2dnU3amVGakpLRUtla1llY0hHclp0cHA1LVFJVVRWdlRiUGJ1UVBwczVfcXh4R2pTa005Q0xKWmdFeGEzVWUzU0FNVVdIcDdfR2lBZmNPWUR1SGdUaGpTdURGQmo5ZWc2bTBabUdCODJFM2VCMFFJVE4yUXAteXNzaHk5V29tT2ZRYw?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 04:27:00 GMT"
+      },
+      {
+        "title": "“孙中山与统一战线故事分享会”在广州举行 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGVZVldMWXhrVlhmTWVVVW5MSmJ1ZWpGZzUzQkxYU0xvVDJiWGJ1aDFSUzEzbUlnMWozYXcyWkt1MGJVNkJtVlNjLWpSRWJHSU0zXzVIaVZPR2dMR2pOU0dNYXh4SWJTb2Yzbk9NSXRWMDBwai1QaGNKMGk4WmMwUHdNUkZ1MkV0?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 03:02:18 GMT"
+      },
+      {
+        "title": "沿着习近平总书记指引的方向奋勇争先 - 东南网",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fREp3TDdHVFcwTFJlN2tTWDF0QjJsbmEyN2tGdUVqZEsxVVpTVjVfZzlpUDRSUHhfSWk1UldSR2FPSlFSblpxWGM3T2JKLVVtZEViRnJuUlp2MTFxOGwxamZ6Q21iemNuT0dZeQ?oc=5",
+        "source": "东南网",
+        "published": "Thu, 05 Nov 2026 23:45:25 GMT"
+      },
+      {
+        "title": "全国已累计收购秋粮1亿吨 - 广州日报新花城",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkF2QXFwSm9uU2l2dkw3RHFuLV9BSWpURTFfcnlBdmNKSHVlVWpUcFBmTzdsZTQ4OEpEUjdBbGI0YnFwTUhlMWI4V0RVcnB4VVVoX0ZYenViUFR1WnB4QlFtd2ZRbk9JQ3BLaVBxdU9PRThqbWtIeFNpV3RjSXBaUDhMeDhIN2lXckE?oc=5",
+        "source": "广州日报新花城",
+        "published": "Fri, 06 Nov 2026 04:05:50 GMT"
+      },
+      {
+        "title": "李家超进博会逛展一路品尝 体验港企风采 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xU3FFaWp2aF9kUV81MGJHbXZUZ0dDYndOUWlMUkVldDlEcHRLSExNc0tnT2lJc1VjYS10cl9SME9aWktoUTdiRmg5d2M2S3hVdVBMblM0QjlXYTVxZVRVeW5oeER1UWx0NjlJRkhtQzM?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 04:11:46 GMT"
+      },
+      {
+        "title": "湖北中医药大学团队获“挑战杯”国赛二等奖 - 湖北新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GWGx0Ym1LTkphQk9ybGxpUS1PbFZLQWhoVUFVSGQ0c1RMenl0NGcyd21PYW8weUpPME4xSjZQTmU1VVVvYWY1cmw5emhnQjdDWDBVZFBZa3lsaW9LWl9pTmd4bGxXelo5?oc=5",
+        "source": "湖北新闻网",
+        "published": "Fri, 06 Nov 2026 01:14:00 GMT"
+      },
+      {
+        "title": "宜宾市政协：激发新闻宣传与政协履职共振合力 - 人民政协网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqRTBWX0RBbV9hNk0tajNXR1ZrWmpEemN6NjhBUFBsN2E0TzJEVmlhUFRWR3RnMFBFUnp3YWNhQ0llUl9pNWhUNTNHbkRDSjZNLXl4VF93MlFpaW5iYUNZ?oc=5",
+        "source": "人民政协网",
+        "published": "Fri, 06 Nov 2026 01:43:53 GMT"
+      },
+      {
+        "title": "空军八一飞行表演队飞越长城献礼人民空军成立77周年 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHF4UEc1MGZ4eFAyZTNMdGVoY2h1UWVJNGUwcW5lemZKRkt2UFNwRnYwRk9XYzJueHgxMGpPWHdxMEtHQlc5UXVjZHFxQTBMYWN4c3phWlBHNWR2YnBvTlB3SXpLOEVUbENyUUdTbkc0d1FIQWJENWxqempPV29abEVTbw?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 03:13:16 GMT"
+      },
+      {
+        "title": "构建绿色能源与媒体相互赋能的发展新格局 - 国际科技创新中心",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sOTVJaUxGY1k2Rmk0eGY5V19GRWYxSzNsbFdTNUQ4NnZtRXRBVmpFaE9XLTdNaDUwaGxuN2FKWVpVZHdnNnpaNHBKTDZLUkpOa3ZSNWZsR3pHeGRiM0Z3TWF2MG5Ra0E0N0V2bGFJRTA?oc=5",
+        "source": "国际科技创新中心",
+        "published": "Fri, 06 Nov 2026 05:42:48 GMT"
+      },
+      {
+        "title": "第二艘国产大型邮轮“爱达·花城号”交付 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHpQeE1CZXpVTW5FQ1BDcV95bVk1Y054dTNyUHo1MzVfRC1mRW50WUxWbVZXVlltYVlRYUZUbUZoemJUT2JCV0xhbEk2OGpwUFEtdWtYdUI4aWYwV1UydWdNbGhLUjBGbi1TNEItSXctSEU2WTJ2ZlFYRXp6M3pDUlhPNmFJdw?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 02:31:40 GMT"
+      },
+      {
+        "title": "广西这张医保影像云，怎样铺向全国、连向东盟 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmlLX2NzWlBhVHF6aFFoSW9SVlktRWR5cnVzcmZZZXpMVnVNNVFsWFJpd3M5ODYxbEhrSVdfcTRLNTh2NVdzQzd1dWFESmRqUWcyb3h3V2Raazc1YnVXTHZtYkpvVXhZN2lvMkFLbFhvWHBlSmtqaUVnMk44aDZhZER6akM1Vmo5ZFMyQQ?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 03:14:11 GMT"
+      },
+      {
+        "title": "黑龙江将启动冬季冰雪旅游“百日行动” - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnZBa3d2WmFCVjJYSmU1bmpEVmQ1MXBaLUNVZjAyMkVFMTItcC1NNWlHUzlHUjU4QTBLOWFKdXBldlNJdTZod2dPaUlkTnV0SUhWRGRhSEFzb2dGY0VmRTVZbGdRSGpZajBEZExnaG9Ma1AtN3ZqWkQxMDJXMGMwVw?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 02:53:33 GMT"
+      },
+      {
+        "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障 - 泉州网",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03bkhLMzBxRFBKaDlsby1oOTlDZ2RZdXhLYlQ0THMxdlA2ZmEzRjBVRVZabTBMaDBqNUMzQ0VuQzNtX2dqVVI5THlhY3BqME81Mi1VRFA3TXZuRjV0WEdwTFBQTExuOHZEb09ZV3R6MA?oc=5",
+        "source": "泉州网",
+        "published": "Fri, 06 Nov 2026 01:56:00 GMT"
+      },
+      {
+        "title": "立冬冷空气将直抵华南 ！立冬冷空气即将上线 降温日历看各地何时气温大跳水 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wak10eUs0WmNQSUFxeXYzVjQyV2dyeVJCekRLalBzUmt6TnIyUUdCNUVYTW45YXk4T2gzQTRzbDV2cUpNeGUza193NFE1X1NKbE9pbXFReGFkVGx5cXdkZEVLN0NlMktSM2FBcGQ1VTM?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 02:06:40 GMT"
+      },
+      {
+        "title": "外交部：日本“再军事化”狂飙突进严重威胁地区和平稳定_国际要闻 - 中国甘肃网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNmJHdzBiZkZYTWR1MGVFbWw5VE9VNmFEd1NQeTc4azMwZTFCU2hrcjk1U3ozdW1LTnhOV1RhcFNFdzVGTHFOUGoydWtOeDdfQ1ZQV3E5Snd4Rnd6bWtYblhrVk9XUUI5UlE?oc=5",
+        "source": "中国甘肃网",
+        "published": "Fri, 06 Nov 2026 02:37:00 GMT"
+      },
+      {
+        "title": "世界市长共赴宁波之夜 - 中国日报网",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhMnhTS0UyTWdpdjFOU3ZNWW9WYm9scjdvQ3hMOE5wVzBaRWxvaG9EdFF2Zy1aN2pRTkl0OUU5MElFcVRfLWpqUzRTcW8zeFdpTEtHOUN5NkRSNkhCMmNfczI1N245ajJhRzNHdENGeFlMWERDMnl4NFFHb3o?oc=5",
+        "source": "中国日报网",
+        "published": "Fri, 06 Nov 2026 02:52:09 GMT"
+      },
+      {
+        "title": "把作风建设融入日常抓在经常 - 人民网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JWTc0U21nLWlUNEx2ZUNtN0JubGViNHBGQ0c4Y2haSklsVXRRUzBuWGVybzE4a2RmSTV5TjNWTE9lRVdLUlpyb0tyeXpudnFMeGdhVTd2bUttcGphT2RKemF5OEpsMjBXVlRSeFNZZ2JVQQ?oc=5",
         "source": "人民网",
-        "published": "Thu, 05 Nov 2026 00:16:00 GMT"
+        "published": "Fri, 06 Nov 2026 00:53:00 GMT"
       }
     ],
     "商业": [
       {
-        "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识 - 央视网",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjcUFublVROXA0cDJtRHM5cFFiQmlQZWhSSUtiWWtKOE95SC15ZktDamdWZmZKZ0V3dHNPY2xVOG5yTHhkTmxFTUxidXA1WHR2VDRzbi1hS08zUnplUkhVdXVFNEQ1LXZFQ2ktRnBFNW50MUd2U3BHaw?oc=5",
-        "source": "央视网",
-        "published": "Thu, 05 Nov 2026 03:09:53 GMT"
+        "title": "美国期中选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断 - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xb2tQQ0JsTGt0YndEUGdFSmlBNU1oaGpRRlJZWGN2YUhVQU12ZE93TGZXS3FrN3ZtSkZWM29fN1BGSmpqQk5kWXZINnd5Q1U3UnZuUFlQMV9TMVcyZlQ4NTZsSTNDbVXSAWxBVV95cUxNZjBoU1dIek0wLTc3NmVXUkE0aHI5Q1VWVF9LTkMxZ1pwdkhScWYxX3c0YlJleV8wWWZuRHRYbHRQZVdGdHBXZ1hLNTlneGpWbHdXbW1VckR5MHNiRnBkcEEzemhNSVpiUmJ2R2U?oc=5",
+        "source": "BBC",
+        "published": "Fri, 06 Nov 2026 03:38:31 GMT"
       },
       {
-        "title": "共赴“进博之约” 共享中国机遇--经济·科技 - 人民网财经",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bVJqSFptZzlmakJMaGhYd0pWZ1RLY0FUQjl0bWo5VUpwVHpfaVJ0Wl9QMjl3c0xLLTc4LUZOWDJGWi1RZkNGV2ZtWEV5bnB4cGc1Ri1hUzA1bE9Mc0NqcmpwOXZmaG13MXdfOV9R?oc=5",
-        "source": "人民网财经",
-        "published": "Wed, 04 Nov 2026 22:14:00 GMT"
+        "title": "2026年世界互联网大会乌镇峰会达成多项成果共识 - 海峡飞虹",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTcVRCME0xS0N1SkJ0SFJwS255RmlEYUhpVTRlaHN0cV94ZnhYVS1seGxZcG5xd3Q5ZV9QQW52dmw4TDF0RkF3VThXQnNSQ282MU1mc2Y3bG1FbEIzMTZEYmFsNXExZ3hQMmxqTzBteWdmbElWT2NMdDRsMFVDcXZoUU9iZw?oc=5",
+        "source": "海峡飞虹",
+        "published": "Fri, 06 Nov 2026 03:53:07 GMT"
       },
       {
-        "title": "刷新历史纪录 广交会期间白云机场口岸入出境外国人超67.5万人次 - 财联社电报",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jdWNGMzV1MGZuS3RJbEdOdHAyZHp4MFQ0MWlzZmtBbFN1QzBPVWhlT2ZSYTVZdzlCbW9OczRycl8yVW1pMkE?oc=5",
-        "source": "财联社电报",
-        "published": "Thu, 05 Nov 2026 03:12:33 GMT"
-      },
-      {
-        "title": "恒生科技指数涨超5% 恒生指数涨近3% - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wLXdqbFZQcTdpaWFpdUE5bDlCQkFMZ1Y2UTJXZUxHVC1GNkdRX3g3akE5TUEzRUZHOWkySmJLRl84Vzh6RjFNeUdCZGQzSEtBcEFhbWhFVkd2M1lPRXQzcnh6SXpQZw?oc=5",
-        "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 02:41:25 GMT"
-      },
-      {
-        "title": "A股午后回落，沪指转跌，存储、光模块回吐涨幅，光伏电池集体爆发，恒科指暴涨4%，科网股全线攀升 - 华尔街见闻",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydHpJM3pua2dSUTJiS192aS0wLXVQMlNqZnNOY21sRG5UQlk3djN1cUkyTzhGRk0zRWotTHlsdndvR0xjM096OGdkTE1HaVQ0aGYw?oc=5",
-        "source": "华尔街见闻",
-        "published": "Thu, 05 Nov 2026 05:43:07 GMT"
-      },
-      {
-        "title": "韩国股市低开低走跌3% 科技股领跌 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vUDJQRldaNnY5VnZhLTBLREdUSGRpU0tJbFEtNEFpZ25DaXR3MER2aklWRjNoNFlwMGVCVFBzZnBpVzZSX1dvWVRXNnh1NFlXVmplZzdCck9XOGk3WWtDeENEV1R5ZEduajZkTERGT2U?oc=5",
+        "title": "韩国股市跌至熔断三星电子跌超10% 韩股暴跌触发熔断 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YWlhvV1VJaHFQSV9ocWp0V3owQnZiekZGVUhEMmpoZnZWM1l2T2FkY2o2RzBCTDRNV1pGRTdScnRiTGdGZC1FWGhlaTVIc1R6Rl9FTWVoUkVHcFNvWGpReV9QZjFrQ3Z4VGVEZjJZNUI?oc=5",
         "source": "中华网",
-        "published": "Thu, 05 Nov 2026 02:04:54 GMT"
+        "published": "Fri, 06 Nov 2026 04:05:13 GMT"
       },
       {
-        "title": "央行将开展3000亿元买断式逆回购操作 - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUVxOExqWHZDLWRoSDd0em1GcFlQVlhfRG15SUhsa0xyTnpkM2wxRDlMT1IwdFNEOHhXWC0tLUhfSElWaVNrdU1DV3BxNzZqcUlxMzlaVnFCWHY3Y2VFVjhQX3M0bzkwR0gwdGtUQlZUbGlqSDdySTlNWUhGdnJmaWlWaVNNUWVkanI1UjNOaUpYVi1sSGxmM0pB?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 01:15:41 GMT"
+        "title": "诺华：中国正成为公司突破性疗法的全球首发市场 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaXRUbHh3elVCcFYySy1feTN0UXE2Y2NpbkxhZWxGRGM4SEF2QTl2eEZERXd3SFRobDdvTUNrcFlBVzJqS3YwaG1kTDFEbTlRMjNLUFNOQVBxZ2pzaFZuNThHcld5UQ?oc=5",
+        "source": "东方财富",
+        "published": "Fri, 06 Nov 2026 03:28:39 GMT"
       },
       {
-        "title": "现货黄金站上4100美元 港股黄金股集体走强 - 金融界",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpY016ajc4WFJBSGZlZndQR01tMTdPbVJHaEZkT05nTjRUWDRmVThGNVRWcldrem04RTY2clhqT0c2eUhXOHZGdFdYRTB0YXBIblRvaWZORzhYcFh4a25VQ05NdWswQVNqUFh3OFI1eFEzVjN1?oc=5",
-        "source": "金融界",
-        "published": "Thu, 05 Nov 2026 02:58:13 GMT"
-      },
-      {
-        "title": "纽约原油价格1个月来首次跌破90美元 - 日经中文网",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmpFR2x6cjB1TUoyTzZnMFltWG11N0tYLXhJN1Y5eHBoem53cUJ3VGVuaXgzMTFMcGJkNHlqaUdLZHFjU0pGMTVvbXhpUk9jUkdnTGFJVEQyc2hWVlhBNVBqZWprYzh6cnZsOGNETUZ3a2F3TUY2c3ZnaWJRQ1VPMXdvQTdBdw?oc=5",
+        "title": "日经平均股指早盘跌破6万点 - 日经中文网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOURwdVB5Y1ZIU0VfMXpkandKdXVnZk8zb3N0YTJjblFCb1g4UnlTQTA2aGZRM05IT01qM1F1RzJHX2htSFpyeUkxYXRxSFlNZ3B1NFphUXJsN1YtUGN5VGg3TEJiNDhGRWZOQmdlWGlWeFdUZGZ1eml2N2U5cTUzY1IxNDBqN3c?oc=5",
         "source": "日经中文网",
-        "published": "Thu, 05 Nov 2026 01:42:09 GMT"
+        "published": "Fri, 06 Nov 2026 02:59:43 GMT"
       },
       {
-        "title": "牛市早报｜央行加力实施股票回购增持再贷款政策 - ThePaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ODF0SFM5UTlfREF5Q3VMNzJNRUFHY3JnSW52VzRhbDdLd3V0ZW02aDlEcHVCbjNoRFpEWWlxcmNtY1czT1QtajYyT2FjWThDQUlidHVLS2FBOWVRczBKRg?oc=5",
-        "source": "ThePaper.cn",
-        "published": "Thu, 05 Nov 2026 00:33:37 GMT"
+        "title": "创业板跌3.5%，AI硬件领跌、“易中天”再度集体调整，光伏、农业逆势活跃，恒指、恒科指均跌超1% - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XWTNoc04wajhlZ21XeDEzSldvWENMcU5xQTFUMU9LbVgyemRoZVVXSVliaWVQVXZtck9SOEVWSEdsMDhLdHRYamdEOUFlNDhHYkUw?oc=5",
+        "source": "华尔街见闻",
+        "published": "Fri, 06 Nov 2026 04:04:31 GMT"
       },
       {
-        "title": "半导体设备概念股早盘爆发，半导体设备ETF涨停 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lXy15QnlUbTlUQWZxeGptQ3lQSVJ2WHlxV1MwX0RLcVZBYnB0N2FOMGVqcWJCZ3lsTDF5c0dfUE5hWTl4c2hGanl4MGVqTUxuMjAwOUx3Uko4UFFaQkVPczgzeDQ2dw?oc=5",
+        "title": "现货黄金纽约尾盘涨0.7%报4089.15美元、COMEX铜跌3.47% - 观点网",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUeXBJaXdua2tQY0ZHRFE2RGJRWWU1d2RyMThfcnR1T1RxVlBMYlc1WkV6S2JSV0RwdlFDbnVLVUo3RDBJcWk1YnA4cHlpZw?oc=5",
+        "source": "观点网",
+        "published": "Fri, 06 Nov 2026 00:30:24 GMT"
+      },
+      {
+        "title": "国内商品期市午盘多数下跌 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tenl5T2NRV2Y2N2NXWG1wY3lEZVVmNzljNUtDLVFnZ2c2WnhvS0hwS2YxR0RNb0h5X2NMT245X1R5M1p3VGtuYXFkTDFWSFRSXzJz?oc=5",
+        "source": "第一财经",
+        "published": "Fri, 06 Nov 2026 03:33:20 GMT"
+      },
+      {
+        "title": "11月6日港股午盘：恒指跌1.06% 潍柴动力领跌成分股 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wX2k0SzBRRjJjb2o5d1pqVTFsaGlyMTZwaDBRNzRJRW9ESW1rOHpENXlpbW1uRExLdUJxQ2lLeXV6QzZYYjVZVTFHYUFRcHRreHZCODdwWDk3VDdwWlozSnhYUkwzUQ?oc=5",
         "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 03:59:14 GMT"
+        "published": "Fri, 06 Nov 2026 04:15:11 GMT"
       },
       {
-        "title": "九赴进博之约，拜耳携近30项首展首发参展，以生命科学创新服务中国、 连接世界 - 美通社",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PUEQ5ZnZCUThNQktld2swMWY2bTdrRG1neWVoWWM3czVWSlFjMlhLNWFfY1lMRmpfZDBXM0V2X2RPcFp6MG5qUDJkekZDbmJPX1FTUkZSOA?oc=5",
-        "source": "美通社",
-        "published": "Thu, 05 Nov 2026 03:37:00 GMT"
-      },
-      {
-        "title": "综述｜美中期选举选情致美股金价大涨油价重挫 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4S2tPbDZzb21EaXhMN3p0WFhOeU1feUFBbHhuaUZLSzBLdEw3TWxoUzlLdUFiTDR3TkFPWXhLTmRhWjdxV0gwQm83a1hzZC01cnB4cHJHUE9sbzN6UWtiUnJqYU13ZFp0X0tKZ1JZSEdteU1nRjFncFpLd2R4Sk0?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 02:58:34 GMT"
-      },
-      {
-        "title": "不光是超市冷冻柜！法国血库也被黑客攻击了 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PQU4yR0lfWmJ6dDZjUGUteVN2a0tZWENiZTJGLXFVTmVxN2RJVnpGRC04WlBoYnh4aWtvTnltWWpWNThMRkJkNw?oc=5",
-        "source": "财联社",
-        "published": "Thu, 05 Nov 2026 01:21:51 GMT"
-      },
-      {
-        "title": "股票ETF正被定投式买入 资金流入创新高 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPQWgtUmNaWnM5Ri1XNWpFV01iU2JESUxGbVI1UGtwNWlIVFhtNEY4dThvYkhZVFM3bGxTRnVRSVBzWnU0eUdwS3lJalY4U0ljczFKYUJla3ZwSzZ6bDZCM0dFaEdLOU44YnY0aE51OVA?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:07:10 GMT"
-      },
-      {
-        "title": "利好！600487，宣布大额增持+回购股份+上调业绩考核目标！ - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNGJRYVZfNFRYd1pMWnVBd2UtVjh6SmdseEhFRDNRUWNNWU9rMWMyNWc3a3lMcTlfTmRGME55R2N5dTZkOF9NYnk0QjVRS2hpMy1SVUFxZXRtXzkzVmpTR1hkZWZhZw?oc=5",
-        "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 01:41:15 GMT"
-      },
-      {
-        "title": "五部门：加强废钢铁、报废机动车、废弃电器电子产品等“城市矿产”回收利用 - IT之家",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiVlhnZnFRZkh3TG1MejQ2N212alVld3V1bFh1WGIzZXAwcjd1eW9wV1lDYXlYYXJUcHZBeW1CYzc0dnVDcFhDTS1FNlA?oc=5",
+        "title": "国家发改委：预计今年供暖季全国最高用电负荷将达 15.2 亿千瓦左右 - IT之家",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRXpFdVJrRlo4akwxeTRBTWNMQmRJOWNfV3BpVG5DOGtuNmNNdzg0UFg2UXJOekd6ZTR5S1hyeWd4aXZ5NVFzUzdtYkk?oc=5",
         "source": "IT之家",
-        "published": "Thu, 05 Nov 2026 01:58:58 GMT"
+        "published": "Fri, 06 Nov 2026 03:05:20 GMT"
       },
       {
-        "title": "市场消化美期中选举结果 欧股收盘大涨 - RFI",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNbWg5V0NwYXJHSnkyZjVveHVSWWpZX3pfVGM5WU8wY1dzOXhQVG5FX0s0cERaeDBqSDE2NmhjendWN1VianR0dERTR1pDSlFPOU1WNHNTc051bnp1U3hqQV9pOC02NGNTVUdUNHhMY1J2SmVZMldNMTNUbFdVNEpnZ3hia2ZBampYYjBORlVmay14NVNKZkNmQlpHbXUxcDUzcF9fNi1OdHZjSWhiVWVJUW5IYjNKalFBV0FzY252bEdWMnhHNFZXQXpfN3VTNU1GeURHdWNWQWJsbXpkVU9kYUY5T0RMWWJ6ZEpnMzBZeVdwaXRRWS1NWGt6ZzZMZVBzVXM5RlJyemxvN2x3cTY4MGVtMVNjZklTOHBNckhodDN6UWU5TUhWaEJWaXhiTFItdTB4WlUzX0NlclJEb3kzRWxPdVg?oc=5",
-        "source": "RFI",
-        "published": "Wed, 04 Nov 2026 23:02:00 GMT"
-      },
-      {
-        "title": "首批主动ETF募集资金逾350亿元 中国证监会将持续丰富市场投资工具 - 中共上海市委金融委员会办公室",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lycGlUaGZtU1lwajkwZllLTm8xLTgtV3h1MWs0NWMyTGZGS3pCSGx0QVNXTmpNcDUtUm5wRER3b1RqNm1TRWhGNVp2LWxFSVNMelBxdTVlRWxZNkVsRlVSb2w3LXgyeFVhTDF6aTRFcThmSTlDdEp5d0FZOS1sX2VB?oc=5",
-        "source": "中共上海市委金融委员会办公室",
-        "published": "Thu, 05 Nov 2026 06:28:12 GMT"
-      },
-      {
-        "title": "美股存储芯片股盘前跌幅扩大 美光、SK海力士、闪迪跌逾2% - 财联社电报",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUGc0Ty1iMnA5alJrSUYybEF1QlFJSXBqdkRBZ1hWN2twR0NwbjNRTnEtZy1QRHFQc3FkQllFel96cFlXeEE?oc=5",
+        "title": "光储产业链景气度边际回暖 供需拐点尚待明晰 - 财联社电报",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BdDFIZHlOVFU0YUdWUzFBSUE0dEllNTlqWjdHSlQ5alJRZlNBb3JHVEtQcXlWMXRFNjJRb0lmRFByQWFmU0E?oc=5",
         "source": "财联社电报",
-        "published": "Wed, 04 Nov 2026 15:08:54 GMT"
+        "published": "Thu, 05 Nov 2026 22:20:15 GMT"
       },
       {
-        "title": "最高50亿元！长鑫科技，将创科创板纪录 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hOTRzUnpnWVp5RGdlMnVsbEQ1bUZfQkdka2VVMzJLXzVCLWpRajctWlMzcC00eFZhZ1lPSGdjVmxoRWhlZkRaQVlwZnc0Q0NCRWVjTzVLUV9tdnVpSkEwNDNoYnoyNzFW?oc=5",
+        "title": "证券、基金、保险公司互换便利第三次操作落地 - 人民网财经",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14UHJpWllseDlIb1FrdFd5cGpSS19sMUZSbEpzTTlmOTl4VUIxVWMxQ1pqWDVWdmVyZk9zd2NmWDVsUktranRGdDBxUFA1ZEFZVXhsMXBpVi00d3hOUnhlZWM1MTlWQ1NkUnFRaWJR?oc=5",
+        "source": "人民网财经",
+        "published": "Thu, 05 Nov 2026 23:37:00 GMT"
+      },
+      {
+        "title": "王兴兴谈物理AI最大挑战 模型与现实对齐难题 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNEQ5THZRc2hybVpPXzNiM1JpNlVPR3FzbXZmTVVKc0xLdXM0NUFSSTRjWGpMMUFrWXZMcXVNWTBINWVsb29oeE9rdVR2TDNHUE5GaXRBc0YtemhCLTZxUkdVTFFxSGlFWWdmWUUzbXo?oc=5",
         "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:47:42 GMT"
+        "published": "Fri, 06 Nov 2026 00:46:16 GMT"
       },
       {
-        "title": "人民币市场汇价（11月5日） - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmZnczZtZjJwSk02SWFYS1hhWFFuYlJiQlZHdVl2anRpcS1nSWh0OTJ4N0ExS1ZyMVpESVBUZExGX1h0SXRSR2JIUXBuS1F5X1Jkd2pEQnpubEV5ck1malYtQXdnejVUSG9LVDlkdGN5bDNndWxBQ0VCeXFqRHFfWmFuNDg5ZldF?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 02:15:53 GMT"
+        "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行 - 欧美同学会",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ySUNBT0d3akJ4NjZmM3lVMHY2MGgxS2VMNDM3Z1pGY2NsN2hTVjUyMGpfVXJnUk02OEd6MlMtdTNwSlVMbTk4TEJhWTIwNnRiTDBIa2hsS0EzVVd4em1nbndwemRUM2RuejE4eQ?oc=5",
+        "source": "欧美同学会",
+        "published": "Fri, 06 Nov 2026 01:15:24 GMT"
       },
       {
-        "title": "光伏设备概念盘中走强，三季度中国新增光伏装机同比增长约38%|异动情报 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZ3k5YVpWN1JaOUI4X3YzQ1dLMTRBRklYSjN6VDNVMnFnbUt4c1FLV2Nienp3TlNSQ1JaUkItZVZqOHlfWE42dWx1ck1acm5QQ2VFZHRSUklOcFplTVpXMmg2MHpBdw?oc=5",
+        "title": "美股半导体股盘前继续下挫 芯片存储板块领跌 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RT1ZFaVJZOFU5UjFOenZUR0NhaXpqZlNLY1kxQVM3ZnNfeF9mUmlWOXo1VnhvSlZrSnZBMVhodDhnbUtINVJaQ0Rzcm5wNU9iTVhyNEJ0bDE0VnN1M2hlMXlBMGZkb1BUU0ZneVJLb1M?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 03:36:20 GMT"
+      },
+      {
+        "title": "这波A股反弹能持续多久 内外因素共振助力 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PSG1jRndzNU1BR1RhMFd2NlNKcnpXZGlsQnhFODFOdU9lZmRyT1B1dDZONGNlbXA5V2FEMUktLTJ3U0ZHMmwydDZjM3RTUzZJOW1COHNtZ2VKME5BdEpybWhqMXdjbHNuV0g0b3NMbkE?oc=5",
+        "source": "中华网",
+        "published": "Thu, 05 Nov 2026 23:50:16 GMT"
+      },
+      {
+        "title": "电网设备板块震荡走高 - 网易新闻客户端",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pX1NsUDJhM0tUYVhPa2ZleENjakdBXzJQVEU5UktQSDRKcEl1MERZbFNwZHFzZkd0eVI5SlhZdWxvLXBBLWxFdzVSQzdNc2E0Rm9MNndXSjhJbk02?oc=5",
+        "source": "网易新闻客户端",
+        "published": "Fri, 06 Nov 2026 02:20:00 GMT"
+      },
+      {
+        "title": "地缘冲突预期缓和 国际油价剧烈回调 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSE5aTzl1V0R4YWU5bkpYT3gwb0RXeGFFYU14RC02bTA1ZE9Jb2V3LWQzNUphWHg4WHozTXBDVksxdlZ0cFpsRHJfMDZySU50c0liSlJOTDg4QkJkQTJfcFNUblV4ZkZOUG83dWxsT1lDeUNDelZILVlMUXZhV0ZSLVIzdUpKbE82TUVlOA?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 01:17:00 GMT"
+      },
+      {
+        "title": "从“屏幕流量”到“产业留量” 红果短剧撬动大产业背后的乡村叙事 - 华龙网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvYnVHLUozbUxFcXhJTVJrYzg0VGY0SlJORFhRRTd2YXB0UThhNTFOQTQyRlBCYThZTk40UGt4SE85ZHJON2R3QndDMlY0RzJvRzI2QmhsVDRLaWJtUVZGZDdXWDkzTmRvOUhz?oc=5",
+        "source": "华龙网",
+        "published": "Fri, 06 Nov 2026 01:26:39 GMT"
+      },
+      {
+        "title": "国家能源局：推动2030年虚拟电厂调节能力达5000万千瓦以上 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jcHhCaldvaXcxWEpTVHRNMFdwa0tKYWM4Q0QxN2xLbjExblV6bWhZVzJWYWttZzNQSjViZTNja2NhZFFEWGFtZVB2bGJySmhmZHZJWkNzNWhDd2hsaHV3dUlBeWdIdw?oc=5",
         "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 02:29:22 GMT"
+        "published": "Fri, 06 Nov 2026 05:44:40 GMT"
       },
       {
-        "title": "售价还要上调！手机厂商开始囤货锁产能了 内存继续涨价推高成本 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zejNvcFlrdi1rZVV0S2Q2S2VjaGJtWmRnaUF0TDBtZkRtSGxvNWtHYnhaM3RmWHhTWE5zX2dDcUlqV1psZkx3cmZFemljelJTSldRcUotd0I?oc=5",
+        "title": "6G将在2030年左右实现商用：未来手机信号将没有死角 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51ajFLeVVtd2JRZFlEVWkwaDJQVGpLYV9RT3pveDFpV2M2bW1nLXllOUo0YVVpLWxCMFd0NF8xb0dvaHBWSmNIVzV5ZThwMG5qZzRJbUo0dmI?oc=5",
         "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 01:28:00 GMT"
+        "published": "Thu, 05 Nov 2026 13:12:00 GMT"
       },
       {
-        "title": "新疆新型储能装机规模超2500万千瓦 装机规模居全国首位 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HZ3lHZnl5d2dVR1RYbmE2ajd5dXNIYUVtU1ZVamt4eEhLeGl6OFBNdUJGRXNKWGV5TjZHcWlDMmw4SGp5eGprbnkyNjBaMk80d09rdHBRZm40TUI4RjFYa0YwWWZOcXJiR3lGYllnVWg?oc=5",
-        "source": "中国科技网",
-        "published": "Thu, 05 Nov 2026 06:53:05 GMT"
+        "title": "“易中天”、立讯精密、东山精密等集体表态：充分运用政策工具维护公司价值和投资者利益 - ThePaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UcDA0cmpTZVYtYlpLTTAtM3ZKWUZSS3BtQmZDaDFCYmFfOVQ5dXpJbU14Uzh3eFNxWWVOWkczR25DQlF1a2w3TVo4cGZ5M0FjekFkcFBKS2pLRU10dlVmWQ?oc=5",
+        "source": "ThePaper.cn",
+        "published": "Fri, 06 Nov 2026 04:14:35 GMT"
       },
       {
-        "title": "美国“蓝色浪潮”将会限制AI资本投入？高盛：恰恰相反！ - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OUjZlbW94Z0lNRW45WmUwU2F0SDNFc2pvZkhRUW44ek9RWmlIdWdQbWtLNDdZT1VJamFYTEZnMzd1eEV3WXVmeQ?oc=5",
-        "source": "财联社",
-        "published": "Thu, 05 Nov 2026 03:33:00 GMT"
+        "title": "陈忠岳：中国移动2027年算力投资预计超1000亿元 - 金融界",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNDNINW9SUVU2SFhCRktvbmpkal9nRmNHZVhZSXFFS1VrOHRTeW4xLURVSGJyaE4yb28wZDM5VG9NRlBtUHZXY3gzWk1RSWpzNkZFdlpFZndSSkV2RVFtVS1LVVFndW1fZERGVEtpNV9Ta01V?oc=5",
+        "source": "金融界",
+        "published": "Fri, 06 Nov 2026 03:21:49 GMT"
       },
       {
-        "title": "2025年我国新型显示产业营收超8000亿元 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PbG05V3UyVVBubFIyNEtfclRfX08yRWM4cDdwdnB6TThMUm1rZC16Q0VpWmlreFBUM1hMUGhRYlNPa0FRaHd2QjM0S0RlSUZqQm40OURSTHN1VWpzeFZHSXdDRmlzTUVCV2FKcE04WEUwOE9ZeXliNk8zY21DUQ?oc=5",
-        "source": "新华网",
-        "published": "Thu, 05 Nov 2026 03:11:56 GMT"
+        "title": "《2026广州化妆品产业白皮书》发布 解码千亿美妆产业出海新机遇 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzBUdHVCUkJUaldVOWJLSG96SkdESlI0Z2NacWVmWkhQdE4wTC1ZSG8yMVREdWU1VEdvWWJQMVByelVzNDd0TVRhd0QyQy1nWlNrQ1F0eGg5bXRQeDFCLUQyN3dGd29ySmRWNjRaa3F3NW5GWjRncU9LWW1WQVFSd2xGeDdtbm1D?oc=5",
+        "source": "搜狐网",
+        "published": "Thu, 05 Nov 2026 23:47:00 GMT"
       },
       {
-        "title": "盘前速递丨11月5日（周四）：江苏雷利实控人被立案、倍轻松实控人被罚；第九届进博会今开幕 - 央广财经",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQWRJdjU4V3l5Zmw4VVJ5cHUtOVNaNEwwRklxTk43cGl3a0I5d0E2SHg5YXp4TEU4MktxaW9aVzNvSVBhQzNNQzItYmN1VE90cGhBWW52VUxhbVZmZjdSdUFab1E3S0JiQUdGczRBUQ?oc=5",
-        "source": "央广财经",
-        "published": "Thu, 05 Nov 2026 01:09:04 GMT"
+        "title": "腾讯混元Hy4拿下Arena中国模型第一，实验室排名全球第五但单模型列第13 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WVzN4Q3lSa2JVQy0teTRJeTVaOFF5ZGlfalI2cEFEX0lORTVEMVZaNTFSR2ZoVmRacnpERWdBSXlhR1k0TE9lWjNTbEl6amVTSXc?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 02:05:46 GMT"
       },
       {
-        "title": "科技早报 | 苹果智能中国大陆的首批功能来了；币安披露“史上最大加密货币劫案”细节 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbFhrWmFPOVZTRXZUOWVCZnF2VERYOHQxYzdlWTcyWF96MHpmaldoa3A4eWZoejUzaGM5UDlhRktzS0hpeVVCM1pnV3pEOFFwV2NKWUtvSVh2M09XYXRJRHlpbXVYdw?oc=5",
-        "source": "东方财富",
-        "published": "Thu, 05 Nov 2026 00:49:18 GMT"
+        "title": "台股一度狂洩逾3700點 國安基金密切盯盤、必要時開會 - 大紀元",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdmNzQy1oNE84TlhCQ2hYVlNCVGtMS2Zkb3pwV2ozNl9xNU8xdm1qMXduRWxkcHphMklsdkFyM0NQM3NzX0xGWk9PT29mUjI1bk9HNHBmcEVnLXdjY0FUUdIBZkFVX3lxTFB1aWx0bG11QVZyZnQ4dlo3MjhpR016Nl9PUHVLYnVtWjBOLThjSDZTN0lPa1FIRnZoMVdLbUowRVViQjJxUy05SVNlVkpFTDItMjIwUGNEb2VYV240LUxmdFEtM0Q4QQ?oc=5",
+        "source": "大紀元",
+        "published": "Fri, 06 Nov 2026 05:31:00 GMT"
       },
       {
-        "title": "直播间里的Token，你会买吗？ - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1EyUlVDVHVFQVZhYWxoei1KQ0duWWZVNlpvUlAyQV91Mkoza09Ld05MVl94VUZYVXRpRXU3YVdYb3VJbElWSkREZlMyZ1ByV25OQ011TnV6S3czOEFmUkVBTEVmamVEaDlBU2ZUWXUzcnJZZGJ0Qnc2NnhiLWJYQy1kN29fU2l5SzQyQ3E0VU1MMFVQYW1yczBR?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 01:20:41 GMT"
+        "title": "费城半导体指数跌超5%，AMD、闪迪跌逾10% 美股半导体板块全线大跌 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96LWpYQ1BJMmVGX19Vbmh5UFNsQ2lZSnN2X2RUN0doNWdlaGNUelFyMjM0Tkk3YWlIdGFoS3REVW1yYlFZU2ZTYXJDY1BNOEJWZnlFWnU4ZjB6dEZOWlV0NmdoTDZObEhhWHdqUDRSaGg?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 00:53:17 GMT"
+      },
+      {
+        "title": "美国中期选举结果或引发日元升值情景 - 日经中文网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRENPTzRINkdUM1d1VjVfZldpR3AwUjNlaHAwTlM5dEQ0SzkwakhmdzNaMkZxZnY4R2xfaUlBSGNwc1ZENEdDTzZUamZiejE1QlAxMENTZ1puOUh3X0o5aGRZdGRYZzVWUjQ0QTlJTk5uOTVnS2FGUFBQUFFMWjNGQkRkSzRuTzA?oc=5",
+        "source": "日经中文网",
+        "published": "Fri, 06 Nov 2026 01:39:28 GMT"
+      },
+      {
+        "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力 - 央广网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NWXBoeVpFNFJ1Qjd2WjlMaU5fVkR0eUNnZEVkSFE0THZUYVFaMXhjakhHZzg1QklEeXI0UU1QYU5CZzA2UFpSeFBwaGM5bXQ1UThpUEVDYVg5emxqMEs5VkZhX29Va1YtZFlMM3NTSEphdw?oc=5",
+        "source": "央广网",
+        "published": "Fri, 06 Nov 2026 02:12:10 GMT"
+      },
+      {
+        "title": "美联储鹰声再起！Hammack称利率需升至限制性水平，倾向于更频繁、小幅加息 - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WaXM0SDIwVjlmbDUyZENkN19ocXVHcXlQTmF2bkQ1WVpzbUI5SmFldERUVTdPdVFFLTNnSUZucUxobG53UndrbW5RNG1Ha29SNmp3?oc=5",
+        "source": "华尔街见闻",
+        "published": "Thu, 05 Nov 2026 21:30:10 GMT"
       }
     ],
     "科技": [
       {
-        "title": "APEC峰会临近 深圳将禁飞无人机、风筝及孔明灯等 - 联合早报",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taVBya2Q3LTdPOUdoZ0w4c25aTVRadjZRUllwdEpYTklidXV2akRpUmJId0hzejY0U1BrWnpESmY4MkZha1pTSTllekw5clVtYjVjZVdxa3FhR0h4dlZ5cERXWF9iMUZ1T0E?oc=5",
-        "source": "联合早报",
-        "published": "Tue, 03 Nov 2026 09:35:50 GMT"
-      },
-      {
-        "title": "币安称黑客为63亿美元窃案筹备数月 - 纽约时报中文网",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSlNBdGkzbGIxRm1VZ3l5b2ZsRFlVQVFBMEJ5Z1hfWk93MmNjLTVnM0tjRURkN1MtVmViU2VaNXlnZlB1S3I4WTFxbW9NY1l6QTlBMTdDSjdFSWpUR2dxM0tCOFgwWldjTkFMSklR?oc=5",
+        "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌 - 纽约时报中文网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVVSOTg3NWJWMi1WS0xyZ1lPYldCVXlsWGdPMkZuczJhSjA2M1dfTTNlcEhUQjk4WmM3SVNhalprcU9teUFUTFE2c21selBGVFFUQVo5dUx5YUhlWTFsTFNDd3BGd1N0UFJqZ1N0amFtLUtzc3VOMDNiRXVCdDNHNzlBSi1tUGJK?oc=5",
         "source": "纽约时报中文网",
-        "published": "Wed, 04 Nov 2026 02:02:51 GMT"
+        "published": "Fri, 06 Nov 2026 03:08:55 GMT"
       },
       {
-        "title": "英伟达中国客户据报订购600万颗晶片 未来四个月料仅交付1% - 联合早报",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RUTJMdUdPUWN3ZWtabDZNbUxJSVZXSjRyUDVUMFRGd1lnbGtscmQ0NjhJMVM3aWJESEdreEJwcW9EZnJXeUF5MG5IeFcwVmNjUW9wSC04YnVZUnNiSjVfRjkya2ZBbzRZVzJTTkpR?oc=5",
+        "title": "中国阻止软银以54亿美元收购ABB机器人业务 - 纽约时报中文网",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16by1ScUt3VU8ySDNTSE0xLU9lVmc2Xy01d1djQ00xM05wb2hZTldlYjBJa243U1hYdWZEX0ZMM1Ixdm16SHVnWlhPMnNhQmEyMU9jTjc4bGtwNEJhaDlwcGdYSFBkSlNSSFlybVhOVWJOSGJ0c0FDWU1PZw?oc=5",
+        "source": "纽约时报中文网",
+        "published": "Fri, 06 Nov 2026 00:26:43 GMT"
+      },
+      {
+        "title": "消息：北京未批大规模进口 约60万英伟达H200晶片暂存香港 - 联合早报",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMWpNY1FKQ1ZpblFrUjRobG96Q3V6NDl3ZWVQYUhqYTJoQ0V1SWlWNDZ5MlV5VWhJZkxzNm16bEM1NlhGWlVhVGJOXzJVNXNHOFdndVNSS2pUR19KUmVhdkc4ZExCam1ZVEE?oc=5",
         "source": "联合早报",
-        "published": "Wed, 04 Nov 2026 04:50:41 GMT"
+        "published": "Thu, 05 Nov 2026 12:11:42 GMT"
       },
       {
-        "title": "“缅北最严厉的父亲”来了，还拿了千万美元融资 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tSWx5UjBDLW1BcE9UY1NlY3ZCQ0NfcG02Qmotakw0bmpVTGpOdlltQ09FeXdqSnhSNE9Ua3htOXhsSHFHb3kxcmlnY1M?oc=5",
-        "source": "凤凰网",
-        "published": "Wed, 04 Nov 2026 10:00:00 GMT"
-      },
-      {
-        "title": "超仿生机器人亮相：售价16.98万 一举一动高度贴近真人 - 3DM",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PM1k2d0ZtMU82TDBvbnNTY3BWbFhIQ2hxN3FJSE1DYk9OWmtOdjF2aFRjdXVSbVdrVmdRWUJfS2VKUExKNnJYSFZuVmVNNnBwanVEb0lTV3RhaGtM?oc=5",
-        "source": "3DM",
-        "published": "Wed, 04 Nov 2026 10:30:00 GMT"
-      },
-      {
-        "title": "华盛顿压力下 甲骨文取消与腾讯价值约70亿美元芯片租赁协议 - RFI",
-        "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQdlowNEU5OV8yZGZXcG5Db1ZvcUdhNWcwR0NLUkFLaFBKOU90OUNIRVBlUi1XdGV1MnA2MzJ4MXlVUHZiT00yS1JkNUJMc1dBUlNiUFVYajlxWGY0ajJ0RXVQd2xKWXdlN3JsWUhBdXZPSUgtT1R6a21Sb2RjV0hweUNwNGt2bnN3b1hkRUJtUGlwTzFKWVNFQWwweGNHRzBlcHhjUzRmajFKT1R0WlZQNzN0NUJCQjFSOHJxanlWbHU2aHJ5TXZiMmZpcm9JSFMzdGctZDBsUGh3N0IzZHRxY3B5SG5zYWZUSDB4U3JLY0tpMTZpN1I0Q3lQQXhBU041SGtXZ285U0E2Nm1ueGF6UHhlVEdFUnZfR0ltOGRaY1pUa2ZZQ1hGMWRYeXZybTVucV9fY2FfLWV5Z0lsaXNwSWVLTHF6T0VQQ2VwVVdoU0FfTWN0Y29POTJUMHhwWHNGOU1VNkNSYVBWRElsd3pZSWVwdkppMlRHVEVCUXlpZG01cTJQaWFxREdPR1NpTzhQeTZ5NzNfWWtMczUwT1l4cFAzQWhncjVmVGktRGxocGZKOWNIQjRGMkc1UG5hRnpENF9xNmExQWpxV1E?oc=5",
-        "source": "RFI",
-        "published": "Wed, 04 Nov 2026 09:36:42 GMT"
-      },
-      {
-        "title": "法国世界报 - 中国首部全AI电影惨败，被指“完全没有情感” - RFI",
-        "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPaTduWFo0QkNlb0tSSWVyNE1fWVIyWU5YWG5VOFg5ZnlqU3lEazFEcnNmZUJZb05mRTZRLUt5WjhubWpKNE1zeFFKTEsyX0xaMi1ldnlCTGVScThHaF9Id2E0NGlZelNkckFyNGlVaTFaZVNGbldFM0VXOFB0RkFReWhYQzBJX2pIZnpnTG5GYktHbVdUX2wxR2QyN2VSR3haT25TUkVUbEtMNm81bzF3VXN6alVWMXpQOHRKNzVpNUlQbnhxeFI2NU9uaEs1LW5lMF9qa19qOXNYWFRvSldxdUEtUTcyM0dLVm1IekVadXM5Q0hJdDJqeVVFY2lIQ0VKX0pDS0tLLWlzYVJqMGk1V24zUHdmeFI4MjR0Y2g5elBqT3NFMHQwT3U5aFk1Q2Z4ZElpcmQ0aEs4MGpwUi1Ibkp4MFloY3pXUVNoc2luNkxvbjN3OUs1MUY1aml3YTdrNFRHWXRrVkxyRWJzUWZURHNyRWhDYUhzVGhOb0I2cThqNTlzX1pMVHVVWnA0c1F1?oc=5",
-        "source": "RFI",
-        "published": "Tue, 03 Nov 2026 23:32:00 GMT"
-      },
-      {
-        "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国 - RFI",
-        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPaUxhNnYzWEFrTUtpYnJMTFBYeGd5ZjZXbllUVG1ERmtiNnA3NUYxWE80NTNTTnMzdS03clZ0X21wT0tNcHpEVEwybjZzNDNDMVIzRzc3MnVCUU5PaG1wRWV2U0ZSYkxxcDdkVzBuckNmOXVLRU5qZTJTNnN2ZzlKT1hHREE2ZmNubzNPSm1VVEl1OW1jQmt4VklDTkRpTDJEYTJMOEtLd1g0eEFnYzNTOENfQnZpMWxYX0tMTVk5a09LUUQybWh2Q3VBOGxIWEZaM2FicU5XeUFHSU8xWjhwVEtkdjhLTkJiUG9qUEw3ZlVScFgyaFJacnNLT195OFZUNTFZdWFValdvSER4aDltZk81QWFvWklFOWVLTUF5bW4wOWZ6Wmd1MDc2Q1diSlNrY2FZN0laenRQUGRXeWNSSmhLLVlFZzRpQTVIVEdETWFvajV6Zm9rb2NVY2lNVmlJMGQ1dW9sdUFVbFlNdDlWcjlDaXVGTmNTUUJReGVZR2lGa05obVRJZjI1cFJIMTBBbXhVRFJ2Z2VZLThn?oc=5",
-        "source": "RFI",
-        "published": "Wed, 04 Nov 2026 21:42:01 GMT"
-      },
-      {
-        "title": "中共引进大数据反腐 专家：惯用伎俩，查处仍有困难 - 美国之音",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTZack1JWEw3MngtTDE5QmNjSWtMZlhxRTJtczlNV2ppNlZvaVNrNnhUVjRYbE16TnNqQUtzczVvXzNWN1NsM0pmaGxBUlRjTnUzWkdCZHdtSXZhMGhqeVhKYnVpZUFKRjBGdFhLckEzTXk4d2NBQkRYdG9hNVVkam91WVJzbGkyUVpQc1VHRFJaTjlPZ2pYT29NNHhVaUNYVHNQQ9IBpwFBVV95cUxOS0syTS1GcFlwMjIwX0Y1S0xUNzVpcThLXzhTRFFVZ3lDZmxPNzZGYmtxTXF4WUtUaVVPeThuUFd1b0F0Z3FiSVNVSVNNOFlzLVZteHRKRk1HN2hhYVZMVzZuelZZcUtOMXZBUDBLaTFkZ0EtQnRWSmtVX0ZYNVlqbTFxbktDRmw3OEtKNGhnWkZZNmtuNUFNSTBpTS1NaTJLbVMwMDZMNA?oc=5",
-        "source": "美国之音",
-        "published": "Tue, 03 Nov 2026 20:11:05 GMT"
-      },
-      {
-        "title": "默茨：我们也渴望成为人工智能时代的领导者 - DW.com",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTmV4eXpJYTdXSzZBSkkwa1ZaaERSYnBqTmJGcjB5bVFHSVVwdmoyczgzeGhyMXlXQW5kR2xYWVQ0OGo4dVRXbFBROEZack1xcUxKbVBFRlNQX0pfSEN5OEszN0kxb19xek55b2ZaTmxSTGxNb0xKR2ZXUUNKZDh0SEVvZXp3a2xWRXlzS0VsOVBOQUtYM1BBRFh4TmNGWmJMSVdWUUkzYURwMHBUbzB4M2xPUC1NX09SRlZUYVhaV19BRG9Yaml4UWNkcEZOam9qamE5aXpNNnhXSGpjX212SW95S2xueE82TEpMWldXNF9fV3lGeGg0eW9GNDI2OWtwUmfSAYICQVVfeXFMT2o4QURyem5MdEp4UW9pc2I2VG92cVF5ZkJMQkdPcnEyQl9lNUdSeTVMTDNVUlc3MzFVNjIteUVDQ3BscS10aWVjRWN2dWw2akE3WWJkMVIyQjlxS3VWOUtaZTE2OXhjYXJ2MzVuZTlzSlJjU1ZsWjFYcnJLNTBFS3NKWnp2QUNBYmVTMDFKXzJCNkhrQld1azZLc3BjRV8yVlYtaTFwXzZMT09NdUhPcWpBYTI5Y3g3bGdSZV9WTUVEQnVMRXZxTFg2VWtuSVdRWEMxQTZ1b08wNzdCRGtKV1BZV1FhSEFoWHNBSzl5V19MUVhPbFpaOUF5RDVpSERlaHJn?oc=5",
-        "source": "DW.com",
-        "published": "Tue, 03 Nov 2026 14:13:43 GMT"
-      },
-      {
-        "title": "速评：美国大选对AI的影响 - 雪球",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04WDhvaF9uUHBWU0hIcTdwQnpWY2pDTjBycDUwdGFVUnNqYUN3MHdHcjY2azNQbzVWaC11QjZpcmdLbm9tU0ljVnkyQVNwcWVaTnh2c0xn?oc=5",
-        "source": "雪球",
-        "published": "Tue, 03 Nov 2026 14:45:00 GMT"
-      },
-      {
-        "title": "HBM走私现新招！与低端CPU焊在一起合法出口：单卡利润超16万元 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rSjdsZi05NDNFSllHT3otMi02SFpaV3RIdUcyOUtuSzBvSjBoWVVIaHE2dDd4SEpveHY4elpCeE9WejFkQXBtM2xBYmdFc3NwRVA0eHg4NV8?oc=5",
+        "title": "《黑神话：悟空》玩家意外赚到了！网友：268元游戏帮我省了2680元 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wbUVYZUhjUUpvQUcwMlB1dHAzcFNrZXRoOE9wcWcxTGMtaWNXbGIwMDFkMVh1RkpoV1RmZkhuR0FzYzNwZnVWNUF4QkZwTVhYekNnRk5EcGE?oc=5",
         "source": "驱动之家",
-        "published": "Wed, 04 Nov 2026 02:11:00 GMT"
+        "published": "Fri, 06 Nov 2026 00:36:00 GMT"
       },
       {
-        "title": "北京正强制居民在11月中旬全面禁止无人机飞行前交出无人机 否则将被视为非法行为 - RFI",
-        "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPSHBaaHRQVng3VjhhQndnQjB5RUZrUjRyRi1vM1RzM2JNaTNfREd2M0pDeEV6UWZQYlVGVG9WUFFRUGI0c01oRHJJeG1uTGoybnpYZERnZ1NDa3d5UkU1NlBRM2wxeE00TTFIRm1MZTZsdUdXbC1vWWItbjI3TnowX1pnUzBuSW9PVmdnV1pVemJvaGVGTVBIQzZqd1pKdlQxNk4yaHZpQnl2WFgxY0lXRGFza3Y0ZndkSVdZN1JzR3dpZlBKbHBzMzlmZUdlVDJDNjRkQXZpbmlYUmVzUDVzR2xYVXFPV1JSemZBc0dnV1I4ZXZIUXFCaTJJNmVicWRGVjN3ZDg0bUEwaUpocXNzdFFMRmtBUmZNNmZoR2gyMExtQzJUUW9hRGdJTXpmbFJPUmwyd3hOeFZaWEEySWJUbkNGWXdUWWFURU1KS3UwbTJGT2dyRF9QS3ljX1RheXJpWWNpTmVFZS1MRTU0U1Fic1RoUUJwYkpnMEt3LWJmVXkwUWNHRXphQnQwNGxnVVZRSFNBUnpTSm51ZHZfWVpTTVBFZjg2clJmbmM4LUVIWmtIRHFUbkhzWnhxeWlCbjFRNFowZWY1TzZTUDVFajZxYWRlQXpkd1VzUjY4RVhoYjNnQmVYY29ESUJ1NnhxUWlGREdaRnN3VnNKOTc5V3dib0ZacE9zRE81LVVpaXpUeWV4UUNIZ0t1c25uZi1IOW5tZVFBdmVjZGR5X29xaUE5WGRleXhEcVk1TlRhNHM3UW82VlRVd2pSUE1SS1Frcm5RT21LdmdHU0dsSjA?oc=5",
-        "source": "RFI",
-        "published": "Wed, 04 Nov 2026 14:17:50 GMT"
+        "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞 - 爱范儿",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSYkZaZzltZmxrTEZHRmtORWZqRXhTVUY2NG9DWVQ4R1IycG1INjBvdThvaUJDSHpYUmEwRkdDb1YycTA?oc=5",
+        "source": "爱范儿",
+        "published": "Fri, 06 Nov 2026 00:15:15 GMT"
       },
       {
-        "title": "2名机器人便利店打工24小时转正失败 真实场景考验显现不足 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01S2xGUEdwbHFCbjh2RFlBbjBlMUZ2amJRWEtjSjhONVUtOXJVV0tHRDFybWtXUmpZMGE5VjYzMjBkMUpGRENITThwNTlFalpORDJSYm9vdFNNMkRFeW91ZXk3d09mUG5rbC1SdWwyUVE?oc=5",
-        "source": "中华网",
-        "published": "Wed, 04 Nov 2026 03:39:24 GMT"
-      },
-      {
-        "title": "当AI杀进数学界 人们意识到原来柯洁是一种处境 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjN6OEtlRkR0dms2M1djOFdDRUQwRFdkZjVidk52dGo0cUwwNHR4LXpyX2NONmVRTl96MHF4QkFoR2R6Q0NBSmY0eDAybU4ydDlHYmZ6YlNmWUFuVFRlY044MDBYdnpRNkQ5MDAxcDNyWks0bEZOam16WGlnRFU?oc=5",
-        "source": "新浪财经",
-        "published": "Wed, 04 Nov 2026 00:30:56 GMT"
-      },
-      {
-        "title": "快到飞起！微软大幅优化Windows 11：实测8GB内存电脑性能最高提升40% - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fcG90NHRHakRhd3RSV0dQZFJnazRBNU9fYjVFTUkySFo2UEZtZHNDc3ZiUm9PUVZ5WTdDSk15TkNHLVdObDZNZFVFaEYzZENZbDl5b1h4UE8?oc=5",
-        "source": "驱动之家",
-        "published": "Wed, 04 Nov 2026 00:54:00 GMT"
-      },
-      {
-        "title": "AI教父辛顿：今明年AI领域有可能发生切尔诺贝利等级的事故 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JNTFBbWRtejJ6OUJjNU5XVFVJOEV3endqZjh3WXFYTHdmZFAwRGlaWVhrT1kwQTVMYi0yQ2h2aUt0Nk1MM2x5N2VSUlhTYndOYmpFc3lCeHY?oc=5",
-        "source": "驱动之家",
-        "published": "Wed, 04 Nov 2026 09:57:00 GMT"
-      },
-      {
-        "title": "iPhone天气应用出现多地-32℃异常数据，气象部门回应 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lRE1xenhwM0VaX2ZaR1ZweHFaR1RROWNCeEZrS2VBTVJVQVJiZEUzTXFWUGtCLThRUFVaY0xrX2h4Y29ocnQ0NnN6dGE?oc=5",
-        "source": "凤凰网",
-        "published": "Wed, 04 Nov 2026 09:45:14 GMT"
-      },
-      {
-        "title": "Windows 11更新一大波良心功能：右键菜单终于能自定义、装系统告别U盘 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85d1pqMlNwalJkb1dPX2p2N3lUWTVvREhOWWs4NFpiNjJnRUlYZTRxWGVFVldZZkhiRHVEWjhwWHRvSHkyNUxESUJQWk5HQTdQelp6MVctT3I?oc=5",
-        "source": "驱动之家",
-        "published": "Tue, 03 Nov 2026 10:47:00 GMT"
-      },
-      {
-        "title": "终结共和党德州31年执政！极左派州长上台，要发钱还叫停AI数据中心 - 阿波罗新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUGhzeG9xcmF4TjNfU0dJZVBRLXNTSTlqWmdweHBFb002dS1uaFF5TUszZXlrUWdNRnk3eEUySG5rZG5iMTdRcXVNOHo5QnVGZ1g4LU90TnZsLXdSWGc?oc=5",
-        "source": "阿波罗新闻网",
-        "published": "Wed, 04 Nov 2026 10:37:48 GMT"
-      },
-      {
-        "title": "告别GPU资源浪费！CUDA 13.5为Vera Rubin提供生产级支持：计算分区可灵活借调 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTDVRb1BGNldpLU52eXR2eGhpdUpFSW9uLW1ZXzAtcDVfZkFiRlFKdld3VmxuVzlWMlpNZDJIVnNxcW51amx3N1JHM0FzUzl0QVJPUktodlI?oc=5",
-        "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 04:59:00 GMT"
-      },
-      {
-        "title": "国产化率100%！首款鸿蒙台式机亮相 华为从芯片到系统的全栈自主可控 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tQ21Zb3Zhc2dfLXJrUEhCWHVxWlpnTXB6dUc3eWN0eUpueDBsRWVaUVp4UF83bm5PMGNRQ09wS0x0OXlfczV2M19meFhNWW0tRFRCUGpwb0o?oc=5",
-        "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 04:57:00 GMT"
-      },
-      {
-        "title": "华为腾讯等20机构发布AI代理自律公约 防范越权操作等风险 - 联合早报",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zN3UzdDEzM2JLTFE4dXN3aUVIaEFqVDlXLWlEQTR0ZGduYkF0M0phMHBlcUJ4enk0dk5TSU9NbmRuWFprUnJaYm9CTkVRdVVfc0tFRTBETFY0cDBmLThjQmhrS0R6cVZQVmc?oc=5",
-        "source": "联合早报",
-        "published": "Thu, 05 Nov 2026 04:44:00 GMT"
-      },
-      {
-        "title": "没想到原厂硅脂这么拉！RTX 4090更换导热泥：热点温差直降30% - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHck50d3BzZ09ONF9SOHhpME1mNmlDbUVnQTRtUFB3SnQ4UHdlN1Zfc1djbFh6ZTJiSTFETzNFNXA3OTNLN2hJU0U5SjVoeEJ3el9EeFNxeGQ?oc=5",
-        "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 03:48:00 GMT"
-      },
-      {
-        "title": "中国人最喜欢用的十大PC应用出炉 AI工具快速崛起 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S3VaTjgtVVA0VVgzMXdrZncyVmdWN0ZuSTZtMlEwa3FfcDBDYWRvdGJxbGo1NXU2WV9DZVo3OWlqX2RfcWtjRjRPMk5GQkVfMW5TVWR6WW9QZW1zUHZTc1c5eGR5U3NIcnd4M3o1bHY?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 03:21:10 GMT"
-      },
-      {
-        "title": "奥特曼祝福大家拥有海量内存 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMmpBS2U5dGFROTBIRjA3YWFRRXoyU0t6b2N6V2JMU2pMdGRQWU9ncURETFczaDhsTjh0OVFDb2dETjFxcjJNUzhrRjAzR0NjcnlYbUltNk4?oc=5",
-        "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 03:18:00 GMT"
-      },
-      {
-        "title": "显卡零占用！Win11桌面改用NPU渲染：仅2帧卡成PPT - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TX2VxZ0stRExxRTdhaTJhUEpVb0RhQVVlbUhjQ3Q0NWVvb3Ztd0RKbFViZGRSNVQ3WF95enJqcWdoaFlTbDN2UnJNWFdjUmIzdFV0MktabG4?oc=5",
-        "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 02:56:00 GMT"
+        "title": "立马就拿数据中心“开刀”？“蓝潮”席卷美国，民主党高层接连发声！ - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzQkIyU1E3WVpaTW5ZV1NpU0RNVTRLdXdybURUamJhekxra2pSUzc5Q3lZM1NqV1ZfVTQybnRWWlVfVXdSeU0zWQ?oc=5",
+        "source": "财联社",
+        "published": "Fri, 06 Nov 2026 00:30:14 GMT"
       },
       {
         "title": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由” - 凤凰网",
@@ -869,394 +713,652 @@
         "published": "Thu, 05 Nov 2026 02:47:44 GMT"
       },
       {
-        "title": "美国中选“输赢已定”：AI硬件重挫，日韩领跌，港股逆势走强，黄金突破4100美元 - 华尔街见闻",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByQjRGUUR5cFFKUG8tT3d4UGdTTWE3S3Q2UkNLTng0UmJwSW1YczZCU0dUa3otNU1PaldnZzZKbmxBM1lKZW5acFN3VG9mNmdzZHZV?oc=5",
-        "source": "华尔街见闻",
-        "published": "Thu, 05 Nov 2026 06:10:02 GMT"
+        "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国 - RFI",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPaUxhNnYzWEFrTUtpYnJMTFBYeGd5ZjZXbllUVG1ERmtiNnA3NUYxWE80NTNTTnMzdS03clZ0X21wT0tNcHpEVEwybjZzNDNDMVIzRzc3MnVCUU5PaG1wRWV2U0ZSYkxxcDdkVzBuckNmOXVLRU5qZTJTNnN2ZzlKT1hHREE2ZmNubzNPSm1VVEl1OW1jQmt4VklDTkRpTDJEYTJMOEtLd1g0eEFnYzNTOENfQnZpMWxYX0tMTVk5a09LUUQybWh2Q3VBOGxIWEZaM2FicU5XeUFHSU8xWjhwVEtkdjhLTkJiUG9qUEw3ZlVScFgyaFJacnNLT195OFZUNTFZdWFValdvSER4aDltZk81QWFvWklFOWVLTUF5bW4wOWZ6Wmd1MDc2Q1diSlNrY2FZN0laenRQUGRXeWNSSmhLLVlFZzRpQTVIVEdETWFvajV6Zm9rb2NVY2lNVmlJMGQ1dW9sdUFVbFlNdDlWcjlDaXVGTmNTUUJReGVZR2lGa05obVRJZjI1cFJIMTBBbXhVRFJ2Z2VZLThn?oc=5",
+        "source": "RFI",
+        "published": "Wed, 04 Nov 2026 21:42:01 GMT"
       },
       {
-        "title": "高频才是王道！LPDDR5X-8000对阵DDR5-5600：性能飙升18.7% - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzdUhvdGQ5ZUkzRHVQeHY4ZS1DdnZZcGZpcjFWUldDZTh6NlNIT0xuNXpvTU41eDJiMVRVeXRhNDdUWVE0XzRVeTBYVTZXMW9JSTJvNHBRSEo?oc=5",
+        "title": "美国民主党欲推动超级AI禁令：个人违规20年监禁、企业强制解散 量刑堪比非法研发核武 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTzJZYnl4SFBCMkF0LWdOREltakt4YUFGVEdQc0tGWnd3cWljTmVOWnk4Y3JtQy1UMGlBdnNtS2N1NFFCWnJ4NVRDYjFUMDVqZ2RueHUySENwX0hhOTA5Sw?oc=5",
+        "source": "东方财富",
+        "published": "Fri, 06 Nov 2026 03:37:52 GMT"
+      },
+      {
+        "title": "分析：微信支付寶成中國AI發展障礙 - 大紀元",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iU2VNMUV2a3VvLWR4YUdDUG1Za1hXUlp0YUJtRDh6MHg1MnJuRkc4XzItWmgyWmJlbkNVV1p2djlBbWhNakh6Mm5ZUFJzQ0kydTBlWTFJa1VNaU44WnFrM9IBZkFVX3lxTE1NMzV5bkRCVlZFMl9wMzNQbHliZ0F4ZGtYUHBIVldxYUFZdEMwZW4xeUtON2piYlNSVmt0Rnc0cUtYMlRrZ0RxcWlELTZLVVpTMWdNNEVFSWFaLUdWaXZhclliOVBhQQ?oc=5",
+        "source": "大紀元",
+        "published": "Thu, 05 Nov 2026 23:09:00 GMT"
+      },
+      {
+        "title": "PS6网传完整规格曝光：光追性能接近RTX5090 - 3DM",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JNzdmMUtFSEFZQUpSOU4xRENmTEZhRF9ZSGl2S3h5WnE2MWVEeVROSVR5ck9ubjBPeXMwM2s0MjlHckZYcjMwT1Q0Q1JHa3Z1b3Y1Y0V6VlFEM2Na?oc=5",
+        "source": "3DM",
+        "published": "Wed, 04 Nov 2026 21:26:38 GMT"
+      },
+      {
+        "title": "北京正强制居民在11月中旬全面禁止无人机飞行前交出无人机 否则将被视为非法行为 - RFI",
+        "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPSHBaaHRQVng3VjhhQndnQjB5RUZrUjRyRi1vM1RzM2JNaTNfREd2M0pDeEV6UWZQYlVGVG9WUFFRUGI0c01oRHJJeG1uTGoybnpYZERnZ1NDa3d5UkU1NlBRM2wxeE00TTFIRm1MZTZsdUdXbC1vWWItbjI3TnowX1pnUzBuSW9PVmdnV1pVemJvaGVGTVBIQzZqd1pKdlQxNk4yaHZpQnl2WFgxY0lXRGFza3Y0ZndkSVdZN1JzR3dpZlBKbHBzMzlmZUdlVDJDNjRkQXZpbmlYUmVzUDVzR2xYVXFPV1JSemZBc0dnV1I4ZXZIUXFCaTJJNmVicWRGVjN3ZDg0bUEwaUpocXNzdFFMRmtBUmZNNmZoR2gyMExtQzJUUW9hRGdJTXpmbFJPUmwyd3hOeFZaWEEySWJUbkNGWXdUWWFURU1KS3UwbTJGT2dyRF9QS3ljX1RheXJpWWNpTmVFZS1MRTU0U1Fic1RoUUJwYkpnMEt3LWJmVXkwUWNHRXphQnQwNGxnVVZRSFNBUnpTSm51ZHZfWVpTTVBFZjg2clJmbmM4LUVIWmtIRHFUbkhzWnhxeWlCbjFRNFowZWY1TzZTUDVFajZxYWRlQXpkd1VzUjY4RVhoYjNnQmVYY29ESUJ1NnhxUWlGREdaRnN3VnNKOTc5V3dib0ZacE9zRE81LVVpaXpUeWV4UUNIZ0t1c25uZi1IOW5tZVFBdmVjZGR5X29xaUE5WGRleXhEcVk1TlRhNHM3UW82VlRVd2pSUE1SS1Frcm5RT21LdmdHU0dsSjA?oc=5",
+        "source": "RFI",
+        "published": "Wed, 04 Nov 2026 14:17:50 GMT"
+      },
+      {
+        "title": "大陸新國標電動自行車限速25公里 銷售遇冷 - 大紀元",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wWTNQdlZiSmc5RllTVFRLa2U0dUYydk9ybVVYMzRYLVFjdE9qOUY2RzloWmFjaHUyWFQwZEZFZUUtQURfZHFSd1NmWFVjQnFYM2ZYTGNYTV9HZUw3MjRpT9IBZkFVX3lxTFBtTFNwWkdXWlZwSXlwMEh0SFBRX0pXZXBBamt3U2JSaTJYNmFpZnBVLTlKNTRoRGhUbVV3eTlXYThpYWZ1RTVNNkp0bUZoUkQ2a0xkUThxcGdYUTIwa1EzTlhQc1EtQQ?oc=5",
+        "source": "大紀元",
+        "published": "Thu, 05 Nov 2026 07:41:00 GMT"
+      },
+      {
+        "title": "“蓝色浪潮”下美科技巨头股价狂飙 华尔街：凸显自由现金流重要性 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ySDJYcl9zRE1NSm44QnhQck1tZUVKUEZEbHd3V3RDRl8xTDNQaEVTdzRsNGlzLWxTT2Vrdy1YMzN3OGdJWTh4Qw?oc=5",
+        "source": "财联社",
+        "published": "Thu, 05 Nov 2026 00:21:44 GMT"
+      },
+      {
+        "title": "超仿生机器人亮相：售价16.98万 一举一动高度贴近真人 - 3DM",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PM1k2d0ZtMU82TDBvbnNTY3BWbFhIQ2hxN3FJSE1DYk9OWmtOdjF2aFRjdXVSbVdrVmdRWUJfS2VKUExKNnJYSFZuVmVNNnBwanVEb0lTV3RhaGtM?oc=5",
+        "source": "3DM",
+        "published": "Wed, 04 Nov 2026 10:30:00 GMT"
+      },
+      {
+        "title": "美媒：中国月之暗面寻求租用欧洲英伟达先进晶片算力 - 联合早报",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5velBIMElyRmFOZ2xsMlJCa3g0LUpNelRkTHp5U1dCdjBsYTFKTnk3cGk0UmNoUDhsT3BOWmlIMmQ4S3Rwb2pZN2pxcmVVUHpwVVk0RkpiUUV4WnpheVQ0UWVWckZHTG9NeHc?oc=5",
+        "source": "联合早报",
+        "published": "Thu, 05 Nov 2026 23:01:46 GMT"
+      },
+      {
+        "title": "不涨价！任天堂CEO：Switch 2内存成本明年冲击更大 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ONld2Y0NGa3J5ekZOWnRTNm9SdjM3THJSTzltSmozdGVhTzY5WHBwSlhncGdmTnVSaVFoS3hPRWdmZHFoTlNubkZTT1dCSXBPekREZmRzcnU?oc=5",
         "source": "驱动之家",
-        "published": "Thu, 05 Nov 2026 02:38:51 GMT"
+        "published": "Fri, 06 Nov 2026 03:40:00 GMT"
+      },
+      {
+        "title": "CPU还没发布！CPU-Z竟已支持Intel Razor Lake - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oM3luNE9BdXlIQm4wdGdtSWJuMzdKN05XZ3pMYW42Q0tIODZLYWlXRTVDTWZ4OWIyUVgybGstbW5raGxuV2xjdXhpWnNhV0hvZERUbk93dVM?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:57:00 GMT"
+      },
+      {
+        "title": "张雪机车主动关注马斯克！对方暂未回应 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00b3RGYnZjTTNSUWJLZDBOYnhOQzVJdXVBNTlndWV1enplOG53TjVPMXhsNzRqVzVHSllaUS03RDV0VGJlcXlCOXVNUlRYc0RPQVJFbElQZG8?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:49:00 GMT"
+      },
+      {
+        "title": "8英寸的Win11电脑！折叠屏手机成功刷入Windows11：UI适配堪比PC - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2LTFIMEZ3dTJlU2hUUk42UVlsc0Jyd09VUE1GdTN4YWg4YS13bEpCWlFnN1d6WmhQcE54VXlZRFYtdnNMMHdsSHhrcUJQSTAxd0hRVUNWWGs?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:45:00 GMT"
+      },
+      {
+        "title": "SSD连续两周降价！存储厂商忍不住了：开始杀价抢订单 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GX1E1djJrX3lUb24xQ3VYeFFCNUlocHVhN2x6MUxmTHZkV0QxOHRWcUNVOHlFOUdaVENTQnN3TUlWd1V0ZC03WnI0NmFic09FV1VsZUNfZVo?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:25:00 GMT"
+      },
+      {
+        "title": "美国数据中心一线谈“建设风险”：行政许可、技术工人、保险、电力波动 - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56eExRY0RNcnNTR2FUTjJTY2FGTWVkbGlSZU1BYmkxTFZMUzJ0ZDkxMEx5c2RQczV6TW9TUUdSS2lSdTdKRmxPaGhQLTdVUjlJVGRZ?oc=5",
+        "source": "华尔街见闻",
+        "published": "Fri, 06 Nov 2026 02:19:38 GMT"
+      },
+      {
+        "title": "图吧老哥狂喜！8系主板也能解锁ReBAR了：老四代机锐炫卡满血复活 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZ0dEYjR2Znc3N2VNU1NxQWd4dDV4aDhIWU5xV01XbVE3cXpTcmI2aWkzVGhZMmZ1eTcyeGs3V0NVbzU1R3RXSFNLblEyanFpM0F5VDZNTmY?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:12:00 GMT"
+      },
+      {
+        "title": "另辟蹊径！监管压力下，英伟达筹划“旧楼改造”数据中心，规模达1吉瓦 - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pNS05dnNIWjQ3c2p6OUlnMWgwc1hsbHlWeTNRZ29zY1kxZFg0dk1fMlVGUTZmZGlpa0RuaE1KMGxueUcyZW10QkFNS2VNbWRVY0tN?oc=5",
+        "source": "华尔街见闻",
+        "published": "Fri, 06 Nov 2026 02:19:34 GMT"
+      },
+      {
+        "title": "装机最蠢翻车：辛辛苦苦两小时通电一秒冒烟！主板CPU全烧毁 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ybXlRSXRJSUYwcjJ1aWVzYUpnOUxiX24zSGpSWW44SzRRRFhLZjV0RkhMYVZuTHc3QUMxLVo3Q0dzOFNVdVEzRWc5SFpvTHJtRklmNnBzY1c?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 02:00:00 GMT"
+      },
+      {
+        "title": "连制造商都没找好！印度放话24个月造出国产GPU：还要把RISC-V芯片推向全球 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwU2FLQzdQem1ZOUlRN0t5WWZ0bWZEcnJ0TkxNd0ZVT0g2ZUNYSDNkNHMyOWc5MFY4MjE0Q1VCeUFPdWRTTTJDbkttSDJ1SzZ2LWt3TjNEQ1U?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 01:58:00 GMT"
+      },
+      {
+        "title": "小米员工收到特殊秋日礼物 一篮子落叶让雷军忍不住点赞 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTEdXYV9ITjNrQTdoQmZ6UUc4cnJUcEwweUZfN0ZtTV81U2Y0UWFfME12RDd0aTZyYkFXdkxpaW1TUHp0S1VCdDlkdnZyQkh1WlR4aUtoNUk?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 01:57:00 GMT"
+      },
+      {
+        "title": "国内首款Wi-Fi 7数传芯片发布！高拓讯达ATBM6175：720Mbps - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91SEVpa2dJdkIwWVJFeUQ0LVljVmgyZFoxMVdQeDRMRTA4WlVRYzc0aWk1RWUzMDE2T2p3Q0l3Z05GM2hSWGtSMUNZZmJXd0JSZGJIa1ZhaXg?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 01:49:00 GMT"
+      },
+      {
+        "title": "90年代经典竞速游戏回归！EA《暴力摩托》上架Steam：升级支持60帧 限时29元 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oOWRDbl8xREc0VDV1dGlpNWZxZjhybDdaSWFEUDBGUXNhNC0tamNOTnk4ZFRQZDdMeXh4SFhCelJBc2xMWmJsbDlnaHZFMWExU3VBUlhQNWo?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 01:31:00 GMT"
+      },
+      {
+        "title": "六芯片混血布局！Intel Nova Lake-H裸片曝光：台积电N2P与Intel 18A-P混搭 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc2RvWXFDa2Vtb0JQOGtSZ0N4ZEVxczU4TEVZaTVQa2toZGRRTFNQRTVkM21OMFdZUmJDbkZvOHZHdjBJUFA0SXFzeElLY2J1SzVPdmt2V00?oc=5",
+        "source": "驱动之家",
+        "published": "Fri, 06 Nov 2026 01:27:00 GMT"
       }
     ],
     "娱乐": [
       {
-        "title": "我国广电视听形成 “两个10亿”超大规模市场格局 - 中国经济网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aSUI5VWdHRjVDejBMQXpDVUdWeUprZDdVWWNZUFdNaVB6RTZtLThxQnhkdkEwYndqZGRWUHkxQUpoVXdDTU5yUUZMdC1lRkcwWFBrZkNJaHBGSl9zQUZubWpkNTg5bDFkWGhzbUlEelVWTHhCVmdV?oc=5",
-        "source": "中国经济网",
-        "published": "Wed, 04 Nov 2026 23:28:00 GMT"
+        "title": "捷成股份出席2026中国广播电视精品创作大会：分享AI精品内容工业化生产的捷成经验 - 同花顺财经",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xTGxVX05FYUNiSjd3azNYaHNCb2UzZDNYbnRDSVRzRHdiVVdIZTZiT2dScU1EdzMtMGpXWExsUElnMkJlMVZOWmgwMlJhaTVsTXBSTktsZlk1UjFtYUNqMWp3?oc=5",
+        "source": "同花顺财经",
+        "published": "Fri, 06 Nov 2026 04:28:52 GMT"
       },
       {
-        "title": "杨坤自曝抑郁症躯体化反应严重 持续抗争二十年 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyRWR4eXdKTHBLX1ZldjJfXzBadmxOdG00c2JONVg3VU1DdjNPMjRxV0FtQmhOR3NCbzlaLXotbmRHbW1vcWhNcGtXb0doMTBVcVpBbUhTLVNhdFpTNVV6NVJaLVhkdjk4TXl1aA?oc=5",
+        "title": "2026年中国金鸡百花电影节开幕式 光影归潮点亮厦门 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DR2xkMzRRRkVEUjFISGo5Ynk3TlhBWG9PTEhXamZQRTFZU05OVmhFNjBUajZNTjUtTFg2VGR6cXZ2b1gxdk9idVY2LUpEMW1wVDBCSVhkQkdtdEVuQVAxRkE4TWNUa3FBYjlaY1NNNF8?oc=5",
         "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:44:03 GMT"
+        "published": "Fri, 06 Nov 2026 01:59:47 GMT"
       },
       {
-        "title": "金鸡百花电影节活动期间12条公交线路临时调整_新闻频道 - 厦门网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TbEs0bTFnSkx0RkV1RThJZmhBVkRpcV9hZ0pzeUxPUmhMeGhMekYtNXNXeTZtM21zU29TdWRWbnRDeG42dUJfUk5oN3pLRUZxeFJhV1l5aDJJVmUzVUNrcmI0ZDRyM09uSGc?oc=5",
-        "source": "厦门网",
-        "published": "Wed, 04 Nov 2026 23:49:00 GMT"
+        "title": "京昆剧《封神·十二真人斗太子》亮相第十一届中国京剧艺术节- 首页幻灯片 - 中工网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVWtPNi1aNU9PRU1sWUc5WFRwNGZGOFZyblFobmxQUDdrejFMTHZpTWVnNjdDZHhvUEgzMlUyMURBR1pLdVZCNTZQWm16T29TY3g3aVlpNnJhYXZ6a2hz?oc=5",
+        "source": "中工网",
+        "published": "Fri, 06 Nov 2026 04:12:00 GMT"
       },
       {
-        "title": "《伟大的长征》如何让年轻观众主动考据历史 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYXk2UkxEd1h3ZFp0b1B5UVRvemVmcTVPRWJmVkpzTVpyNGozSzd6RHJVRmltM2NHWWY0a1cxUTVPY0QyaFRnekNQUkJqa1p5UVU3bnhKTEZuemVYMURCSXM1anFQeHVXYmc?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:30:03 GMT"
+        "title": "孙俪晒居家照透露老公近况，邓超已累倒在沙发上 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeTAxcVNvX0hNQ1Z3RUtyRGRlZlZfWFkyV2swUE4zMTUzNHZWVTBhZE1MVVlrQXQ5WEtPUHdzZzRvX0tQQzJVN3RLQQ?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 01:50:46 GMT"
       },
       {
-        "title": "谭松韵自认“笨演员”,谈《兰香如故》“生理性害怕” - 流媒体网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52WXFnaklwNXBQZUV2ZFg3RWMxNVVvVlNwdC1sNFVTTDd0UG1qQnBSbi1mNUlRY2xFWWVVWWtSVXNrMlkwdS1xbTU4YTJ0Zk5MQTYxXzZaczB0bUV2Ym9BaGNjcnVBcVd3dzBj?oc=5",
-        "source": "流媒体网",
-        "published": "Thu, 05 Nov 2026 04:37:00 GMT"
+        "title": "“旁听”遵义会议，一次精神会师（纵横） - 共产党新闻网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5McTdxQWRXMHhaT0RrcmF4S2pJUVBDdlZfYmNySW9Zc0Y5RFMwZTBveVhqTUZRQkh1M0dNNXRDSy03bDdsMzc3azFzaDAwa2g1ZXNoOTJyZVRnNkdUNWFGVUN2eS0xeW16NUhN?oc=5",
+        "source": "共产党新闻网",
+        "published": "Fri, 06 Nov 2026 00:31:00 GMT"
       },
       {
-        "title": "老剧为何总能翻红？扈强：工具不断进化，共情只属于人 - 光明网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNV9BU0JlYXVHckYza2dKMmxHUE92Uy01eV93aDV4WTBvYnI3QnBpUEx2RmI5X052OVFGZ2MwenZxRGQtYUpyVS12dzYwVVZtRVJHS1JPd0NPbTZvZGUxSw?oc=5",
-        "source": "光明网",
-        "published": "Thu, 05 Nov 2026 03:16:00 GMT"
+        "title": "杨坤自曝患抑郁症二十年 躯体化反应强烈需每日服药 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FNVpKazhBS2Jsb1NOUS1fWkNWRUl3bDhjT3NSWDJaZC1sTEoyOFJOMWkyY2hPWG04Y3ZpbHc5cWktQ3hVUmE0aGJ5Q2VBc2FZeGdhNjNsMEU?oc=5",
+        "source": "驱动之家",
+        "published": "Thu, 05 Nov 2026 07:01:00 GMT"
       },
       {
-        "title": "长春取景！电影《醉美相遇》获国际荣誉，带你解锁同款治愈之旅 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUozSS1EWmZ6SFM2N0xNb3pjVkU1SXdGOUNaRHBwT2RCMnlNb0RLMmt4cUFPR3RjM3dXOG94dGdVeXY0VkQtRjB1QXhPSHNaN1ZNR2p4ODc4MkZDVDg3WUFNTUVoSlhreFliUnVhc0s2Zlp4OTJzLTEtZkhqeThIdUF2ajktWmdCM2FRdw?oc=5",
+        "title": "刘晓庆连续发文：被人算计珠宝公司借贷纠纷再起波澜 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMk54SmRBazM3TkY4Rl8yNExLaHZQQWZ4RTlYaVFGalRTX18tWFpJc1ZpZnlNQVpGVlJpY1ZGUWFmTWVjb05ON1F6Ymw0T0dPcHgtc1VGZGVzZTRPeHFLbHNkS1Ytb1QtU2JVQ2FLLWI?oc=5",
+        "source": "中华网",
+        "published": "Thu, 05 Nov 2026 11:05:29 GMT"
+      },
+      {
+        "title": "胡歌演讲谈《生命树》：扎根人民是长久选择，把生态守护落到现实 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1dfX3dKVy13MnNzUi01ZTladHZidVJRd2JJMkZNd0dlNUpjZXZBR2ptM3NRLURXUXlFN0RLbTJCUmcwMFRzclJoV2FSRXBDdTBZQVRQaG5NVlhDdmkzZUJSQjBtTWMyNkpSSmRlZWRNQXFCaGdRbUgwVkxnZW1Od0FuNHF5czVBamE1bw?oc=5",
         "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 04:04:51 GMT"
+        "published": "Thu, 05 Nov 2026 03:34:46 GMT"
       },
       {
-        "title": "皮黄新声：国粹站上“青春主场” - 长江网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FUS0xdF9kUWpyRWVBaDFYY1M1aVlBRDI1VEhvZmduRXJVblBHY0g3bFRIamFHcERvTGljT2hobE9fVGg0NFAyNnJGRkJZRGtGSks3MWxWb1h1VExZSVBSMThn?oc=5",
-        "source": "长江网",
-        "published": "Thu, 05 Nov 2026 00:17:00 GMT"
+        "title": "刘端端首度执导话剧《今宵酒·醒何处》，国话先锋智慧剧场首演 - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xTUlJZDVvQXZfMWktMy1YVDFWVlR3SkZHaXJnQktzbzVyNHRRQ1F3WDVTN2tDQzhEUHo3SVM0dTRFOENOZnRJMjZZaTZuTzBOTFBxdktMdGlzRU1PRzlrcjlkUVM?oc=5",
+        "source": "新京报",
+        "published": "Fri, 06 Nov 2026 05:23:00 GMT"
       },
       {
-        "title": "《后会友期》带火鸭舌外卖，绝味订单同比暴涨280% - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qR3VXN0s0SjhjOUNGN3haTEVDSGZJT0FhQ3FJSVpoZUp3LW9Qb29lblhjYXg5VG4wT21CRktwWGk3Yk4xSTJHWEpKUGY0LWk3OXFr?oc=5",
-        "source": "第一财经",
-        "published": "Thu, 05 Nov 2026 01:38:16 GMT"
+        "title": "叮咚买菜进入「大厉娜时代」 - SocialBeta",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3N2ZJVVNCNkg5V1VnMHpQSFVjdWdyWVlZUTIxWWFTNEQwUDAzVmFyWjdEOHhVVWo3ODJObUdIQXptNGRsSzhkSVlBSk1Sdw?oc=5",
+        "source": "SocialBeta",
+        "published": "Thu, 05 Nov 2026 03:37:35 GMT"
       },
       {
-        "title": "《十日终焉》制片人谈与肖战合作 双向奔赴的高质量表演 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CVHdlR1lhZWZHYi16Nkd3aEV1emxKNmYtdFo3R2lzdzBXbzJwUnpuLXVEOXJXX1UxVm85amp2Sm5pamlnSVJtTDliN1doVGZPMHRnZHE0aG5LWEVORkxpd3ZROVlhWFFUNksyLXlTU04?oc=5",
+        "title": "绝味鸭脖股票两连涨 综艺带动热度攀升 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0weEVFalh5dUdqYjRFY2hBZU1KeW8xZS1fYkIwVXRzbWNRYV9VZjE2MmJXVFBUQXhqWU9EWi14U1ZHVDVkemF4TW54NHJTdy0yZ1dpXzdoQ2lYNmNiWXlNTEo3bEV6OUhCcmZMSnd1Mkg?oc=5",
         "source": "中华网",
-        "published": "Wed, 04 Nov 2026 23:49:08 GMT"
+        "published": "Fri, 06 Nov 2026 05:29:05 GMT"
       },
       {
-        "title": "585名青年志愿者集结青春志愿身影点亮金鸡光影_新闻频道 - 厦门网",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53MVpkcVVhZ3NQZUlxck9HOXlnTGtGOHNhbU1GS1hjT25sQVlQRlhEUnFGZ2lTNXJZd0c5dVQ3dVBLdmhyZTNtc2dqTThWbHdMbTBZMi00M0RlYVlGSDRsb0sxOGk?oc=5",
-        "source": "厦门网",
-        "published": "Thu, 05 Nov 2026 00:03:00 GMT"
-      },
-      {
-        "title": "艺绽 | 胡歌谈《生命树》：青藏高原上的一件小事，让我对生态保护有了鲜活的认知 - 京报网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mM1lGVThEMHJwdlB0TGNDMnlSa2lmeXY4SVJYdDJibS1BR1RCNjJPTjhrM2dGaXNxZWE1UHhXYkxQMGFzdHd6a3Fzemd2U09tMXpIUVgzZlA0U3o1WGc?oc=5",
-        "source": "京报网",
-        "published": "Wed, 04 Nov 2026 13:12:20 GMT"
-      },
-      {
-        "title": "湖南广电获得“视听中国，全球播映”评选多项荣誉 - https://guan.media/",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBS1FQWnZJcHhLV2EzcktCekVBeFc1S0ttMVFMeXd2ZXlzVXJtNFFUcVdyOF8zRjZPcXlBdktVTlFQcTZyd0pqdWFBaWxTWEpld0t3?oc=5",
-        "source": "https://guan.media/",
-        "published": "Wed, 04 Nov 2026 22:39:00 GMT"
-      },
-      {
-        "title": "纪念长征胜利90周年 徐晶晶倾情加盟国家大剧院新版中国史诗歌剧《长征》 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JS0Y0a1ZUY1FtbnVKU3p5QVFuSWpMQ00zaWFpTkd6Qnd2QlM1N2tvdWlXRjFIcENMVWdIVHJtT21wbTZFWHpvYUl1RWNpNU1ZVGZhS0JDU09MS1BiY1R0N2gweGtUQnpTZGxBcw?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 02:57:41 GMT"
-      },
-      {
-        "title": "许飞跟厉娜说画地为牢炸翻怀旧圈？06超女梗出圈，郁可唯接力玩梗 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yZERWYTFzNUdxMlZfMWdhdGQzNDFyQlVQSFRBSU9kUEVESHBLZVJQUDQwdjlBbVJES29iMlAweVM0R1Vic2Q4amhpbk1oUkR1NnJaTU5RLW1hVWc1cngzQkdn?oc=5",
-        "source": "手机网易网",
-        "published": "Wed, 04 Nov 2026 03:17:02 GMT"
-      },
-      {
-        "title": "昌平发布田园谷地图，解锁首都周末微度假新玩法 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE9JSFc4bVB4MFpxUlg5aXBPWm80aWtPV29jN1hWdzVDa0pWZzUtSHo5T1pHLWpqbW1tbElmV3UwYTliSXhNS0k1QTV6V1FwNDVBa0d6Z1RRN3otT3FRLTQyMFIwR1luVF9UXzQ5cEduX0FTcHRCaGJHZ1cwTUNEZjlXUDhEQnY0?oc=5",
-        "source": "搜狐网",
-        "published": "Tue, 03 Nov 2026 12:57:00 GMT"
-      },
-      {
-        "title": "红果用户量超越豆包 AI影视已跨过商业化临界点？融资客提前埋伏这6股(名单) - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kOWU5bkczbTFiT2ptQXhqdTBVYU9ZN1pIRWoya1ZOdXIwLVhzeGo2TnVHaW1LeVNJaWd0YkhqMHM5R1pSN3RDWDN5UUxFYlJMX29ncVF4NmxLUDBfOXNiMA?oc=5",
+        "title": "柠萌影视陈抒泽：AIGC拓宽了长剧创作边界 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkaXZUNlRha1ZWbWtBX0g0VHZJbHkxeDFDN2tsb0NERlh5X2ZpamE2VnppaEMyVFd2cE9JdjZ2bzlidnl6VkcyekEtRVgzVVlDajBkclJhZVBfR0daSUl1UjM0T0xoZw?oc=5",
         "source": "东方财富",
-        "published": "Wed, 04 Nov 2026 01:18:40 GMT"
+        "published": "Fri, 06 Nov 2026 05:45:01 GMT"
       },
       {
-        "title": "综艺《后会友期》带火高原游，6家宠物行业上市公司2026年前三季度增收不增利｜消费早参 - 每日经济新闻",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10c0VwY3pfUTJBb3VZdVUxdWk4RzBncVdnN0U4MkNudzN4bHZiSlh6clZxd1BaenJHNElUcXdMSlhMUU5FTHo2dlFEeFRXdnVhNjFQZXI5Mi1KYTFGVGRqM1VoU0dVQQ?oc=5",
-        "source": "每日经济新闻",
-        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+        "title": "一财主播说| 服务器崩了 为何芒果超媒股价反而暴力拉升？ - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xTHFUbWhTaFZlTG9mNElKQmlaLXprZmRtNGZJTUQ5Q0luYl9pb25qWVpYYnhpbld3UXd4TTRJZlBpdlg4WjZ2X3F1NWN2dS1ZaUd5bA?oc=5",
+        "source": "第一财经",
+        "published": "Thu, 05 Nov 2026 07:24:11 GMT"
       },
       {
-        "title": "西影XR电影《玄奘与龟兹》斩获金鸡荣誉 - 华商网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lM3k3MXh4NFdqWEZfY001WFJwU3R6Zmk1RXJsdnZ1QmRKYnYtVjhwSUlvckJVX0tWWHBqQnhaa3N0bFp6ZFRTdGh4R1ZYdlYyRWVId1hYNVJPeU84SXRj?oc=5",
-        "source": "华商网",
-        "published": "Wed, 04 Nov 2026 22:22:04 GMT"
+        "title": "央视新剧井柏然、张颂文正面交锋，《人民的名义》导演聚焦税务稽查 - 京报网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBubW96MXlBSUpZdUE1WHNqSnpqTlowLVh6dDZCaHJIVEZBY01oYkJNTlBJWUdSYmhjb1hWbXFYQThHTHlsMnNUZndZVG12MjVmMTQwdnBWVDlYMndhdlE?oc=5",
+        "source": "京报网",
+        "published": "Thu, 05 Nov 2026 23:29:29 GMT"
       },
       {
-        "title": "《小城良方》：悲喜交加是人生 - 国际在线",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PVEVmUG9vTENvWjJWM3FfUEdiam5kaVdXV2tDZktqRWdxTldmQ3VqMkU2TEJGRVZCRXQ3ekxvbUhIQjdvNzlGZDRrZTRsUlFjLXFLSUp1VWNJT2MzQnFLZXNaYURVM3oxWnBiQVJfaE12TVVRYnB3eg?oc=5",
+        "title": "冯远征谈AI创作：人艺舞台目前不会用AI 科技不能主宰艺术 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZk9remtuQ015VTlGWldZRVY0R0lXUHRsOURlVDllOHZiMG4xYVZxX3BLNDRWN0g3UG9TT0RpODUySXdIY0Fmb1VBVjkzMXExZWxQTDR0dWJTVmw5c0RPa3duV1hMVkVxdEdabW40cm42d0doWHY2UnNLSEgyUGJwNkhncGo1a0RSYklPcA?oc=5",
+        "source": "21财经",
+        "published": "Thu, 05 Nov 2026 09:31:00 GMT"
+      },
+      {
+        "title": "六部杭产作品入选 杭产视听抢占全球新赛道 - 杭州政协",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sek1CcVdiSW1NT09HZXZGcy1QX1V2Q3ZRa0xPMUxtcG1hSlliOXJObHY2bmlXczRiWEJmbmtVbDd0dFlIeVE5WHhvT3BHdkZhVm5zSHRLc3hhRkRCZ0VTVXpDazNzSndraElraUFQRnNlaHlMenc?oc=5",
+        "source": "杭州政协",
+        "published": "Fri, 06 Nov 2026 01:31:48 GMT"
+      },
+      {
+        "title": "从《荒野丛林》到《小羊肖恩3》，好莱坞“手搓动画”为何叫好不叫座 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU1WWm4yR29wMndCNU96LTZjRnlURk5uV3pHZ2xNcldaS2dVT3BaOWJSZ05WanFrSHpJV1lPWHlmX0E0UEZrdHJiaEhTV05hSGNQZEdEcnVHcU9UeGJvX0hheTZoQS1oZjBiVGhpcHVsWngzVFhaRjlpdW81QlNUZVZTWQ?oc=5",
+        "source": "新浪财经",
+        "published": "Fri, 06 Nov 2026 00:13:25 GMT"
+      },
+      {
+        "title": "天台街头：道地讲坛话振兴，长征精神润民心 - 台州新闻",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DZHotd2RaaEpZdkVSU2EtMXZDNUtmdExXQWd1YkhGZ3BnZEZsX2ZmQWpYREY1Q2Y0Sm53d2pVZmF4cXpZemtPblAzMFlobVoyaDQtdU9WUThrWEFTY1ZvSGp4d0V6UUluYmlz?oc=5",
+        "source": "台州新闻",
+        "published": "Fri, 06 Nov 2026 04:21:56 GMT"
+      },
+      {
+        "title": "AI“黛玉”视频为何受到追捧 - 东湖评论",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DdHVmUjBGZWp6WmJoREZpYXVVUEhSYXBNczVJdkZfcy1DcFFTSWxhcnNkRlV3WWhLM1U5blBMWk5PN0ZZVW4xVVBwSmlhVy1aaEZmOEp3R0k?oc=5",
+        "source": "东湖评论",
+        "published": "Thu, 05 Nov 2026 11:03:00 GMT"
+      },
+      {
+        "title": "第二届金鸡创投·学子计划入围名单公布23部青年影像作品入围_新闻频道 - 厦门网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pTThwOUNrOEdoWlNvM3FWSVVnX0JyMG1MUWhJOFljZGFQcy1INUJ4YUZZYkd1X3d0bURTU092Z25icWYwb3Z3WjhGdW5CN1lOazdzbkZrd0tQdnZJM3ZvUF8wcFo?oc=5",
+        "source": "厦门网",
+        "published": "Thu, 05 Nov 2026 02:03:00 GMT"
+      },
+      {
+        "title": "央媒亲宣！29岁关晓彤正式上任，职务不一般，十分让人意外 - 网易新闻客户端",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lVF8zUFhGc1YwMFpiLTh4ZDdNaXhfZDRUOFpTTEJaelFKWVhzMWdLMXhSbW15X2VMSHZXVmwwZmthUzByaHREWnhXWmtVYXgwUmhzQmY0aXcwV1hN?oc=5",
+        "source": "网易新闻客户端",
+        "published": "Thu, 05 Nov 2026 10:13:00 GMT"
+      },
+      {
+        "title": "没有门槛的合唱团，让平凡日子有了光- 文旅 - 中工网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yTHQ1SjhCYXJPRkVGMC1HbHpEbi1ERjFxdTVRYnlVY0FaeDdTSk9Rb0w0Nk1JQktENDJpbnlkVjc2VXJRRUdJblBKZUJMd2xwVkZmbzJWOWxxOFhiMGdn?oc=5",
+        "source": "中工网",
+        "published": "Fri, 06 Nov 2026 01:42:00 GMT"
+      },
+      {
+        "title": "《后会友期》：旧友重逢，旧账算得清吗 - 国际在线",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BS2ZDUDdyMnBxcjdvaExuNGYtR1RGYUZVZGJiRlBEZU9Yd1Z5cmxpT1B5R1pldjV3bVhucG5zTnhhRmswdGdJMml1SWJFOXN0THhud0xuTi1pTjZiNkdkSjlfN0NGeVRWWUpiaERXQVNxZ2lScTZXRQ?oc=5",
         "source": "国际在线",
-        "published": "Thu, 05 Nov 2026 01:54:14 GMT"
+        "published": "Fri, 06 Nov 2026 01:27:06 GMT"
       },
       {
-        "title": "濮院古镇，借网寻“新” 借乌镇峰会打造沉浸式文化新地标 - 潮新闻客户端",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NY1piaWkwZEl5WG1IQmkxTXJSeHh4aGtQdTlPVXpQN2NMTDBrZmV1YXpub3ZwTmpqMEVQRVRCQ0puR1hYSHl1eDRLN05mRElmNTRDemNlNA?oc=5",
-        "source": "潮新闻客户端",
-        "published": "Thu, 05 Nov 2026 00:33:36 GMT"
+        "title": "AI克隆声音兴起，真实情感难复制 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDVuQm03Vm5jQ3BQYXVTSWJjYW5rVkF5R2JYOU5uSjJXRGpwbDZVclJWXzlxYW5BellKLVluV0hvMTd6Z2RWTzBuc3VQY050RmpUZ0JCWGs2YjE2S29QNmZycXlTY25GbE5rN2ltTC0taHlhQVlYNnlXckgzZTYtV1hrTE1oM3Z5WkZMNQ?oc=5",
+        "source": "搜狐网",
+        "published": "Thu, 05 Nov 2026 23:05:42 GMT"
       },
       {
-        "title": "快手AI全民创作季收官：2.3万人参与 总播放量5亿次 - 金融界",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkckd4R1VKRGVZMzBjakZRdF9qSmUtOXVaMm9CRXpkd0s5VnIxZm9PV3pLNE5sX1ppSkxQUndSZk4yVTgxMEdlS2E4VUJiS1RUekoxTGpUZ0xKamVHVHZjeU5WNVN4T0FLNGxPXzBDbVEzdmM1?oc=5",
-        "source": "金融界",
-        "published": "Thu, 05 Nov 2026 06:53:30 GMT"
+        "title": "重温经典 对话当下——2026中国广播电视精品创作大会重温经典论坛在京举行 - 今日流媒体",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nZVllaHVqTEV5WlZ0cFgtdWhnRkhrUnpBWkgyLVFGdmpXU2pvcUVSZmstVDVIV3hzcjBsNTUxOGxmUC1RVjZXaXpOOTVIcWRGRDhYVVVIZVg?oc=5",
+        "source": "今日流媒体",
+        "published": "Fri, 06 Nov 2026 01:40:00 GMT"
       },
       {
-        "title": "演绎百年前嵊州少女“追光”故事，新编越剧现代戏《女班》在京亮相 - 京报网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQNm9GaEQ0WWdIWFhjUXBrREt4ZnN5MWFNck9LSWxaMkR4QkJMVXAtUVRvUFJHOFEwRnJmRDVWOEhyb2gyYkVXOGtrZmNsUjVZajUwV0FkOUdtSk5ia3c?oc=5",
-        "source": "京报网",
-        "published": "Thu, 05 Nov 2026 03:21:02 GMT"
+        "title": "第六届大湾区文化艺术节迎来国乐盛宴 - 广州日报新花城",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazRKaG5XRmNSYURwcnNTRzVFSFBDTnVvVWZSbl9pejE3UjdOLVplbEVJa3FMYnh5dGQ5ak5WSDdnQjM5ekpKUzNTTWQ2SGFPZU9oemJlUVA1ZGlaWTZWSjRDUVNCVV9aSThGdWJ0U3o3YnlfbW8zUS1xT1ZTazcwZ0NQbHI?oc=5",
+        "source": "广州日报新花城",
+        "published": "Thu, 05 Nov 2026 12:15:03 GMT"
       },
       {
-        "title": "时隔两年胡彦斌泉城再开唱，官宣“济南，我回来了” - 新黄河",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EYU5FOTJueU9LLW1saWJ4UURrOVBISW1kak4wQlZsaHRQWE1nZDIxNWl5OElrbzNTTWFjYWxCVzE5WllnOWNvcXVsdno5aVlUWkZLeU1lU19qd3hkVVJvag?oc=5",
-        "source": "新黄河",
-        "published": "Thu, 05 Nov 2026 04:23:30 GMT"
+        "title": "《兰香如故》导演：让诗意从真实生活中生长出来 - 正观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UeURmdnV5bzF6Q0xQdnFEOWlZclRkSGRaNzQ4NmxNQ2RQd2VSRkNpTlpYdzZIVEhDeE5PeFRuMDhzUmlUVjhESEh4MWpSZ3lra3BsUXNqUFJfSlFQUDZz?oc=5",
+        "source": "正观新闻",
+        "published": "Thu, 05 Nov 2026 12:14:00 GMT"
       },
       {
-        "title": "第九届“花城文学奖”揭晓 李娟等20位作家获奖 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZTlvWTFBUlVmYk1wQnJTMlNKNjQzTDhuU0xfb1pLWHh0a3ZpX3hMWm5nQTB4QjExZVdwVzhzaHg0MVBJUjdQUmpNWGdTODhvcXkxNkVvU2d1Um1OeGlJTDhqQlhjRUFTc0E?oc=5",
+        "title": "演绎百年前嵊州少女“追光”故事 越剧《女班》登台国家大剧院 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lS0xra0x2MmdZUFZUSkg2WjZwNTU1N1RZU1hRSzRPRk82X1kwNW5VbVRscVRfeWpYOHh6U0dfZHhMRkJid09QNFNjZUZVdGtHcHc0SkprSjdEbm1tYldxLVZZQVcwcmpGT2c?oc=5",
         "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:28:00 GMT"
+        "published": "Thu, 05 Nov 2026 10:07:22 GMT"
       },
       {
-        "title": "虎鲸文娱“鲸锐AI”平台上线 AI视频单分钟成本节省30%以上 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UkozMklqRzd6LVNueDFBMTg1eC1hbDV4YzJDY1VTRm1GVHFNMUdYRzlucGtoYlhnNU50cVNaQ2ZycFo5WGtaemdxaw?oc=5",
-        "source": "新浪网",
-        "published": "Wed, 04 Nov 2026 11:49:59 GMT"
+        "title": "《小城良方》编剧聂成帅：小城不是退路，也可能是人生“良方” - 中青在线",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TdnRWLXJvdDhNUlF0TFozbTFla2ZMVU1zdldycXpFUUF2UWVmSWNLNHIyZDVGUTlsVENTWnUwakYyckVVRWc0bWQyWUp5TWtJeWZyYXRDRUozczBBb0VEQmF5RFAzcEZIUkY5UXFPQWhBM0NnLXhOQTRB?oc=5",
+        "source": "中青在线",
+        "published": "Thu, 05 Nov 2026 11:16:00 GMT"
       },
       {
-        "title": "浦东文联第二次会员大会举行，上海歌剧院院长石倚洁当选浦东文联主席 - 劳动观察",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWlnT0pQVHdjRkJwaENFbUZHX2JuZnJ2eTZBMU43TDRmSHo2MXZOTVNBN0Uxa1NTLWh1ZUQ5R2g5dnFUMVBfTUU3ZGVzcmJUVXFPN3hQRk9pUEpVekhqdldKdE1INC1zaVVNcVRDa3JWXzNhX3Q0RWIzbFhmR2ZkQXlObw?oc=5",
-        "source": "劳动观察",
-        "published": "Thu, 05 Nov 2026 02:52:00 GMT"
-      },
-      {
-        "title": "《折月亮》今日开播，林一卢昱晓共赴双向治愈月光甜恋 - 紫牛新闻",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbFFVQ1VaNGlLR1czZDRNZTFLaGJqZmE3RjBTbVR6MmxaSFg0bF9OeFBDajR6M3dWTkgxMUdfTTdfMkMyYm1CdHhXaVNsUWJGQkkyb041NnQ5bjMteDE1UXotMzZ6Mi0z?oc=5",
-        "source": "紫牛新闻",
-        "published": "Thu, 05 Nov 2026 06:29:00 GMT"
-      },
-      {
-        "title": "秉持初心启新程 第四十届晚报杯全国业余围棋锦标赛报名启动 - 京报网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZjUzQ2xPU2xQWmtUUmNJM3NrRC1DQmN1NDcwQWEwYmpLUEJsYmp6T2ZENjFjbEJNLVZiN1Jobk4tc1BGRlNrNHc3YXlRVHM0NDdiNHRIRDJRc1BBYWc?oc=5",
-        "source": "京报网",
-        "published": "Thu, 05 Nov 2026 05:20:50 GMT"
-      },
-      {
-        "title": "中国音乐学院交响乐团“重现——歌剧幻想”音乐会致敬经典 - 京报网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mRUxjRjh4WWlxcDBWLTQxUEZJck9uei1VQUpXRGF5dXJBYzBHZTkyeUJROHhVYzZ4aWpZeDhUaXZMbkV5THNOWFptVnJKMHRJdGlqNFg4VV9JOXZmcXc?oc=5",
-        "source": "京报网",
-        "published": "Thu, 05 Nov 2026 03:16:05 GMT"
+        "title": "冯远征：除了刷短剧以外，年轻人一定有精神需求 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzlzUXRmYlJ1SUNYVmpLOURQUHBnczdNandjRlA3SElfNVg5OVU0a3lQUG01RUJNeWZqVEZSQ3QySlhxYmx1a014aS03d0NHQ0lpaWFlU2pTX1k2d1VGX1FEd1o5R0lpTmlKMDFIYzVRQkdscTIyZVNQMExPMGhFazhWM0JTRTA3UDY5Ng?oc=5",
+        "source": "21财经",
+        "published": "Thu, 05 Nov 2026 10:40:00 GMT"
       }
     ],
     "体育": [
       {
-        "title": "中国男篮世预赛第五窗口期集训名单公布 周琦、王哲林等入选 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdnRsUG9PUGllVDR6WUpNRFhnWEdWMXRPOC1iXzluTW04Tml0NklQbVdtVm5BX1VUYk9pZDFiLUhRVzFReGxxWV90a3dPMG9fQ0dYMG40TV80MWo5R2NlOTNoay1sdVhU?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 02:42:20 GMT"
-      },
-      {
-        "title": "青奥会上，当世界青年共行“抱拳礼” - 新华网客户端",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFRzRTMyQ1RDVkliemFoMFNDSm53SnpLVVhBZVE3RXZLQXpTMmRtS2pWNW54bi00S2oxc3J5cm96YldRZDh0MUExU19ONUZ3VXJrV0h2VUctUUpRVk4tNDFqN29UOVhMTWFYOXd6UHpibXd5cjUzaXVfc0N0aFJnY3ltWTNwb3FQUmlBNThHa1N5TU1lZm8yd2xn?oc=5",
-        "source": "新华网客户端",
-        "published": "Thu, 05 Nov 2026 06:40:54 GMT"
-      },
-      {
-        "title": "2026年“奋斗杯”全国职工足球赛在江西开幕- 体育 - 中工网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jS2FxVnI1bGUxdlIxYnlCQmpyNlRDMDRYX1kxSlJBQWMyd1FqdFhmVzBHdWpIOHFBdGJkMGdQemtQSDk4QzFXbVpiNWl6TUNxUmVIM2kyN3BlSnRvMm9r?oc=5",
-        "source": "中工网",
-        "published": "Wed, 04 Nov 2026 18:21:00 GMT"
-      },
-      {
-        "title": "广东男篮更换主教练 何塞普·玛丽亚·贝罗卡尔担任主教练 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mNFFLRUZOQkJ2b2F1ODVZYVFMeEpOZjRLa0RGeWVIb2ZHRHlzNHgtc3dCWDZuc1JhRXkxWXZkNlExNXhfaWgxU3d0QTViVjY4WXh6bHpQUXJUT0hzV0ZhVnZEbHhqdUtq?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:31:23 GMT"
-      },
-      {
-        "title": "WTT法兰克福冠军赛：王艺迪首轮出局 温瑞博晋级 - 中国江苏网",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM014eHZfX3RpcHAwQmlmUXpKVWhsMzRLTGpEZjBlSWdzT3ozOENKakJORGh0NUQ2aEJCbnBoU210OVZmeS1MU3VGZ2lPVXFFRm9xN1lyTEVxMkVYdk9ELUNjMmp2YUROOGxKSUJRS0ctc2trQVhzRWVRVUt1a3Y5NkhCeGx1Rzl3U3NZ?oc=5",
+        "title": "中国游泳小将常墨涵青奥会再添银牌 - 中国江苏网",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFVEWHY5UHJWLU15dTJiZnc0Y0N4clVnd3h2aUVSNk9qeXlSNkNwX2JmRk9sZ1RmbnhkbVhMY0ZKaDVDRkFXODZ3eHlrY0Q0aS1lNzFOR3VOUURuNHB0VXBUT252OXFxXzQ5N0w5cnI0ZXZTQlpteThZeHJMTjIyV1JSdlRPRkhvUGY4?oc=5",
         "source": "中国江苏网",
-        "published": "Thu, 05 Nov 2026 02:24:00 GMT"
+        "published": "Fri, 06 Nov 2026 01:29:00 GMT"
       },
       {
-        "title": "全球近80名壁球职业选手齐聚佛山“以球会友” - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IME9wbk43amVMbUt4MUhZaWRJWlU5cjZ6Y1Vudldwc1pUc1NndF9ld2NRWGx3RGpEOUhiSEcxVjlDN2xFU1lkRGhmTXZ4ek9JOGVNYjlqQXVYQzNlWTIwRXJ6RVZBcHRM?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:27:48 GMT"
-      },
-      {
-        "title": "举重世锦赛：男子95公斤级世界纪录大幅提升 - 光明网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiUUNiVWNPWEtPM1Y3M3B5bTE2dXFTZGpKemt1NVhRd2NOLWlteTNaZWl5Vnd4RjhQSUNCZnRDV0pXUEFucWQxOTl1WDFpV0JyU09HVEZKT1dMMG9QY3ZqNTZVZw?oc=5",
-        "source": "光明网",
-        "published": "Thu, 05 Nov 2026 02:46:28 GMT"
-      },
-      {
-        "title": "盛李豪/王子菲射击世锦赛10米气步枪混团摘金 - 广州日报新花城",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzlEZElUMnM3d2RfeDNLNEdRTkltTjRxMlZDREk3N3NscFpPNFNYOEpSajBuOG5GRlN6RHNtVmlOX01ZSENJcHozdHh2bXFiSWxySTVyV2daOHYzdXhSTGdCbFBHMkIzdXFuWURiVkJPU2tIVHpkTkNxdmlVbVlSSEg0R3c2S29tekE?oc=5",
-        "source": "广州日报新花城",
-        "published": "Thu, 05 Nov 2026 02:10:20 GMT"
-      },
-      {
-        "title": "蹦床世锦赛在南京开赛 参赛规模创新高 - 新华网江苏频道",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQk9ZX2RNY2QxX2l4VGM1cjdJLTcweHNpc0I5Mm1YSU8wM2Mycm1EVjZDQzA1XzNlQmtXbW1YZ2Ffb3BjS05EMEZINms2Wk9yTjUyT09OcVAwNFVtRmdyOUZoN0owb2xueXhOd2d0RUlmR1h2YzBZUFdETWYxYlQ5TWVB?oc=5",
-        "source": "新华网江苏频道",
-        "published": "Thu, 05 Nov 2026 02:38:20 GMT"
-      },
-      {
-        "title": "箭中十环、泳池夺金、排球拼到最后一分！江苏省残运会赛场，他们把“不服输”写进比分 - 新华报业网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyT3ZGYmxtSTZONDhlUDRJUWRSOEJUTTNrVlFwRWxoZGY2Z1pXUEQ3QnNYMXJXejJIQ0FRMS1xQ0pMYVJvaC1XOWYtOFk3XzE5VldkcFBRbHdUSlRGTFJUUzhZbUotaEtWTk1r?oc=5",
-        "source": "新华报业网",
-        "published": "Thu, 05 Nov 2026 06:48:00 GMT"
-      },
-      {
-        "title": "亚洲杯延期国足利弊几何？ - 文体 - 读我网 - 山东商报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40SllLMTBZRUdxY2F1YlhHMUlJbEhtelJtSmRIOFBhZ1cyV0o3ZXRVQnJPZVRSOVZVc3ZZWUF1VFZ1TTROelc1dnhmRmxXaS1FeTFmd0pOUGdBbS1V?oc=5",
-        "source": "山东商报",
-        "published": "Thu, 05 Nov 2026 01:57:21 GMT"
-      },
-      {
-        "title": "西亚卡姆20分杰罗姆23分 灰熊不敌步行者赛季首败 - 央视网体育",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxeGVKZ0QzaHhEbWZlZ3hjcEQwY2lHUVdVT0dRU19zWkVLM2pyOS12YnJ0Y2RRNml2QXlFbVRPTktsVmFyMUJ2RVJNenBwSmd2eEsyMjVycmczd2JGVmFEOWRyV2wtRjAzUlEyeW5WUkY3YjY5ai1PZWxfTQ?oc=5",
-        "source": "央视网体育",
-        "published": "Thu, 05 Nov 2026 03:43:20 GMT"
-      },
-      {
-        "title": "江苏将加强青少年足球训练中心建设 推进“一条龙”升学保障体系 - 人民网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbWpTT2daNF9UaEM1MlVZZ21OODd6QUluUVJheTRaSXBoaWVCem96Nl9VbU01MHVSN3FFNHdUVjBNTU5ISUppbDZ4dFdsMkZFa0ZySVNfQThJUmhac3g4aFNJNXFLa1lR?oc=5",
-        "source": "人民网",
-        "published": "Thu, 05 Nov 2026 00:17:00 GMT"
-      },
-      {
-        "title": "“楚超”决赛11月8日将在宜昌奥体中心打响 全市44个“第二现场”可同步观赛 - 长江网",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wUVM1OXo1M3N5cEhUcFFCaEJETmtnYnlCbE1lanVrWGJIR1Q0YmctXzZOSHFET25LM2IzT0JKVmNGbzhIeml6clhGWFlFYkFpd2FvdU83Tkt6VjUxZDdiWVlaQ0laZw?oc=5",
-        "source": "长江网",
-        "published": "Wed, 04 Nov 2026 23:03:00 GMT"
-      },
-      {
-        "title": "李和宸无缘青奥会乒乓球男单四强- 体育 - 中工网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyMU9aY3p4dzFwdTF4ZklqQTZkc19JV3BmUEhmN19fVDhvYkd2NDVsRlhZaEpnMDBxcGp5QWRlZ0IxUGdGMDhNNFoxUmNwOWJseHZGNnFuYlNnclVKSTlZ?oc=5",
-        "source": "中工网",
-        "published": "Thu, 05 Nov 2026 06:10:00 GMT"
-      },
-      {
-        "title": "姆巴佩道歉被指缺乏诚意，“ill-judged”到底是什么意思 - 京报网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jNDJWZUswWkRsdkRwYWRQTnpDRFlKZmpUMEoxX3JKM0VhZkIyTlcwYkpMRnhtRFBBQXBYNHdHcGFYOFNIRnVoR0ZnOE9Qb1VZMnJweWFqZUVKaWVUQWc?oc=5",
-        "source": "京报网",
-        "published": "Thu, 05 Nov 2026 03:55:36 GMT"
-      },
-      {
-        "title": "丁俊晖、赵心童止步八强 斯诺克国锦赛半决赛对阵出炉 - 华商网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yaGx1YzlOWU5yd0NhVU9Td2JMVXVUSkhhOUJiUzNOMkN2SlVSbDJaTklvZzk1aVF2TXJzUnVSaHVkRi1KcFJ5VXV3UUVnQS1zZmpqMUIyejNCcnVGVVNj?oc=5",
-        "source": "华商网",
-        "published": "Thu, 05 Nov 2026 02:45:42 GMT"
-      },
-      {
-        "title": "青奥会｜游泳：常墨涵女子200米个人混合泳摘银 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2JsbTZwU245NXFGUzd4N3R3TTFoMWNRMDV2S2Q3NEN6a2o2c2YwTmw0dWl5dGxNWE1FUjNCLXBaM0JybFFqc254ZzZFVXdDVzJtVmdPX3FlcEtHaGpDVTAzajZjWmVSdmFnZU5EOFpEYmVPemhnZjJicThuWlRvTg?oc=5",
+        "title": "WTT法兰克福冠军赛：王楚钦不敌温瑞博 止步男单16强 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQndzVTd1R3RIazdEbElONDRqT21LNEdYcmFNLTVJUURmSm5ZNkUtS0ZVUS1wMjZRSVFLOFJIeFJkSzNUUnRyZDdoM3lTaUxWU0FCaWxGcFJGUVNKeVFIMDZDemFoWF94a1IwYjh2UHRrZmFGUXJGdkNINzdya3ZVMzdn?oc=5",
         "source": "新华网",
-        "published": "Thu, 05 Nov 2026 01:50:47 GMT"
+        "published": "Fri, 06 Nov 2026 02:49:17 GMT"
       },
       {
-        "title": "省十二届残运会落幕 黄石代表团斩获26金24银27铜 - 长江网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Y2xLaDRSOWZaZ2RzRWxKMU1QRGNDUEdFR0Q4akJRRUpsOUM5M2g0NS1fX2JtSDRYODNYTXhaZ29Oak8wVkdHcElkUzI2WWVFRWl1VVJmVUc5VDRadXNnR25kSQ?oc=5",
-        "source": "长江网",
-        "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+        "title": "欧联：AC米兰0-2十人费伦茨瓦罗斯 4轮遭遇3场失利 - 央视网体育",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6RktoZXk4Y0xJb3MtWEJSM3kxbUNhaVBPa2RFVEVvQU9xZEM3cC11Yjd6WDNiLWdBUWJxVlZLc0pWSUhpQUZUWjhjZjh5ZzNmd2hoYVdnZ3UtbWxFTlFpcmZ1Q1VZQnQySVplUVZuOTRPbURsRld4Q1FXTQ?oc=5",
+        "source": "央视网体育",
+        "published": "Fri, 06 Nov 2026 00:40:25 GMT"
       },
       {
-        "title": "男排新赛季津冀沪三强争锋 - 天津日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUNiV2lXTlNnUUtRczdpWDBtVXZmeXBXbHdfcmRLSFVLZDU4c1BIZC1fQnNtRUsybmJaUXNWdnVoNVdfTjY2bkROdXk2SDViUUhHc3BxT1RFT3N4Z2x4UlJiRjM2aU8tSTVaZ3lUXzZaOTN4d0JEWVItLTNhdkY2akl3?oc=5",
-        "source": "天津日报",
-        "published": "Wed, 04 Nov 2026 23:16:44 GMT"
+        "title": "青奥会全天综合：羽球滑板游泳奏凯 中国队获三金一铜 - 正观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yOUEydzZqTEF2OWZCbndqQ3lCV29USXVod1lkeGRGajJDRThXa1M0ZU44QlRVMG1TTUplbVJiMENBUjRhd1Bnd0NmVEZyR2pWaWxFOHpiRTU?oc=5",
+        "source": "正观新闻",
+        "published": "Fri, 06 Nov 2026 06:00:00 GMT"
       },
       {
-        "title": "“湘超”淘汰赛11月7日打响八强战，总决赛12月5日举行 - 华声在线",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YckU3MG56X21iNW9qbjhYNll1SjRNU1ZQcFFfS2FsNjQxeHBQRWFzYVZQV0dnYVJqWENLTkVWbDhTOHdtUnZfMTdQTm51VnAzNkhQWkJ0U3d1d1Rncklr?oc=5",
-        "source": "华声在线",
-        "published": "Thu, 05 Nov 2026 01:44:29 GMT"
+        "title": "射击世锦赛中国选手姜冉馨、胡凯摘金 - 央广网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSjZ0azFUQVdlYTdJMGFpdE9GclAtM0M4dzFwM1dHMW5wUFJ1NGhJVWFzY1FManQ0bS1IV1kwNDBEYU42TVpheDk0dFZIbG9lQnlVYUVoZnRJNW9JR1NjU192U3oycTlCbzg4eVFtVS1yQ2wtekhUYTREYWowTGM?oc=5",
+        "source": "央广网",
+        "published": "Fri, 06 Nov 2026 05:14:36 GMT"
       },
       {
-        "title": "杭州马拉松背后的出行保障 “气泡式过街”温暖护航 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zeWtnNzFrcWxaMVdPc1pBOU5lM1FseERYMDh2Ump6UzVCUzJFWkFqVUlmUzFYQmRERWNCcTZ3eHA3bk81MTNxTWFjc2d6enZ2UmdMY0VkbXNyS3VzVTZLZk9fTWFVZjhkVC1DZHk4MHY?oc=5",
-        "source": "中华网",
-        "published": "Wed, 04 Nov 2026 10:16:48 GMT"
+        "title": "中国青年展示风采 通过青奥会增进理解 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm9lUTZvVWtFd01oN3NRY0NENFhJMXBfX0dMR0N6cUkzRDF1S3dEMmhVNW4yS3gzSXQxWnJZY2VKc09Zd0FLWmRwUG1BRkxwVkhLdEdQZE5rcktDRWlsd09oSDBKZ2J2Q2tXZnVmRnNkSU5pUThiQzZHRlprbjVqeks1T3RrU0RfM1BRLQ?oc=5",
+        "source": "搜狐网",
+        "published": "Fri, 06 Nov 2026 02:20:00 GMT"
       },
       {
-        "title": "中新网评：别把国乒热度做成假直播生意 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iTW1JUGY4ZHZxUmZQSm9KNHEwZUtIa0dKbWNENWplc2sxanhpNGVGeWxobjNyMFZfRG0zdVdMYUlVUEJ0OV9hMHltM2tnMlFWcFRMUDRmeFdGWE1xTl8wQ25IazJtS185?oc=5",
-        "source": "中国新闻网",
-        "published": "Thu, 05 Nov 2026 06:00:41 GMT"
+        "title": "若马刺没有文班 他们还算是西部争冠强队吗？ - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpajdzNVpVV2VpTURuQkFydVdsMDh0QmRHOXVULUtUdjY5UnNqQ09yR2ltbzdvYk13Mml0b1UyX3ZsTWVDWVdRSUNJSy0zN19MWEVLei0zdzZTY2VxUnIwTEphSXVvODVKVTVGSXdLSEZ0RURYOVp5QWJoNGw?oc=5",
+        "source": "新浪网",
+        "published": "Fri, 06 Nov 2026 06:39:54 GMT"
       },
       {
-        "title": "靠听劝“出圈”，考的是一座城市的发展决心和治理能力 - 新华报业网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTFYyemxsR2NuMzBLYU1FUmRDTmlQR25BOTRIMFZ5SjJycDd1ZE10YkJOamRURGp2YjlXQVJkTU1BZW5hWUN0MkR3dWx2ZlBJVWt1Y1NjaS1ldVZWcGEzZlJ2NThVM1g5MFJN?oc=5",
+        "title": "国际足联撰文称赞中国U17女足主帅马晓旭 - 新华报业网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wT054TGhLMW5VNzFUQ18tR01LZFRuYVRBcXhIVGdjNl94WWhnbTBPeGtESjJFSVVDUW5wYTM5T1djaURNeV9FU04xY0ZwOFRtbVcwZ3dBTjNlWTlFUnQ1a2tmLS1OS0t6dWQw?oc=5",
         "source": "新华报业网",
-        "published": "Tue, 03 Nov 2026 14:20:00 GMT"
+        "published": "Fri, 06 Nov 2026 04:22:00 GMT"
       },
       {
-        "title": "宿州逸夫师范学校学子圆满完成安徽省第九届残疾人运动会开幕式展演 - 安青网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WOGNXWnBVNEF0Sy1yc3NhdHlHdGs1YWpuQjc4UVRaS2pvdU5LLU9taUpCZG40Z2VtbUMzZFRUdWZmSUNSWUN6NmlhZ21SWjBGaE4wYXNEZEp2TjU2dDhyLQ?oc=5",
-        "source": "安青网",
-        "published": "Thu, 05 Nov 2026 03:44:37 GMT"
+        "title": "C罗退出国家队 甲亢哥痛哭流涕弹钢琴 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPTXVHV201enZfc1ZhcUJQeV9IWkw2YmFPVkI0b0dwdjZZbzJUb1hsVWFCMEtWUVpIOTM1UzN3Yk1DRnNNVG1JUXRlbVhpRUJjUEtmTXo3a3RiVFM1RTJ1YjBYX0xYa2Jhb2NjZktpOVc?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 05:26:54 GMT"
       },
       {
-        "title": "九江代表团获得省运会田径项目首块金牌 - 九江新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaR0Y1MXlZZDlNdmFRdHRzOUJmc0trSlhXbFdqNGotUHFEOVJtTFBQWHY3bzVhRDVpQm9WTmxzVTJCLUdqeUJfMlMtNERXQkpYTl96MTdUcnBGckNYVVhB?oc=5",
-        "source": "九江新闻网",
-        "published": "Wed, 04 Nov 2026 09:11:07 GMT"
+        "title": "斯诺克国锦赛：中国小将范争一无缘决赛 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEpwaEdiaTY3MjM3aVphaUVDUnc2VVlBci1ZM3NEMXpZRFZ5aEdqYUFMSUpxOUtoa2xEYUdQdkcwOWc0YWJabXRNdlh4ekN1R2o3U3BkWDdQcV9iYk5Velo2R1IzZFd6QVhSTXdWM0phNVdmWG9SamtpVERsU1FtM1JSaGNjNUk?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 01:30:08 GMT"
       },
       {
-        "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」 - 爱范儿",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8yb1A2MzdjTDRIclVHY0hLRUszTGw5VW04WmhJajNQS2VWNHI4bHdRMXpGLU5FVkdPaExuSndUbURSV28?oc=5",
-        "source": "爱范儿",
-        "published": "Wed, 04 Nov 2026 09:01:48 GMT"
+        "title": "【南京晨报】东南大学校运会开幕式名场面拉满 - 东大新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fNXU4UGxXU2dDQmU1WDFwSndGdGJfaFY0M2xta2RNZXktNkFvOVpMa284VFdXdXQ0eURQY2dpQ3R1SHVFdDREMl9iNTk4bjYtcW5VMVk5cHhybW42a2ZaTGNnZk81UQ?oc=5",
+        "source": "东大新闻网",
+        "published": "Fri, 06 Nov 2026 03:11:03 GMT"
       },
       {
-        "title": "2026年中冠联赛（黑龙江赛区）暨“东北超”队员选拔赛落幕 - 黑龙江日报",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpcVlydHVvWjJpRWNMUjVHd2gtRVdrTzhQdFplQklqUm5qWjYtVnFuTWY1b2ozeDNuRnA0c25QSXl0bzRKUHIwemduMW1uM29LZmp4Q0VPVVVuc0RvUnIwRjg0SXRjSVNpaGJmbzJmSWoxY2lJ?oc=5",
-        "source": "黑龙江日报",
-        "published": "Wed, 04 Nov 2026 01:45:14 GMT"
+        "title": "卫冕！无锡男队勇夺省残运会坐式排球冠军 - 紫牛新闻",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTT2F5MndNY0FiREt2NXdUVzhzVjcxdGlKbjJ4R3RGTHZUbGVGNWRsdXIwSEk5cTdmV243Um1BNkdoVGpiX2tWRUFJeXNxZ0F4RFpNd3hjc2laZk1ZZEtBSHBRdllfMFFKdXM1Uzliek1abFpBaEE?oc=5",
+        "source": "紫牛新闻",
+        "published": "Thu, 05 Nov 2026 11:05:00 GMT"
       },
       {
-        "title": "CBA又出好前锋，狂砍34分5抢断，三分命中率50%，朱俊龙可安心养伤了 - 网易新闻客户端",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFPRTdLWXBiZzlrT1VHMUFiY09RT3hoNUlhWTNxcHBUTzRTZHZlYW1oTThjYUw3dGs0bkVzWFBEblBqMmdUUWlPd1hZNEU2Vm1UQ2Z3NjAtV0ZtcnBYRXp5WU43S2NuQnZtQlNoenRlb0xtZFlsakxodzdYc0pEd1ln?oc=5",
-        "source": "网易新闻客户端",
-        "published": "Wed, 04 Nov 2026 07:15:00 GMT"
+        "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yS19QWkNDQWN5QVU2Z2ZqbkduSFI2aHQzcWJfOXNTWW93REpEZ2Nvd1U3Tno3RkFFOG9uYzRCOUNfc2F4Ty16SGpmdWl2Zmx4WHNIUnNtdDlKWmhRWkgwSC03eVRkSXljUDJxZlI5aw?oc=5",
+        "source": "中国新闻网",
+        "published": "Fri, 06 Nov 2026 01:00:00 GMT"
       },
       {
-        "title": "有能？39岁小法率意甲黑马9-1狂胜！创欧冠历史，双线6连胜轰22球 - 网易新闻客户端",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VidUpLOTEySk5IbDFuSFdUSTNVMnBDUzRHc2R4VHlpdzhVVkd5U1pFLWFOenh1TENMYVpMdENrdkJyR3IyQTdGek91VjY1WkFuRFFndDJ0V2ZLZ05TOFFIalQySFVJcHpRLVdWZk8yMVlVZDdOR3R1S3NIcDlsYnNR?oc=5",
-        "source": "网易新闻客户端",
-        "published": "Wed, 04 Nov 2026 23:34:00 GMT"
+        "title": "北京延庆举办高水平青少年短道速滑比赛 助力冬奥遗产赛后利用 - 人民网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SYWo2d2lGeHdwbGN0LW80am03VVE2Q0U0WjVES0U2YkYzYVZRMWVBV2p3OVlXOTZHSlhORmJLcURjOGR4a2hVdi03LThLNmhrekVqb29rQ0hVTjJsTGV2YXNHdWszYlg5?oc=5",
+        "source": "人民网",
+        "published": "Fri, 06 Nov 2026 01:02:00 GMT"
+      },
+      {
+        "title": "湖人稳定3连胜 东契奇持续大爆发40+ 阿卡夫22+12 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kOWlRUDIxbVI2MThHaUh0NG5SY25YLWlNLUt3RE5Wa2piYzZTUGFvaUtxNUlvOGU4MTNDTjFOMlBJcmRvMkh6NEQwTERKa2NhSlowQk9hNmg2QmU5VmxHclo1UUNHMy1TQ3hEanN1b24yeVJQRnFtTmEzOWs?oc=5",
+        "source": "新浪网",
+        "published": "Fri, 06 Nov 2026 06:45:23 GMT"
+      },
+      {
+        "title": "举重世锦赛：女子77公斤级纪录、金牌“花落”中国队 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2Nka1dJV0pfT0FsbDFSZzZMWDRtV2ZlSWdqRkhVVklFTkFJdzBjZUJsb1g1OTN2OWlfWVhXcF9KUzE5TlBwdkFNS3hCeEtqLW5fcktWMUVjMzFkT1ZBdkdtUXMyZkNCLXY4TzRYa1otc2tma194WEFoTkJsRGdrSmV6X2lQUkU?oc=5",
+        "source": "新华网",
+        "published": "Fri, 06 Nov 2026 01:30:03 GMT"
+      },
+      {
+        "title": "一球落袋满堂彩——省老健会台球交流比赛正式落幕- 聚焦 - 东南网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03ZV90SWFwT3J0aVdhdlNwcmZmNEtkS3ctbERqaHVLbUxYWllEekxRaHp2cGF2UHZXZkJKVG42LUpaWDZqc1ZMeU5CR1J2RlEzMU1oRVdXenJfdnpUN25SRQ?oc=5",
+        "source": "东南网",
+        "published": "Fri, 06 Nov 2026 01:19:00 GMT"
+      },
+      {
+        "title": "三分失准 富阳队客场惜败 - 杭州网",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblNlbTVKaUFENTQ3VW1LTFZzZHZMdjFfYzk5YUFGVXRUTjRsUGlQTFV0bEpYTlVPZWxnNVdxTjNtckVDOEQ5NUxYSFMyLWpwV0djbEZfbHNZcG5SV29tMmtvZ3V6NHJteTZTZUhPQ1FaTWFoR1lNZGIzLUFNVGVCZw?oc=5",
+        "source": "杭州网",
+        "published": "Thu, 05 Nov 2026 23:48:06 GMT"
+      },
+      {
+        "title": "“苏超”落大幕，“联动”不散场 从奇观到日常 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUTJDUjRIQUItVmFhNjZZVVpEcTY1Z3FFbTgxaEpaNFlGbWY5cjF5WEZSRVNjX1dicW9xa002ZlFDX0tDTWNpX0NHMzNQcDFYWG9wWGJJMmx4aVZEWmtfRzZUY0F5azFXb0o0dUs5MFc?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 01:00:03 GMT"
+      },
+      {
+        "title": "斩获19个一等奖 第十届河南省民族运动会郑州市代表团创历届最佳战绩 - 正观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RLWIzbXV5NFVPbWxtZWppWmhwRExqYnlmTXV4c2tnd28yZ3V2R1NvSl9CQTh4SGRjZm90OFJiRTgxT2tfRDhYcTI3Z2c4OS1sVWJYZ3RWZ20?oc=5",
+        "source": "正观新闻",
+        "published": "Fri, 06 Nov 2026 01:10:00 GMT"
+      },
+      {
+        "title": "北京男女排新阵容出征新赛季排超联赛 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZ0h4LW1tb0ZfX1FlNlJjQ3FnczQyU1RoOGJORUpIZXRkQXJ5X3RxWlRkbVhfQ2k2dXhCV0E3UFIxdm1lTEM2WWlfUkpyVnBGQUFhbzU2WGpjUVJEM3R0SDQwMVBiRDdX?oc=5",
+        "source": "中国新闻网",
+        "published": "Thu, 05 Nov 2026 15:07:51 GMT"
+      },
+      {
+        "title": "聚焦省运会| 在劈波斩浪中不断向前- 聚焦 - 东南网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wS0JlRzlsWlc1SEdHSWJzeUVmY3NSNkg3emlmRkg5YkRmbkIzU09PSk9nYW1DMGM3X1V4N01DYnJySnhQWXh3V0FDNmFxRzFjeTRxcTN0am56a0xJaGhTbQ?oc=5",
+        "source": "东南网",
+        "published": "Fri, 06 Nov 2026 01:20:00 GMT"
+      },
+      {
+        "title": "世界蹦床锦标赛：王梓赛、朱雪莹晋级半决赛 - 新华网客户端",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlg2UTViY0oxOXRsMzdudmxyVk1BWnQ2UVI5OU5MNm84UDhVS0lkM3h3U0FsWENCQTBFT0tKUEhsVkd1UTgwNHVZZXlaMUlWSzU0NERjbkdEQWtKWThSUWZMQnVseUc5bDRGU0VWSFEtYldka3dzaFBpWTViRjA1cXdvY0ZMWXk5N0RjSTloaS1kb2Q2SWM0YWxB?oc=5",
+        "source": "新华网客户端",
+        "published": "Fri, 06 Nov 2026 02:12:50 GMT"
+      },
+      {
+        "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Q0lpY2pUcDUtd3NmcjBHWEZQTmVBQnR3Ni13Q2ZkWUQzaF8tRlB6eTZTZzRYRmktbjAyaDVzNHVOdC1RVkU0SUlaZTlLXzlEY2dKMmFmU2NTOUxlRXZVdXFLcDN1a2Fl?oc=5",
+        "source": "中国新闻网",
+        "published": "Fri, 06 Nov 2026 03:44:22 GMT"
+      },
+      {
+        "title": "满城风华迎宾朋——“冲刺省运开幕·三明准备就绪”系列报道之一- 聚焦 - 东南网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QYUlCcDI5eGk4QkN6Q2FwbFFpb3VhcWNNVW9qaFUtZTJ3UlFiblYwSUNtREZLMGZpcTlobTZ4QXFXRDdLMlI5ZTFPVmFGWEdPbnh2ZUdzVnFfMkNWWHpLYw?oc=5",
+        "source": "东南网",
+        "published": "Fri, 06 Nov 2026 01:18:00 GMT"
+      },
+      {
+        "title": "“楚超”决赛11月8日举行 宜昌奥体中心周边实施交通管制 - 长江网",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91b3djSFUtdGRuQ1ZFNVJLLVpSMnNlSEl3OWIwdkw4U0Y4Nk9vRjFQOE9zclZlU1Ffa2JibGlfbXdMb0RNbnVHZUYzNlpoLUpxdU1TdU9QS0dWd2xKUDFkckdIMHpTQQ?oc=5",
+        "source": "长江网",
+        "published": "Thu, 05 Nov 2026 23:04:00 GMT"
+      },
+      {
+        "title": "湖北省第十二届残疾人运动会闭幕 - 长江网",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YM3ZnWnZWX3NUZHlLYlNWRzVOUmNWM0VBMW56SVd5b0M5X2o2UkhtZ0gyeHdwcUVFaTAyYmFJY19xUkpkU0pfZWR6d2gtb2I4S3lXME5SN2hhUnhJa21idDhJUm9DZw?oc=5",
+        "source": "长江网",
+        "published": "Thu, 05 Nov 2026 23:54:00 GMT"
+      },
+      {
+        "title": "江西省十七届运动会(社会部）健身气功比赛在莲花县举行（图） - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kUl9CWUdCWUJUSERqTEJfOWtxNVNYcWN2UGhzU2ZQeElGWHhFQVpNUTkzdGJWN3VLbXoyQ0JXV29lMnZETXdxZVdn?oc=5",
+        "source": "凤凰网",
+        "published": "Fri, 06 Nov 2026 01:48:48 GMT"
+      },
+      {
+        "title": "托克逊县第二中学第七届秋季运动会开幕 - 中新网·新疆",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON3p2NkRtbklENHZkcHVVWDZMSW1pUk1QWGpnQVZQOWxnYnhIR0RqLUlpbE9mc1hxODlQbWhJdm1femhsbVhnMU9abzJENlFjWHN4U3VCZW1wN1cyOXM1WE50RjR5cnVNX0d6ZUgyOEN1c2h6VlJuQ3Q5NTFUTEtxX1ZpSQ?oc=5",
+        "source": "中新网·新疆",
+        "published": "Wed, 04 Nov 2026 16:18:57 GMT"
+      },
+      {
+        "title": "从42.195公里读懂杭州这座城 - 杭州政协",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41R3FGa2J3M1hHbmJwakZxVkc5QWJrS0tRbWtWcTBMYm9NQXlWQ0pROFNEQ2RBbkJacktDMUR4Nk9TTERHNUhxMXlnc0h0UWNOSDVpOENtQ0dYTUh2YUZxNzE4dElKOHpHcFVCTkRNUU4yWlVKSUE?oc=5",
+        "source": "杭州政协",
+        "published": "Fri, 06 Nov 2026 01:09:06 GMT"
       }
     ],
     "健康": [
       {
-        "title": "世卫组织呼吁各国帮助青少年从小养成积极运动习惯 - http://www.jingjiribao.cn/",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WaXhkUnBOaVgyUFFmU3kwdHJraFppaVpkaGNzZXlfeTdUclBiZUNnMEF4dkNaN3lUR3dkZmxuRmtfS3Y5TjV4SEphSkFZQmpRblJDdHRUV18xeTNVSDZSdElYNA?oc=5",
-        "source": "http://www.jingjiribao.cn/",
-        "published": "Thu, 05 Nov 2026 02:32:23 GMT"
+        "title": "综述：ALK 阳性非小细胞肺癌完全切除后的辅助治疗策略与精准医学研究展望 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hcVA5Ymp0MnNnSFQwNmVMMW1icjQxYVlycVZDT3loeURVM2xfT3J1NEFKZ3RMQWtKZ1RVNHljblJtUV9XZzRSdi1vN292V3l2N1YtOWFFQzRodXl4TURlU3hpWWljZHpGbWV3TlhR?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
       },
       {
-        "title": "透析四年，闯过生死关口！徐州一名尿毒症患者顺利诞下女婴 - 紫牛新闻",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EZ21YbUt5R05UVUdCcVAtLWRjczRDSFhWRGdUeU9iMlJ5dDlIUmE2S0pyS2NKaWhWTmFzTGNKbjlHT0czd041aHVlZTFET1ZPZHNJWDlGcjVZNEc3UHptdEQzTHZlWkc3ckFlSTBLUQ?oc=5",
-        "source": "紫牛新闻",
-        "published": "Thu, 05 Nov 2026 03:00:00 GMT"
+        "title": "中山医院原院长提醒老年人不要总呆在家里 身脑同动延缓衰老 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSm1ONnBDWjY1Vk1tWERHZTRDcEpwOUNUbFY5VXhjUlY0MmlDU015aENGaVR5c3picFhrWDR0aUdWVVpsWUhrZnR3WUk1ZGh2TEFaWlp2cE5uOXpVUUdaUXZRNWIxNDE1UnpSN1RrUGk?oc=5",
+        "source": "中华网",
+        "published": "Fri, 06 Nov 2026 01:37:41 GMT"
+      },
+      {
+        "title": "给您提个醒，秋冬换季时，这种“感冒”千万别大意！ - 广西新闻网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HTmRBUUhnUFd0djh6WW5QMUJxc1B0QWJLZ0hkNWhBMkNSWE5KMzdhYTJqSTdZSkNFSVJieTZYQVNFWTJzd0NNZm5KQnQyc2RKdUQ3a043NXlYdzFBZFI5VWpreFFzblVja2Mxb3ltNkFValA5T0MzcnhvaUVIaG8?oc=5",
+        "source": "广西新闻网",
+        "published": "Sat, 31 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "title": "基于多组学解析西瓜果肉颜色变异的类胡萝卜素积累多层次调控机制及ClLCYB等位变异功能 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tOGItamZ1cnhURk1rdFNKSERJT0pOaTc4eUVzYVpLTm1NTm1WNHNObFNDa1ExSk05dnlvdEQtQWFUS2lyb1g0WU5CcjhZWHdrMEYwODVtSkxWSGQ3ZF85UHlhTXhBOGlVb0NPdmVR?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 05:08:51 GMT"
+      },
+      {
+        "title": "每天吃花生大脑老得慢 - 新华报业网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2b2dDMDltWG9yeDhVZ0E2RDc3dmxVZTRpY1NVekRXV1FRUW1GdkNJV2lLRjZOYWNuOUN6ZzNLZldBeURvYVRJby1mZGY4akJua3pRV3BtbHpKVVlRNGdMeV80RjZldngyS0t3?oc=5",
+        "source": "新华报业网",
+        "published": "Thu, 05 Nov 2026 23:47:00 GMT"
+      },
+      {
+        "title": "日本启动默沙东细小重组疫苗审批咨询 - ByDrug",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGQ1pucWZEWDNFb2g0OGFNRS1IWWhjR3FVS1Vuak1aZmVZdGdpQ1JucGFyM0VoaFQ4bHpfQUZPc19tdlVFUW9MLWhMcDc1bDQzNUE4alA4ZjNPYXFNWlNuLWt0Z0dUSENtTXh1cHhTaFhZdmdxQWw1V2lvN1Fydw?oc=5",
+        "source": "ByDrug",
+        "published": "Fri, 06 Nov 2026 03:44:00 GMT"
+      },
+      {
+        "title": "宁津县人民医院获颁“心健康数智应用科普公益活动”支持单位 - 中宏网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yd3l3c3FuWjRjYnBDWjMzaFdtdTBIeGJwTDRPdFZXNkpJb2NlX2d4LXg3Z2wya3lmTUhPc2hKc3Fwc2VCQkNjdjRnM1NFb2Z3dDZLUkZ4ZklIdzhxQldhLWx3?oc=5",
+        "source": "中宏网",
+        "published": "Fri, 06 Nov 2026 02:39:01 GMT"
+      },
+      {
+        "title": "血管加压药的免疫调节作用：脓毒性休克中一个隐藏的轴线 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aZDNOWDczRHp1X3VvRFRua0d4Nzl6RW9EMGgzOFF2Q1VfaXVURWhkMDZ3eEpTRVdPQXVkRDhScFV1T1Y5aG1UTFVaWVRvSUxSRVo5TEItbHo0UzFydmY3Nm03bUxaUEs0WlI5WHFB?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "医我看｜30岁就骨量不足！不当“脆皮年轻人”，千万要做这件事！ - 珠海网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xcDRfRWhCdnc5NWUzYnhwbjJxd1ZJSnBOUkV1LVczczRRSGxFdjBCRWxJUzJ2dEQ5VTBiVmh1ajViYVFiaG5YQjZtdlMtQk9EYzBNWnc0VlNuS2gzaFNsOTQtdWotSEhvaHpHcUJzZngxVGFLVnJF?oc=5",
+        "source": "珠海网",
+        "published": "Wed, 04 Nov 2026 13:29:00 GMT"
+      },
+      {
+        "title": "癫痫多维分子机制与精准治疗策略的研究进展 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wN3FTQ1c3NjBZTUpJSFcxT3NDR1dLSkR4WU5venpzbkk4Tzl4VnAzMHdDRW9WcFROSWlHUG1kZ3RFd04yMnpUQXdhRjZGWU9FZEFkckR3UGw5OGs3b0lvcTFmMEcyTVdac2E1clZ3?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "双特异性抗体、CAR-T细胞疗法及靶向小分子药物治疗血液系统恶性肿瘤患者的耶氏肺孢子菌肺炎 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUEFEUF82cjNVNGhacDRadmJkdnNOd2ROWDN0R1h0NmhTZU4yRHl0Vll1emppZXl6bnBNam1wamJSRS1YX3lQWUN5d3dJR1dROXJBenlySGx4MjhfMGIzQTVBNFhRdkNTVS1EWnRn?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "供体淋巴细胞输注在急性淋巴细胞白血病异基因移植后复发治疗中的回顾性研究 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RnQ3T29Md3ZST2hrZHZtNVhERkd6dlJpaldtcnJIdnNHNGdVWVBLSW1RZHQyLWRETDhKbEYybnhXU25RWHgzM2Z0VEx4MXU5MHZBaHN2bEZEWk1NX1hOLW1fRVN1ZEVwdU9qSWxn?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "早期帕金森病患者功能连接组特征与循环氨基酸水平的关联：一项探索性研究 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQUJUVFNwRnJIZWdRRUZ3NGxQMnV2STlxam1jclluRGI2MmV1aUVWR1VwNGREa0M0NjY1dnRTTXEzaE5YQWNIYl96dEpxUFp2N3JvV21nWWE0TnFybThlZUJOTzVjZmgydjhrc1JB?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "石油衍生润滑剂职业暴露与多发性硬化症发病风险：基于瑞典人群的病例对照研究 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12U1RzSm5zNG9SR0ZETHdqd2Etck9nYVB2ZXNxUXRlbHBjVklmWnlXcVo2RkJTUnFZb0pZdnAtQzNpZXp0QmpjWXVkM292X1ZQV2pGMjFWSnVjZjB0dHE2TlhTZFloenpsalA5RVZR?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:55:28 GMT"
+      },
+      {
+        "title": "电催化葡萄糖氧化中表面态驱动的产物选择性：金属Au、Au─OH与CuO - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TaHgwcFJKRHFBV2Z6TnpTWnQxQVVERC1halBlOVk2QmVRN0d2N01Dd21zMHB6Z0lEdllvdkxWNndBUnBRYml0U2o2NDJiRkZ0MnJWbWVDQXNacVJkcEdCS0kxclJpSWdVQVZwaGFn?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:55:26 GMT"
+      },
+      {
+        "title": "新型病毒非编码RNA LMP2A-IT1促进EBV裂解复制 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMWpVQ0xNSkN5U0g1RWZISkhuTjQ4M19HUEw1eVBmWWNpcEVmeXNLRU1iWnNMOE84QnZxQUhycFRiY2t3RDVqTndraXlpNzExMjU5ZU1CVFNtSWdKakJrNTVCeWZ2TGpSa29DQWRn?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:55:26 GMT"
+      },
+      {
+        "title": "Cell子刊：与其他哺乳动物相比，人类为何更容易患上小头畸形 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zb3llUVIzZldYTTJZc0xnVFBOYmJfTEE5bTFSaUlFSi1pOFRrX3gwZGVIRGVRNUlRSEdSRDRncFRlVjY3eU5iM3ltWXNJN2tpcHJ3OTlWNzEwSEo2YWhXLTlHVFQtOHozU2U3bEVR?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:55:26 GMT"
+      },
+      {
+        "title": "综述：代谢功能障碍相关脂肪性肝病中调控性细胞死亡交互网络的重构与治疗新范式 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBROHBJZTNlazZyM2p1a2JfMlNiUWl0blZaT0RoSFBqQUxIWktEVUhxQ1lrTktISGI5bUJzZVM4LXhOT0QxZHhDRlptOFdSNDV3WXE4cElHbE16dlBIOC1TbURXYkFwR2pLbGJGZlB3?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:55:24 GMT"
+      },
+      {
+        "title": "健康睡眠减缓心血管代谢疾病与认知及大脑健康不良关联 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTnFSVXBseUpib0RDOU13X2ZlMEhuNVE3Ri1ZNEEyV0N6alVqRldrWklYVGUyZTdHX3NyVHJtcko5eGs5WERVUUJTaURrRm1VTW9JUE5ZV2JfTHM3aHNLajZaWGVJWF9YVWFwMzRB?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "单纯疱疹病毒 1 型脑炎患者的长期认知功能、内侧颞叶萎缩及生物标志物关联分析 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5idFJ4VHVuTmpUYmNrdnlxQkVtbkhOa3hfMVYxWXFTNGp6QWNNNnR3RGxQU0k5RXZfMGZ5TlpLOWNnSUI0elpZR0c3a0RRS0NnbzRXSHpjc0U3dlUwdjZaU3pyT0NsUk9sOTZ0Tm9B?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 23:18:48 GMT"
+      },
+      {
+        "title": "综述：动脉粥样硬化与癌症的代谢重编程机制及共同治疗策略 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yS083NUlsYmxMeW5PMU9lV0RtZlFRV0tVbzQ0cnBwSVB6Y2d5bG9INmhHcjlKNk5wUUttZHVsOFo4bEFaSHhOMXNfM2IxMzBYZ18tb1FsbjdUaUxBck1KU0pqRU1fVzhFN2xHNzBR?oc=5",
+        "source": "生物通",
+        "published": "Thu, 05 Nov 2026 16:00:32 GMT"
+      },
+      {
+        "title": "振动控制瞬时弹性成像（VCTE）评估英国三级医院专科体重管理服务中肝脂肪变性与纤维化的患病率：一项真实世界评价 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Tb1R6bHBrQ0N4dW1RMThuUmFpdTY3YXpDZDI2cFJraHFGSVhuYUpTSjYzWTI3bUZobmlpbnJEQ3A3NUllM0lkc08zSEFXTllBeUlYaFQ3dDZNVEZqRUZHd3lGcTNWUFdWUWppQjZ3?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 02:39:49 GMT"
+      },
+      {
+        "title": "老人重症肺炎合并休克，株洲市二医院重症医学科救治助其转危为安 - 湖南红网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVkVzeE5pRzl5cENJa3h1Y0VsbzE5dFpZa2JkQy1TdEhoMDl4emVNY0NtMXAySHoydzN2SEk5MFRCOGh1T3JGWnFkN1VMSUlGR1gtcjBjcDF0NnRCbHEtYm53?oc=5",
+        "source": "湖南红网",
+        "published": "Thu, 05 Nov 2026 09:55:12 GMT"
+      },
+      {
+        "title": "胃贲门前体病变黏膜相关微生物组重塑与宿主表观遗传改变的关联 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWnIxZnk3YUtSVkJxeVljU1lxX0YwazlJZWc1WTNlY0szSEl3SE1ReklhbE0wTERMTzFSWTNQRWwzNUNxcTdqUWZSZ04tUi1rQzh1TGFxMDFWMWVaNkFuV1V2QU44Rnh4S21jYnZR?oc=5",
+        "source": "生物通",
+        "published": "Fri, 06 Nov 2026 00:04:41 GMT"
       },
       {
         "title": "孩子半夜突然咳得厉害、吸气像“哨音”，可能是感染这种病毒 - 新华网",
@@ -1265,166 +1367,34 @@
         "published": "Wed, 04 Nov 2026 08:23:35 GMT"
       },
       {
+        "title": "透析四年，闯过生死关口！徐州一名尿毒症患者顺利诞下女婴 - 紫牛新闻",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EZ21YbUt5R05UVUdCcVAtLWRjczRDSFhWRGdUeU9iMlJ5dDlIUmE2S0pyS2NKaWhWTmFzTGNKbjlHT0czd041aHVlZTFET1ZPZHNJWDlGcjVZNEc3UHptdEQzTHZlWkc3ckFlSTBLUQ?oc=5",
+        "source": "紫牛新闻",
+        "published": "Thu, 05 Nov 2026 03:00:00 GMT"
+      },
+      {
         "title": "牙痛、淋巴结肿大未必是“上火” - 杭州网",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFRrSGlXWjdTbGpOMzY3Wk9YSWM4UkhfTWlpM0ZOamFZZWdzdHlmRE0wYVFTaG03WkxkRVhQT28xeDJ1dVVZcXE4ajZOQWU0WVJLQV9WSzZpTDU0QUNyQXI3UF9XeTNKTDRRYW13SmphTzEzaTZIejQ0Y2s2bnBVMFBB?oc=5",
         "source": "杭州网",
         "published": "Wed, 04 Nov 2026 22:40:49 GMT"
       },
       {
-        "title": "避免碳酸饮料损伤牙齿 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwRWhQY2FvQmU1a213TDlzb21tOTJYVlJNb1RjSEdmNkdrRURxdTBkb1pNeTJ4SzY3R001SWZsaVJZSm1ocXVOWlJuMFB1a180YXhyeXBYZkRnb2JWTFc4eHFDRUdNM0gtZFZrLQ?oc=5",
-        "source": "中华网",
-        "published": "Thu, 05 Nov 2026 00:31:21 GMT"
+        "title": "世卫组织呼吁各国帮助青少年从小养成积极运动习惯 - 京报网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DdFliaHExRHNKMHBJbG9tMll6cThaV2xlazZ0eXhhaURweHp1THNXaDNxa0J5TVRpNld3b0lNX1E0UGlScmZMWkF1UWptQUdyVUVfX0xWYWItZU5UcXc?oc=5",
+        "source": "京报网",
+        "published": "Wed, 04 Nov 2026 22:41:10 GMT"
       },
       {
-        "title": "VR为康复疗法注入新活力 乌镇峰会看见科技让生命拓展更多可能 - 中国日报网",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wSW1fellaeEhnM2RsZ3BYRS15X1ozWjRka3dLUktqTlRBYVdsN3RHNkFiWEFmWDZBcnVDWjZ2YzVLcUViWVJhazVKSW1tTm1RdUxQeFAtU19MMENLSWtJSnphT0dzSlVGaHdNZV9tZ0pRTTExNzMwOFNLMA?oc=5",
-        "source": "中国日报网",
-        "published": "Thu, 05 Nov 2026 06:22:10 GMT"
+        "title": "西部首例！重庆这家医院实施加压腹腔气溶胶化疗治疗腹膜转移癌 - 华龙网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96alpwVHBuSlN5cFBPcGg3eUVidlA5NEEyOVBVQ0Z1eDBhSVhvTXZUd0hYN2hVbGRZbGM3VmhkbGp2U0pzSDZST0xtR2w4RzM5OWItM2JoZHJzSWdweDhPalc2UFVsWVl4aUNJ?oc=5",
+        "source": "华龙网",
+        "published": "Wed, 04 Nov 2026 12:08:53 GMT"
       },
       {
-        "title": "受体导向纳米医学用于类风湿关节炎：从靶标生物学到纳米载体设计与转化 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qUlR1LTB1Y2pfZzYzMGJDRVNsMWVxb2x0V2FSM0lSRl8yb2FhZXQxdXVuT1dmQ3VTakhCRkJ1VVM1Z2pvWWtFN2RKQk0xbXhCM1E3ZktyYm1vRmJyaHFKMFJOdXJfYkRjd3ZTbGZR?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "综述：“肺 - 血液 - 动脉轴”：呼吸系统疾病与动脉粥样硬化性心血管疾病共病机制的新框架 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KcENBMHhwbkVpYjRmUjJaOFN1OE5ia3B3Q2FKQWdBdFRaZlFCLVRqaTg4a2hmSFBqT0JZTDRoazlWX2hqTHROS2JLZEpjc1pjaXZ2c2I4Q1VabnpPV2lLZEFKM2dka2hHa1lVcy1B?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:35:37 GMT"
-      },
-      {
-        "title": "化学遗传学神经调控有了人体证据！ - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWliVHNfR3hCU0pUbS1LcGJHekVzYWRna2EwYmc1aHo1M1RqczFrZkZBVGdCeDdROVo3MXJ4RjJUemRfTzJpNXZYd2pWbFlCanNtZVBzeW5UTVpqNENrWUU4TVYwcmM0dVFIVVZQZ1RzaG1ZUUhVSGNaTk1MS0ZuaGNhMGRVVnFJ?oc=5",
-        "source": "搜狐网",
-        "published": "Thu, 05 Nov 2026 02:37:00 GMT"
-      },
-      {
-        "title": "多学科合力闯难关 西安市第三医院成功救治重症感染性心内膜炎患者 - 华商网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rSklOTW90Y0ltZHJYX1pJRjhEZzEycTlTOGVaNjRidWdKWGNBeWlQQmx5aDBUalhFZzhySkJOeDFSbl9UQ3JLQzdmakhJVWVsNi1SSXJjSUJpSjR6OTNv?oc=5",
-        "source": "华商网",
-        "published": "Thu, 05 Nov 2026 01:54:38 GMT"
-      },
-      {
-        "title": "产后照护在产前应激暴露与婴儿发育关联中的调节与中介作用：从母体子宫到父母怀抱 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VFpENmxsWTVvc3o2dUR6Yzg5ZTBRSEJaeElId1VsM1ItYVE1dTRpVThCZExEMU56NDExLXZNMWptd2RibDlQaElOZm5nMTlSYWVtRG03RTVFX0k4eTBNSlhaeVc4eTBrbFBwRTNR?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "跨物种与细胞类型特异性H3K27ac动态将脑衰老与阿尔茨海默病基因相关联 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15d0tsQ2hVbjc3d3NkdVRpSlp2QUxzQTlzT3dpbWU4NjBTbnNManVLTWpXbXFOc2hXN0RuQmN4dG1hbUNaazJycFpLVXhzQWJNcjY4RXVQMlFzY2pPcXdsQUtRU1lnY0NKenZHbFZB?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 02:04:25 GMT"
-      },
-      {
-        "title": "国内首例!西安交大二附院神经内科完成碘源性腮腺炎合并颈动脉重度狭窄的无造影剂支架植入术 - 华商网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aZndKN0h3enpMelBSME9OOHptN1dVN0gwZ0ktUm5LYnhKbDBibTllR1cyQWp6V1drTUJybkg2NnUzQzRJOGxuekxQOEh4OVFzdlUwSklaNGlzZ3Y5d2NF?oc=5",
-        "source": "华商网",
-        "published": "Thu, 05 Nov 2026 01:48:55 GMT"
-      },
-      {
-        "title": "靠维生素“续命”？长期猛补更伤身！ - Arizona Chinese News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzBka3NfQTlRRGdKUTU1MzcwNm91dk43LVNieWd1czZWT09BUktkSmRLSmtlYUVwd3ZzRTFDVFpqMmxQXzd0QjAzWS1WSUZaMlhrRFJWT3FtemxxM1BuaE8ydUJxUlhoVmJ3RU9YRXhNT3J4S1pwT3prSkpGOVk1Ti13UF8wbWduWVZwQQ?oc=5",
-        "source": "Arizona Chinese News",
-        "published": "Wed, 04 Nov 2026 06:05:58 GMT"
-      },
-      {
-        "title": "基于金纳米棒载体递送USP8抑制剂联合光热疗法增强胃癌抗肿瘤疗效的研究 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQWdEaUJPQURIeFJYTEFoOXBwME5wMUl5R1VhYXJrV0d6Zi1oRDRlTFNvZEFvTUZ5MUpubmZqZ0dQS0V0NnBreElWZXRqNzdDb2RweTlIQVM2MVRqUkFHYnFHMVl6a2pnU0dRZFFB?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 01:30:46 GMT"
-      },
-      {
-        "title": "SUMO化DDX3通过TRIM28-DDX3-KLF4α信号轴促进HBV复制与肝细胞癌肿瘤生长 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JZk4ySXpxbS00T3g5WEk0M2tBV2trOVJVUVNxY2ctcm1GWGhpay1kV2tJbjJ5TFZnb1RXVU9YXzBUV1JEZ0Y1UExBVWZ6cnBSZmtnQ013RHlGUFRrbmRxVWlwdElJalA3RGNjdk1B?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "结核分枝杆菌必需基因遗传互作图谱的系统构建与功能解析 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWGUyZURwTHhFWHVaR0VzbFFfTWNTNmExa2tqLThDY3JsVWlWdENzbUJ4UnBySm52eVFkSFFNZ2FqdmdQY0pQNkk4RUk2OHI0TGtvLVRtdmVXN3JyWTNSU0lsSHlKeXhTc1hYTjVB?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:38:59 GMT"
-      },
-      {
-        "title": "干细胞来源细胞外囊泡在膀胱癌中的诊断潜力与治疗挑战 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uck1CUi1SbVM5YmNwY2hUcGIwcGFwVnA2VUxtYTN6TnQ5bHJ3WjlWdkhsdjJxN0RDdUxDai10X2wzQjl5elZGM3N0eHBtT1dVRHE2Y3BoUk9IX2JYTkVPMS1FN3ZBN0lWNk85R0dn?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 01:05:37 GMT"
-      },
-      {
-        "title": "基于EORTC QLQ-C30评估非转移性前列腺癌患者放疗后长达五年的长期疲劳及其轨迹：国际REQUITE研究 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40bVZhcWhjQjhQT2hZYzBCd29uSkgxcGctX3pMTGQ1U2k4c3gxWUpmZ2NpMWNOUk9yMXdWNl9za05McUFpRnlZN2tLeVZBZTh5bkZkOHFObWpIbUdyQ1JfUWFSMzhrU2cxNGlQXzVR?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:50:37 GMT"
-      },
-      {
-        "title": "双价分支肽结合脑穿透与抗癌肽保持脑靶向性并提高体外活性 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fRm43ZWQyeWp3VE1nWElDRjYwbGtwa3AyNXNkM1V2cDZ5clVSVVluR001SG9pa2hWSGo0TXZqbGtLdW8xS2Q0TUp4VDc4XzJSN1k2RTJHQ2NNQUE0NGVUNTlETWx2WGhQZFd6Qzh3?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:50:37 GMT"
-      },
-      {
-        "title": "病毒-细菌共感染协同加速藻华消亡的机制研究 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5V0NvelZ5RjhFdlNTb3QycmRpb0VpQkVLZmg5ZnQxcjhqdTY5YnpfVTJ3dzY5UGhmODZ5TXpmRE9BSk1pVUZ0NjVCUmJWV3hOVV9MS2tmd1hmMUtCODdQVXRiRm9WWDN0RmMyVHRn?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:40:37 GMT"
-      },
-      {
-        "title": "癫痫的机制异质性与精准治疗前沿——从流行病学、共病到基因、细胞和代谢干预 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5idkhtc2dDcWUyVnA3NG5FeDE3NmpPUlE4MGlCSmM3NklJNU1xQ3JKMXpCRzdqVkxXbmlkWFR3Z0gzeVpjRVd2S3c2YTFKLThESG5KWmp6Rmx2bFFWTE0xX0VWZkxXYUtiTmdmTmRB?oc=5",
-        "source": "生物通",
-        "published": "Wed, 04 Nov 2026 19:22:44 GMT"
-      },
-      {
-        "title": "微生物代谢物与MAMPs对肠道干细胞功能的协同调控 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTTFA3UVF2aHFHX0VZMGlIYWtCZ014Y0UwTnpuVDdqdFV1STBCcXBLNmo4RmdaTnV0WHZUZFlXaUY0MTlMZnN6bWpqb0hJRmZlT0ZtazZQbHhEUVlSWTRnaEU0dEVZWFhZNTRQRkln?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:35:37 GMT"
-      },
-      {
-        "title": "整合多组学与功能免疫检测区分过敏性疾病高风险系统性反应患者分子特征 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xa0t2SDl6NzhpWUU3VUR2SFB5RkV2MTYxdmhKRXJtRTBvbVNpLW5DdEpLOGFrTWxGNVc1LXRucjZIMExlS0FoWDRlTWFfQmVtTWthMWx5cEd4ejNsSHowQkxvcEQ0SGZSNVBWeEFn?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:35:37 GMT"
-      },
-      {
-        "title": "脑–机接口在抑郁症中的研究图景（1995–2026）：一项文献计量学分析 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbXdiVzYyeUkycUJtNjFzMjBxZFNyWW45ampCcU11X2JaS3c4ek1UM0ZXUmZsNHlMM0pTYlByU1VaczEwaUV3YUFacmtyMHVnOVhBY1BrRENPbkFxaVR2NVU3RHZUX3V0bzVCM09n?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:00:25 GMT"
-      },
-      {
-        "title": "MPXV感染恒河猴模型睾丸的组织病理学改变及病毒易感细胞分析 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xYXcxN3JiNU5Ed1AzaW9OZ2xJQmg2TWhXeHRUX25PMTZOcE5XVHVmR1pDX0RiRV9NOEtBZ1hES3BWTFE3cmk0X3VReFBZWlN1OFZZdG1fS1Fya0g4b0Jfem9EMjl3Z1ozOXV4VDlR?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "血浆IFNL3（干扰素λ3）用于东亚人群胃癌检测与病程监测的多阶段研究：一种新型液体活检标志物的诊断价值评估 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FcUtpMzdGaTJndEZhNFZxVnZjU01FN3dZV25fS3ByUTRvbTdWblgtYUpmTVY2b3hDMEZMZjFiQjhiaWtSRnY1WnhEdnVjSUtyS2VveWYzVkoxN0VtM25RLWNKbjFnRU5Najg1UVl3?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:00:25 GMT"
-      },
-      {
-        "title": "M11-CAR T细胞通过识别病毒颗粒与细胞相关糖蛋白B实现MHC非依赖性抗小鼠巨细胞病毒活性 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CTjBPVWlOckE5ckI2Zy1QMWpwWDY0U3Rwem9pcExvREo1N3UxYVV3SHptTlFCdUUwX3VlMFJwT2I4UjF1dUpaY04zdDlsMGtJNl9KSXNYYTk1NklGamZkSzM4allRN291aElPa193?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "巴西东北部公立医院医护人员鼻腔金黄色葡萄球菌定植流行病学与抗菌药物敏感性模式：一项横断面调查 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zenJUN1lDR0M1NURKUnNIYU9MdU9kU3hCVjZXYmhTa1cxbk5DVmFpRjJkeWRJeGhrblJXX1lfcDBnMXlMbTVSTmdJSnRGanA5T2l3THJxb2l0YUs1Ynd4SC1OTFo5Z0JDeDAxMWtR?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
-      },
-      {
-        "title": "健康饮食指数与肥胖人群骨骼健康：饮食质量对骨质量及骨折风险的调控作用 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rLXcxYTQ1c0xqeXh6cTRzVE5NRDRRQVViU0VuVVVGRDZ6LVl6eFhLWTYyeFJsVW1kVG1xUlB2TTlVVTdidElrZmExT3I5R1hCR0tEN0FXVzl6MlJhOHhkZEdsVDhhS0tCMmJ1UldB?oc=5",
-        "source": "生物通",
-        "published": "Thu, 05 Nov 2026 00:05:35 GMT"
+        "title": "术后放疗可使脑膜瘤复发风险减半 - 健康报",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NUzJBaUg0MUVnc0pnSjBpSzdaZjdDLWRBUlBPcTlPeUFnNjZMRVR2UlV4MjlMaEpXNkdsck5PZkxpMFoxeU1tbUR5M1NRdGZmcWtEb1MwRFdkblROS2c?oc=5",
+        "source": "健康报",
+        "published": "Tue, 03 Nov 2026 00:11:02 GMT"
       }
     ]
   },
